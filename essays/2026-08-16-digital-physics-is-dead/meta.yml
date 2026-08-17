@@ -1,0 +1,39 @@
+title: Digital Physics Is Dead
+subtitle: On what survived an audit of my own framework
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2026-08-16        # confirm on publish
+date_canonical: 2026-08-16        # when this copy was placed here
+
+platforms:
+  - name: medium
+    url:                           # pending — add on publish
+
+cover:
+  file: images/cover.jpg           # pending — pull from the published post
+  credit: Photo by Nayomi
+  location: Northern California
+  date_taken: 2021-10-06
+
+sources:
+  - label: Feeding Our Future (Minnesota)
+    publisher: U.S. Department of Justice, District of Minnesota
+    title: >-
+      U.S. Attorney Announces Federal Charges Against 47 Defendants in
+      $250 Million Feeding Our Future Fraud Scheme
+    date: 2022-09-20
+    url: https://www.justice.gov/archives/opa/pr/us-attorney-announces-federal-charges-against-47-defendants-250-million-feeding-our-future
+  - label: MiDAS (Michigan)
+    publisher: Michigan Department of Attorney General
+    title: >-
+      Class Action Settlement Approved by Court of Claims in
+      Bauserman v. State of Michigan Unemployment Insurance Agency
+    date: 2024-01-30
+    url: https://www.michigan.gov/ag/news/press-releases/2024/01/30/class-action-settlement-approved-by-court-of-claims
+
+references:
+  - label: Ostrom-percolation paper (Zenodo)
+    doi: 10.5281/zenodo.21209147
+
+license: CC-BY-4.0
