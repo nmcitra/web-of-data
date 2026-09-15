@@ -1,0 +1,31 @@
+title: The Trust Integral
+subtitle: On the Several Meanings of Trust, and the One That Can Be Measured
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2026-04-25
+date_canonical: 2026-09-15        # when this copy was placed here
+
+platforms:
+  - name: medium
+    url: https://chrisperkins505.medium.com/the-trust-integral-3209442798ad
+
+cover:
+  file: images/cover.jpg           # pending — pull from the published post
+
+sources:
+  - label: Bad is Stronger than Good (negativity asymmetry, 3–5×)
+    author: Roy F. Baumeister et al.
+    title: Bad Is Stronger Than Good
+    publisher: Review of General Psychology
+    date: 2001
+  - label: Gottman 5:1 ratio (marital stability, >90% predictive)
+    author: John M. Gottman
+    title: What Predicts Divorce?
+    date: 1994
+
+references:
+  - label: The acequia / la limpia — commons governance
+    note: Northern & southern New Mexico acequia tradition; the essay's central working instance.
+
+license: CC-BY-4.0
