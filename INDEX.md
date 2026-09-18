@@ -1,6 +1,6 @@
 # Index
 
-Newest first. 130 essays placed; the catalogue in `articles.ts` is the target set.
+Newest first. 129 essays placed; the catalogue in `articles.ts` is the target set.
 
 | date | essay | first published |
 |---|---|---|
@@ -55,7 +55,6 @@ Newest first. 130 essays placed; the catalogue in `articles.ts` is the target se
 | 2026-04-12 | [Gasketry](essays/2026-04-12-gasketry/) — ** | [Linkedin](https://www.linkedin.com/pulse/gasketry-chris-perkins-dxh2c) |
 | 2026-04-10 | [The Cost of Free Maps](essays/2026-04-10-the-cost-of-free-maps/) — *On the Natural Philosophy of Trust and the Lobo’s Return* | [Medium](https://medium.com/@chrisperkins505/the-cost-of-free-maps-c2c611a5b659) |
 | 2026-03-31 | [The Candlemaker’s Blindness](essays/2026-03-31-the-candlemakers-blindness/) — *On the Manufacture of Darkness, with Observations on the Bee* | [Medium](https://chrisperkins505.medium.com/the-candlemakers-blindness-21dfeab3e075) |
-| 2026-03-31 | [The candlemaker’s blindness is not ignorance. It is the structural consequence of manufacturing the darkness that makes your product necessary. He cannot see that the light is borrowed because he’s the one who sealed out the free version. He has never danced. He has never spent himself on a signal that costs real energy to produce. He has never opened a window. He has only ever sold the output.](essays/2026-03-31-the-candlemakers-blindness-is-not-ignorance-it-is-the-structural-consequence-of/) — ** | [Medium](https://chrisperkins505.medium.com/the-candlemakers-blindness-21dfeab3e075) |
 | 2026-03-28 | [The Naming](essays/2026-03-28-the-naming/) — *On levees, dictionaries, and the thing we still haven’t named* | [Medium](https://chrisperkins505.medium.com/the-naming-f83ac191e94a) |
 | 2026-03-27 | [The Other Exponential](essays/2026-03-27-the-other-exponential/) — *On ditches, exponentials, and the curve nobody is watching* | [Medium](https://chrisperkins505.medium.com/the-other-exponential-cc3114d56fa9) |
 | 2026-03-25 | [The Phase Transition](essays/2026-03-25-the-phase-transition/) — *On platforms, percolation, and why enshittification follows the same arc every time* | [Medium](https://chrisperkins505.medium.com/the-phase-transition-1c1ac72ab042) |
