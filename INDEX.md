@@ -1,6 +1,6 @@
 # Index
 
-Newest first. 88 essays placed; the catalogue in `articles.ts` is the target set.
+Newest first. 96 essays placed; the catalogue in `articles.ts` is the target set.
 
 | date | essay | first published |
 |---|---|---|
@@ -46,7 +46,7 @@ Newest first. 88 essays placed; the catalogue in `articles.ts` is the target set
 | 2026-05-06 | [What It Felt Like to Read Section 16.2](essays/2026-05-06-what-it-felt-like-to-read-section-16-2/) — *Convergence, not validation.* | [Substack](https://kinetictrust.substack.com/p/what-it-felt-like-to-read-section) |
 | 2026-05-05 | [Five Agentic AI Questions Your Board Should Ask Before Next Quarter's Meeting](essays/2026-05-05-five-agentic-ai-questions-your-board-should-ask-before-next-quarters-meeting/) — ** | [Linkedin](https://www.linkedin.com/pulse/five-agentic-ai-questions-your-board-should-ask-before-chris-perkins-1tfwc) |
 | 2026-05-05 | [Six Seven](essays/2026-05-05-six-seven/) — *On the Speed of Propagation, and the Slowness of Repair* | [Medium](https://chrisperkins505.medium.com/six-seven-dc23d701f526) |
-| 2026-05-04 | [Authority Without Gravity](essays/2026-05-04-authority-without-gravity/) — ** | [Medium](https://chrisperkins505.medium.com/authority-without-gravity-321d01368b68) |
+| 2026-05-04 | [Authority Without Gravity](essays/2026-05-04-authority-without-gravity/) — *On Identity, Authority, and the Ground Our Digital World Does Not Yet Provide* | [Medium](https://chrisperkins505.medium.com/authority-without-gravity-321d01368b68) |
 | 2026-04-25 | [The Trust Integral](essays/2026-04-25-the-trust-integral/) — *On the Several Meanings of Trust, and the One That Can Be Measured* | [Medium](https://chrisperkins505.medium.com/the-trust-integral-3209442798ad) |
 | 2026-04-24 | [The Enclosure of Trust](essays/2026-04-24-the-enclosure-of-trust/) — *Jon Stewart’s guests named labor and capital. The missing layer is what lets either of them still function.* | [Substack](https://kinetictrust.substack.com/p/the-enclosure-of-trust) |
 | 2026-04-19 | [The Gravity Problem](essays/2026-04-19-the-gravity-problem/) — ** | [Linkedin](https://www.linkedin.com/pulse/gravity-problem-chris-perkins-5vjcc) |
@@ -76,9 +76,13 @@ Newest first. 88 essays placed; the catalogue in `articles.ts` is the target set
 | 2026-01-20 | [Time to Good Decision](essays/2026-01-20-time-to-good-decision/) — ** | [Medium](https://medium.com/@chrisperkins505/time-to-good-decision-307710ad7a84) |
 | 2026-01-19 | [Pandemic Unemployment Assistance Fraud](essays/2026-01-19-pandemic-unemployment-assistance-fraud/) — *Origionally posted on LinkedIn on August 18, 2020* | [Medium](https://medium.com/@chrisperkins505/pandemic-unemployment-assistance-fraud-10fa84912efc) |
 | 2026-01-19 | [Pandemic Unemployment Assistance Fraud: Zero Trust (Part 1)](essays/2026-01-19-pandemic-unemployment-assistance-fraud-zero-trust-part-1/) — *Originally published on LinkedIn on January 4th, 2021* | [Medium](https://medium.com/@chrisperkins505/pandemic-unemployment-assistance-fraud-zero-trust-part-1-733cf4e39b06) |
+| 2025-12-29 | [The Voyage: 12 Days of Digital Physics](essays/2025-12-29-the-voyage-12-days-of-digital-physics/) — *A crossing from a failing harbor to an Internet governed by physics, not policy.* | [Medium](https://medium.com/@chrisperkins505/the-voyage-12-days-of-digital-physics-724ca6f63b44) |
 | 2025-12-25 | [Between the River and the Mountains](essays/2025-12-25-between-the-river-and-the-mountains/) — *Between the river in the Mesilla Valley and the Organ Mountains sits our home in the foothills.* | [Substack](https://kinetictrust.substack.com/p/between-the-river-and-the-mountains) |
 | 2025-12-24 | [Day 12: The Edge of the Map](essays/2025-12-24-day-12-the-edge-of-the-map/) — *What the map doesn't show.* | [Substack](https://kinetictrust.substack.com/p/day-12-the-edge-of-the-map) |
+| 2025-12-24 | [Fire](essays/2025-12-24-fire/) — *The Voyage, XII — What we pass forward* | [Medium](https://medium.com/@chrisperkins505/fire-ee78299a0420) |
 | 2025-12-23 | [Day 11: The Physics of the Internet](essays/2025-12-23-day-11-the-physics-of-the-internet/) — *There is no cloud, only other people's computers.* | [Substack](https://kinetictrust.substack.com/p/day-11-the-physics-of-the-internet) |
+| 2025-12-23 | [Landfall](essays/2025-12-23-landfall/) — *The Voyage, XI — What we carried, what we became* | [Medium](https://medium.com/@chrisperkins505/landfall-9eea3ddd7f43) |
+| 2025-12-22 | [Archipelago](essays/2025-12-22-archipelago/) — *The Voyage, X — Many islands, one ocean* | [Medium](https://medium.com/@chrisperkins505/archipelago-3b22711ada09) |
 | 2025-12-22 | [Day 10: Beyond Uptime](essays/2025-12-22-day-10-beyond-uptime/) — *Building systems that want to survive.* | [Substack](https://kinetictrust.substack.com/p/day-10-beyond-uptime) |
 | 2025-12-21 | [Day 9: The Archipelago](essays/2025-12-21-day-9-the-archipelago/) — *Why the single pane of glass is a single point of failure.* | [Substack](https://kinetictrust.substack.com/p/day-9-the-archipelago) |
 | 2025-12-20 | [Day 8: The Zeroth Law](essays/2025-12-20-day-8-the-zeroth-law/) — *This is not a suggestion.* | [Substack](https://kinetictrust.substack.com/p/day-8-the-zeroth-law) |
@@ -92,3 +96,7 @@ Newest first. 88 essays placed; the catalogue in `articles.ts` is the target set
 | 2025-12-12 | [The Constitution of Digital Physics](essays/2025-12-12-the-constitution-of-digital-physics/) — *The Laws That Govern the Age of Autonomous Agents* | [Medium](https://medium.com/@chrisperkins505/the-constitution-of-digital-physics-157e7e45c1b5) |
 | 2025-12-12 | [The Tether](essays/2025-12-12-the-tether/) — *How to Quantify the Weight of the Digital World* | [Medium](https://medium.com/@chrisperkins505/the-tether-2288a6b70973) |
 | 2025-12-11 | [Proof of Physics](essays/2025-12-11-proof-of-physics/) — *Why Identity Must Become a Verb* | [Medium](https://medium.com/@chrisperkins505/proof-of-physics-2d673d582a98) |
+| 2025-12-10 | [Sailing by Starlight](essays/2025-12-10-sailing-by-starlight/) — *When the Digital Universe Organizes Itself* | [Medium](https://medium.com/@chrisperkins505/sailing-by-starlight-d4cedff64ddf) |
+| 2025-12-03 | [The Ghost in the Machine](essays/2025-12-03-the-ghost-in-the-machine/) — *The Data Compass and the Dawn of Digital Sensation* | [Medium](https://medium.com/@chrisperkins505/the-ghost-in-the-machine-76f4b43f07ff) |
+| 2025-11-27 | [The Missing Law of Motion](essays/2025-11-27-the-missing-law-of-motion/) — *Why Digital Will Requires Digital Gravity* | [Medium](https://medium.com/@chrisperkins505/the-missing-law-of-motion-2044294ff551) |
+| 2025-11-17 | [The Experience Equation](essays/2025-11-17-the-experience-equation/) — *A New Language for the Immersive Experience at Humanity’s Largest Gatherings* | [Medium](https://medium.com/@chrisperkins505/the-experience-equation-74953a64c03f) |

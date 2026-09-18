@@ -1,0 +1,19 @@
+title: "The Voyage: 12 Days of Digital Physics"
+subtitle: "A crossing from a failing harbor to an Internet governed by physics, not policy."
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2025-12-29
+date_canonical: 2026-09-17
+
+platforms:
+  - name: kinetic-trust-protocol.net
+    url: https://kinetic-trust-protocol.net/writing/voyage-summary
+  - name: medium
+    url: https://medium.com/@chrisperkins505/the-voyage-12-days-of-digital-physics-724ca6f63b44
+
+cover:
+  file: images/cover.jpg
+  credit: "The Gorge Bridge, Northern New Mexico. I"
+
+license: CC-BY-4.0

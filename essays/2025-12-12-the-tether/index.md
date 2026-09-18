@@ -211,30 +211,56 @@ When an agent requests an action (e.g., “Deploy code,” “Delete database”
 5. Calculates E_trust = E_base × (1 — R)
 6. Compares E_trust to action’s required threshold:
 
-- 7. Returns decision: ALLOW or DENY
-- **Phase 3: Enforcement (Real-Time)**
-- The decision is enforced at the policy enforcement point (PEP):
-- API Gateway (for API calls)
+- Read data: E_trust ≥ 10
+- Write data: E_trust ≥ 30
+- Deploy code: E_trust ≥ 50
+- Delete database: E_trust ≥ 80
 
-- If E_trust < required threshold:
+7. Returns decision: ALLOW or DENY
+
+**Phase 3: Enforcement (Real-Time)**
+
+The decision is enforced at the policy enforcement point (PEP):
+
+- API Gateway (for API calls)
+- Service Mesh (for inter-service communication: Envoy, Istio)
+- IAM Policy Engine (for cloud resource access: AWS IAM, Azure RBAC)
+- Database Proxy (for database queries)
+
+If E_trust < required threshold:
+
 - Action is blocked
 - Agent receives error: “Trust insufficient: E_trust=32.9, required=50”
 - Event is logged (for audit and learning)
 
-- **Phase 4: Feedback Loop (Continuous)**
-- After each action (allowed or denied):
-- Log outcome (success, failure, error)
+**Phase 4: Feedback Loop (Continuous)**
 
-1. The Tether is a closed loop: Sensors → Risk → Trust → Enforcement → Feedback → Sensors.
-2. Latency Budget:
-3. Sensor ingestion: 1–10 seconds (background process)
-4. Risk calculation: <10 milliseconds (on-demand, cached)
+After each action (allowed or denied):
 
-- The physics of the environment is measured in real-time, but the decision is fast enough to feel instant.
-- The End of the Vacuum
-- This is the shift from Logical Security to Physical Security.
-- We are acknowledging that our code does not live in the cloud. It lives in a building, on a wire, surrounded by people, subject to heat and gravity.
-- By quantifying these forces, we stop guessing.
+1. Log outcome (success, failure, error)
+2. Update agent’s Proof of Resilience (if action succeeded in high-friction environment)
+3. Update E_base (agent’s intrinsic trust may increase or decrease)
+4. Detect anomalies (if agent’s behavior diverges from trajectory)
+
+The Tether is a closed loop: Sensors → Risk → Trust → Enforcement → Feedback → Sensors.
+
+Latency Budget:
+
+- Sensor ingestion: 1–10 seconds (background process)
+- Risk calculation: <10 milliseconds (on-demand, cached)
+- Enforcement: <1 millisecond (inline decision)
+- Feedback: 100 milliseconds (async logging)
+- Total overhead: ~11 milliseconds per action.
+
+The physics of the environment is measured in real-time, but the decision is fast enough to feel instant.
+
+## The End of the Vacuum
+
+This is the shift from Logical Security to Physical Security.
+
+We are acknowledging that our code does not live in the cloud. It lives in a building, on a wire, surrounded by people, subject to heat and gravity.
+
+By quantifying these forces, we stop guessing.
 
 We stop hoping the network will hold.
 
