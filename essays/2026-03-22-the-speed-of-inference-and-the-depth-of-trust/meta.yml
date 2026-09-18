@@ -1,0 +1,19 @@
+title: The Speed of Inference and the Depth of Trust
+subtitle: "On aquifers, adversaries, token factories, and the missing floor beneath the AI stack"
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2026-03-22
+date_canonical: 2026-09-17
+
+platforms:
+  - name: kinetic-trust-protocol.net
+    url: https://kinetic-trust-protocol.net/writing/speed-of-inference
+  - name: medium
+    url: https://medium.com/@chrisperkins505/the-speed-of-inference-and-the-depth-of-trust-56fd1099cdb0
+
+cover:
+  file: images/cover.jpg
+  credit: July 2022. Rocky Mountain National Park.
+
+license: CC-BY-4.0

@@ -1,0 +1,19 @@
+title: The Phase Transition
+subtitle: "On platforms, percolation, and why enshittification follows the same arc every time"
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2026-03-25
+date_canonical: 2026-09-17
+
+platforms:
+  - name: kinetic-trust-protocol.net
+    url: https://kinetic-trust-protocol.net/writing/phase-transition
+  - name: medium
+    url: https://chrisperkins505.medium.com/the-phase-transition-1c1ac72ab042
+
+cover:
+  file: images/cover.jpg
+  credit: "October 2021, San Francisco. A big barre"
+
+license: CC-BY-4.0

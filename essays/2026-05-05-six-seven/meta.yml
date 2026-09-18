@@ -1,0 +1,19 @@
+title: Six Seven
+subtitle: "On the Speed of Propagation, and the Slowness of Repair"
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2026-05-05
+date_canonical: 2026-09-17
+
+platforms:
+  - name: kinetic-trust-protocol.net
+    url: https://kinetic-trust-protocol.net/writing/six-seven
+  - name: medium
+    url: https://chrisperkins505.medium.com/six-seven-dc23d701f526
+
+cover:
+  file: images/cover.jpg
+  credit: "Somewhere in the American Southwest, on "
+
+license: CC-BY-4.0

@@ -1,0 +1,19 @@
+title: The Swarm and the Dance
+subtitle: "On bees, platforms, convergences, and what happens when the cost of the signal is zero"
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2026-03-24
+date_canonical: 2026-09-17
+
+platforms:
+  - name: kinetic-trust-protocol.net
+    url: https://kinetic-trust-protocol.net/writing/swarm-and-dance
+  - name: medium
+    url: https://chrisperkins505.medium.com/the-swarm-and-the-dance-b8c845235d49
+
+cover:
+  file: images/cover.jpg
+  credit: "The time we did a backyard beehive tour "
+
+license: CC-BY-4.0
