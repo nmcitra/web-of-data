@@ -1,8 +1,6 @@
 ’82 to ’28: A Body at Both Ends
 On the shrinking unit of judgment: door, network, badge, act.
 
-#### On the shrinking unit of judgment: door, network, badge, act.
-
 The Anodyne sat a full flight of stairs above Central Avenue in Albuquerque — old Route 66 in the front windows. In 2003 I was still in school, not yet anywhere near my first IT job, and I worked the door. I checked IDs, and every so often I put somebody out. That second duty you do with your hands.
 
 The stairs did most of the work. A mirror hung at the top of the stairwell, angled down the well, and I could watch every arrival climb before they ever saw me. Whether they used the rail. How fast they came. What the ascent looked like — steady, careful, loose, wrong. By the time someone reached the top and went for a wallet, I mostly knew.

@@ -1,8 +1,6 @@
 She Had Three Rules
 On we, us, and the people a system has to answer to
 
-#### On we, us, and the people a system has to answer to
-
 *For Nayomi. You had these before I had any of this.*
 
 Last November, I was wrapping up the manuscript for a book due out on November 17, 2026. On our way to vote, Nayomi turned the music down, and I asked her what was still needed.

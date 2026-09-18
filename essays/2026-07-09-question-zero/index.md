@@ -1,8 +1,6 @@
 Question Zero
 On the one question your team keeps skipping, because answering it means disagreeing
 
-#### On the one question your team keeps skipping, because answering it means disagreeing
-
 The claim was denied at 2:14am on Tuesday, with nobody in the building. A software agent read the file, weighed it against the policy, and closed it. The letter went out under a caseworker’s name, because the agent’s authority resolved to her account. That was the fastest way to give it standing, back when someone set it up. So the letter that reached the claimant carried her name at the bottom, and the claimant had never heard of the machine that wrote it.
 
 The claimant was a man whose physical therapy had been approved for eight weeks and cut off at six. He would spend a while not knowing why. He would call, and wait, and be told someone would review it.
