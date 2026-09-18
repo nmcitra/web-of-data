@@ -139,7 +139,7 @@ This is the passing.
 
 ## **In Practice**
 
-**For CISOs:** The Star Compass is at [https://github.com/nmcitra/ktp-rfc.](https://github.com/nmcitra/ktp-rfc.) It’s a standard, not a product. Fork it. Critique it. Implement it. The compass doesn’t steer your ship — it shows you the fixed points.
+**For CISOs:** The Star Compass is at <https://github.com/nmcitra/ktp-rfc.> It’s a standard, not a product. Fork it. Critique it. Implement it. The compass doesn’t steer your ship — it shows you the fixed points.
 
 **For Infrastructure Engineers:** Start with the RFCs. Understand the Context Tensor, the Trust Equation, the Zeroth Law. Then instrument one service. Enforce the physics. Measure what happens. Expand from there.
 

@@ -11,7 +11,7 @@ Here’s how I like to describe Cisco ISE — to use the example of a parking ga
 - Transport within the garage is like your corporate network. There can and should be internal controls to limit access to the ‘3rd floor’, as an example. Because that’s where your company’s fleet parks and guests and contractors should not be parking there or accessing those services.
 - Services are the spaces in the garage or the applications within your environment. These services hosted in your network are what users are trying to access.
 
-![https://www.archdaily.com/799662/the-par](images/figure-01.jpg)
+<https://www.archdaily.com/799662/the-parking-garage-that-moo>nlights-as-a-sledding-slope-white-arkitekter-plus-henning-larsen-architects/582e30d9e58eceb1c1000028-the-parking-garage-that-moonlights-as-a-sledding-slope-white-arkitekter-plus-henning-larsen-architects-photo
 
 So, what is Cisco ISE? ISE can fit into many places in this metaphor and here in this post, I will touch on a few of the major use cases as well as some special/advanced use cases that many organizations are looking to implement.
 
@@ -25,7 +25,7 @@ Let’s dive into this from the beginning. Imagine ISE being the gate arm mechan
 
 The examples above are use cases that are currently present today. Although unenforced, these are the business reasons for having a parking garage.
 
-![](images/figure-02.jpg)
+![](images/figure-01.jpg)
 
 ISE controls access to the network (and the garage). This is why many people refer to the technology as network admission control (NAC). Now, what we need to do in order to get serious about the enforcement of who parks where (or which user/endpoint access which service), we need to start mapping two things out and thoroughly documenting them.
 
@@ -90,9 +90,7 @@ IF
 
 THEN
 
-- Permit the car into the garage (it automatically drives to one of the twenty spots for used for green cars
-
-![](images/figure-03.jpg)
+Permit the car into the garage (it automatically drives to one of the twenty spots for used for green cars
 
 The technician has completed configuring the parking garage gate arm and rolling door. For the next two weeks, the configuration will be active but the mechanical arm and door will remain open. This is to ensure that valid cars are not mistakenly denied access — if tuning needs to happen, information gathered in this time frame will be used to tune and optimize the gate arm configuration.
 
@@ -100,7 +98,7 @@ After two weeks, the gate arm is lowered as is the rolling door. From this point
 
 That’s pretty simple if you only have a 3 story parking garage that support up to 300 parking spaces. However, most of my clients typically need to facilitate parking for tens of thousands of endpoints.
 
-![](images/figure-04.jpg)
+![](images/figure-02.jpg)
 
 The nuance grows with the number of endpoints. The endpoints change frequently and it’s typically not possible to have a parking lot attendant on foot any more.
 
@@ -108,39 +106,35 @@ The questions become: how do we automatically onboard new devices, assess their 
 
 How do we go about operationalizing the technology? We didn’t need this when we built the garage — what changed? The number of cars and their inherent threat has changed — which means less parking for your fleet, executives, employees, and guests.
 
-![](images/figure-05.jpg)
+![](images/figure-03.jpg)
 
 The parking garage architecture was built and implanted but the policy architecture development and deployments are happening now! Do you have a process for developing and deploying security policy in your access edge? How about the data center edge? Within the cloud? How about your remote workforce using the internet to connect?!
 
-![](images/figure-06.jpg)
+![](images/figure-04.jpg)
 
 How do you plan and anticipate every kind of breach? Is it possible? Re-assessment of risk is key. Threat, vulnerability, and behavior can all be monitored and tracked. And they should be.
 
 A pumper truck that was empty when it arrived, pumped water and when the tanker was leaving, it fell through the parking garage top deck.
 
-![](images/figure-07.jpg)
+![](images/figure-05.jpg)
 
 A pile of soil was dropped off and placed at the corner of the parking garage. There was some rooftop improvements in this building and the soil was needed for a rooftop garden. That night it had rained and the soil soaked up a lot of water making it too heavy! The top deck failure created a pancake failure that took out 13 floors. Thankfully no one was hurt but many cars were damaged and the garage was shut down for 68 days. All cars were locked in for 68 days.
 
-![](images/figure-08.jpg)
+![](images/figure-06.jpg)
 
 What is a policy with no enforcement? (I feel like there should be a funny answer to this! What do you think?!)
 
-![](images/figure-09.jpg)
-
 Can that car be towed? I’m not sure, is there a warning sign / did they sign the EULA? Is there a law (or policy) that prohibits that Beamer to park there? Is the owner of the Beamer the owner of that building? Context matters and needs to be evaluated often.
-
-![](images/figure-10.jpg)
 
 How do you deal with this?! Can you leave a comment on what your metaphor is for this?!
 
 One final question on the parking garage metaphor… what if you want to collect payment? How do you ensure payment and compliance?
 
-![](images/figure-11.jpg)
+![](images/figure-07.jpg)
 
 Enforcement.
 
-![](images/figure-12.jpg)
+![](images/figure-08.jpg)
 
 Thanks for reading. I hope you enjoyed one of my favorite metaphors around Cisco ISE.
 
@@ -148,10 +142,10 @@ Before I end the post, I wanted to raise a few questions when we have other elem
 
 Here we can see a variety of tire tracks (or network traffic patterns) that can be used for multiple reasons. We can see what the source and destination was. We can see what kind of endpoint was driving through. We can see how long this network traffic has been present or if it’s a new track. We can see the direction or the traffic and understand the route.
 
-![](images/figure-13.png)
+![](images/figure-09.jpg)
 
 So, yes… I had to write about a snowy ISE garage in a post. I hope you enjoyed and remember: we all leave tracks behind. Where will you go?
 
-![](images/figure-14.jpg)
+![](images/figure-10.jpg)
 
-*Originally published at* [*https://www.linkedin.com*](https://www.linkedin.com/pulse/isey-parking-garage-metaphor-chris-perkins/) *on March 25th, 2020.*
+*Originally published at* <*https://www.linkedin.com*> *on March 25th, 2020.*

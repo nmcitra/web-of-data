@@ -111,7 +111,7 @@ The breach that matters most is often the one that formed in the denominator whi
 
 The model has terms under which it would fail. If high classification failure rates do not predict backlog growth, appeal volumes, or staff burnout — the model fails.
 
-If repair capacity does not moderate the transition from threat to breach — the model fails. If the hysteresis prediction is wrong, and systems snap back symmetrically when pressure drops — the model fails. These are not hypothetical objections. They are the tests that would force architectural revision. The falsification register is at [https://kinetic-trust-protocol.net/research/falsification](https://kinetic-trust-protocol.net/research/falsification).
+If repair capacity does not moderate the transition from threat to breach — the model fails. If the hysteresis prediction is wrong, and systems snap back symmetrically when pressure drops — the model fails. These are not hypothetical objections. They are the tests that would force architectural revision. The falsification register is at <https://kinetic-trust-protocol.net/research/falsification>.
 
 But the model also carries a gap it cannot close from inside: it assumes that the people running it can see all of q. If the classification failure rate is distributed across two agencies — Todd’s half in the network logs, Tiffany’s half in the determination queue — and neither half flows to a shared analysis, the instrument is answering a partial question correctly.
 

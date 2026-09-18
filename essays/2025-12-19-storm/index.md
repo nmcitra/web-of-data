@@ -3,7 +3,7 @@ The Voyage, VII — What survives reveals what’s real
 
 This is Day 7 of a 12-part series on building an Internet governed by physics instead of policy. Start at [Day 1: Departure](https://medium.com/@chrisperkins505/departure-525049f52c23).
 
-> “The bison does not run from the storm. It walks into it.” **— Wisdom from the Plains**
+“The bison does not run from the storm. It walks into it.” **— Wisdom from the Plains**
 
 The sky has gone dark.
 

@@ -19,7 +19,7 @@ In a recent Government Accountability Office (GAO) report, the estimated total a
 
 In 2022, the US median household income was $74,580 (pre-tax)**[2][3]**. If you take the estimated amount lost to fraud across UI programs, we are talking about 1.4 billion households. That’s the size of San Antonio, Texas and nearly the size of Phoenix, Arizona. If we were talking about a city, it’d be the 6th or 7th largest city in the US.
 
-> Fraud: the deliberate misrepresentation of information and identity for an unfair or unlawful gain. Fraud activities may involve manipulation, falsification, or alteration of records, intentional omission, or the misapplication of organizational policies (i.e., insider risk).
+Fraud: the deliberate misrepresentation of information and identity for an unfair or unlawful gain. Fraud activities may involve manipulation, falsification, or alteration of records, intentional omission, or the misapplication of organizational policies (i.e., insider risk).
 
 So, how much was paid out across these programs that went to eligible recipients? According to the GAO, 85% or approximately $630 of the $765 billion. According to the report, nearly $7 billion has been recovered, although data is still being analyzed and investigations are underway.
 
@@ -27,7 +27,7 @@ The question of how much could have been prevented always comes up. Hindsight is
 
 Imagine the two of us sitting in an office cafe and the following conversation ensues:
 
-![For illustrative and experimental purpos](images/figure-01.png)
+![For illustrative and experimental purposes only!](images/figure-01.png)
 
 Following the profound revelations about the extent of fraud, a detailed exploration of these schemes is crucial — focusing on the perpetrators as well as the systemic weaknesses that facilitated these breaches.
 
@@ -47,7 +47,7 @@ T[here](https://www.linkedin.com/smart-links/AQG6Gmm_PmmNaw) are four key groups
 
 The table below outlines these groups, their primary motivations, tactics, behavior patterns, and potential impact.
 
-![Table of Fraud Actor Groups and other de](images/figure-02.png)
+![Table of Fraud Actor Groups and other details.](images/figure-02.png)
 
 I put these profiles together that outline the details of these fraud actors. You can download the profile document here.
 
@@ -71,7 +71,7 @@ When a threat actor steals identities from CompanyXYZ, they list these identitie
 
 In order for fraud actors to be successful in stealing money, there are a lot of tools, systems, and other infrastructure required to pull off fraud at a global scale. For example, fraud actors typically use money laundering (aka money mule) accounts opened with fake or stolen identities. Add to this, criminals are also using identity information on children or people who are now deceased.
 
-![“Children are the number 1 victims of id](images/figure-06.png)
+![“Children are the number 1 victims of identity theft; 1 in 4 will be victimized. Here we see the Telegram criminal group, Shark Tank, offering children’s stolen identities.” Brett Johnson, host of podcast: The Brett Johnson Show.](images/figure-06.png)
 
 Taking a closer look at the current landscape reveals the methods and tactics that make fraud actors successful.
 

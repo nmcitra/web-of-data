@@ -75,7 +75,7 @@ He then extended the same distinction to the substrate itself. Capacity, in his 
 
 After reading my mention of the acequia, Hanmer D’Elía came back with a reading of la limpia that is sharper than the one I had:
 
-> “The limpia is not an update mechanism. The rules don’t change. What changes is the community’s capacity to carry those rules into another season of scarcity and conflict. Embodied co-presence, shared material stake, enforceable obligation, time. People who were in conflict last year standing next to each other in the ditch and digging. That is structured repair.”
+“The limpia is not an update mechanism. The rules don’t change. What changes is the community’s capacity to carry those rules into another season of scarcity and conflict. Embodied co-presence, shared material stake, enforceable obligation, time. People who were in conflict last year standing next to each other in the ditch and digging. That is structured repair.”
 
 The mayordomo does not change the law. The acequia does not update its rules during la limpia. What la limpia does is rebuild the capacity of the community to carry the existing rules through another year of stress. The work is unglamorous because the work is not innovation. The work is the renewal of the substrate that lets the rules continue to mean what they mean.
 

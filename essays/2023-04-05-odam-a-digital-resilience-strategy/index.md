@@ -1,28 +1,31 @@
 ODAM: a Digital Resilience Strategy
 
 
-![[ODAM](https://odam.community/assets/Splunk_ODAM_Overview.pdf) Overview](https://miro.medium.com/v2/1*hMgYIgAzdVvI55pn-RF_sA.png)
+O  
+perationalizing Data Analytics Methodology ([ODAM](https://odam.community/assets/Splunk_ODAM_Overview.pdf)) is a game-changer for organizations seeking to harness the power of data analytics to drive business value. This comprehensive methodology guides organizations on defining, planning, executing, and measuring data analytics initiatives, ensuring alignment with strategic goals and objectives. By operationalizing data analytics, organizations can make data-driven decisions that drive business value across multiple departments and use cases.
+
+![ODAM Overview](images/figure-01.png)
 
 ### ODAM Overview
 
 ODAM is not just about data analytics, but also about increasing digital resilience. With a focus on building a strong data analytics program (also known as the Analytics Center of Excellence, or ACE), ODAM helps organizations improve their security posture and increase their operational resiliency. Organizations are deploying the full power of data analytics using ODAM, a progressive framework that guides them through the journey from data discovery to mastery and innovation.
 
-> ➔ **Discovery:** Starting Point
-> ➔ **Foundation:** Building Blocks
-> ➔ **Progression:** Stepping Stones
-> ➔ **Mastery:** Milestones
-> ➔ **Innovation:** Pioneers
+1. ➔ **Discovery:** Starting Point
+2. ➔ **Foundation:** Building Blocks
+3. ➔ **Progression:** Stepping Stones
+4. ➔ **Mastery:** Milestones
+
+➔ **Innovation:** Pioneers
 
 This framework assists organizations in defining, planning, executing, and measuring data analytics initiatives, including security analytics, compliance, anti-fraud efforts, IT operations, and application performance monitoring. ODAM also identifies opportunities for automating manual, repetitive security processes, leading to increased efficiency and cost savings. It is a comprehensive and structured approach to addressing data analytics and security challenges, designed to help organizations mature and operationalize their data analytics capabilities.
 
 ### How Does ODAM Work?
 
-1. Define the business problem or challenge.
-2. Identify data sources that may contain the data to help answer questions.
-3. Access and analyze the data to answer questions, identify potential issues, or uncover opportunities for increased efficiency.
-4. Take action based on the most up-to-date and accurate insights assembled by your organization.
-
-## Using ODAM to Prepare for Splunk’s [Mission Control](https://www.splunk.com/en_us/products/mission-control.html?locale=en_us)
+Define the business problem or challenge.  
+Identify data sources that may contain the data to help answer questions.  
+Access and analyze the data to answer questions, identify potential issues, or uncover opportunities for increased efficiency.  
+Take action based on the most up-to-date and accurate insights assembled by your organization.  
+Using ODAM to Prepare for Splunk’s [Mission Control](https://www.splunk.com/en_us/products/mission-control.html?locale=en_us)
 
 Splunk’s release of Mission Control promises to revolutionize the way organizations approach their security operations. This cutting-edge software solution unifies the security operations experience, streamlining detection, investigation, and response to threats. To maximize the benefits of this powerful tool, organizations should first implement ODAM.
 

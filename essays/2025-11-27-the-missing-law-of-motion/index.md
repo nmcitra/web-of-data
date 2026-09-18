@@ -224,4 +224,4 @@ The question is: ‘*What will the environment allow?*’
 
 And right now, the answer is: **Everything**. That’s the problem we solve next.
 
-Continue to part II: https://medium.com/@chrisperkins505/the-ghost-in-the-machine-76f4b43f07ff
+Continue to part II: <https://medium.com/@chrisperkins505/the-ghost-in-the-machine>-76f4b43f07ff

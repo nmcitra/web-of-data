@@ -9,7 +9,7 @@ But this moment — this is why we do it.
 
 I pull out my phone to capture Robert Trujillo standing “right there!!”, the raw energy.
 
-![Robert Trujillo and Lars Ulrich of Metal](images/figure-01.jpg)
+![Robert Trujillo and Lars Ulrich of Metallica.](images/figure-01.jpg)
 
 In that moment, I’m not an architect of networks; I’m just a fan, asking the same implicit question as everyone else around me: Will this work when I need to call my best friend because we got separated in the mosh pit? When I need to reconnect with them and set a rendezvous point, *will this work?* When my phone is about to die and I don’t have a way of charging it, *will the texts go through?* *Can I call him and discuss the plans?*
 
@@ -26,6 +26,8 @@ For twenty years, I’ve been on the other side of that question (the back-of-ho
 We have entered a new era. The line between the physical and digital experience has blurred into nonexistence. We don’t just watch a concert; we co-create it, our phones held aloft like a million tiny spotlights, broadcasting our unique perspective to the world.
 
 The event is no longer just what happens on stage; it’s the sum of 80,000+ individual, interconnected experiences. This is the [Web of Data](https://medium.com/@chrisperkins505/web-of-data-4e4272c7031c).
+
+The Lumineers **Automatic World Tour**. Empower Field @ Mile High, Denver, Colorado. August 2nd, 2025.
 
 Nowhere is this more apparent than in the rise of destinations like Meow Wolf (check out the [Meow Wolf origin story](https://meowwolf.com/about/origin-story)!), which are not events you attend, but narrative worlds you enter and inhabit. There, technology is not a convenience; it is woven into the fabric of the experience, a digital layer in convergence with reality. This is essential to the story.
 
@@ -57,8 +59,6 @@ Now imagine a different scenario.
 
 You have the Universal Experience Equation (UEE) running in real time. The moment those scanners start failing, everyone on your team sees the same thing: the E score for the “ticket scanning” experience is dropping swiftly from 94 to 67. You don’t need to guess. You don’t need to argue. The UEE immediately shows you that Accessibility — the ability to connect — is the problem. Your team drills down with end-to-end visibility and finds the ISP packet loss in minutes, not hours. The war room becomes a coordinated response, not a blame game.
 
-![](images/figure-02.png)
-
 This is the power of a common language and a shared understanding.
 
 > “When the many are reduced to one, to what is the one reduced?” — Koan
@@ -69,11 +69,8 @@ To solve this, we need a common language that translates millions of technical m
 
 After years of watching this pattern repeat, I realized we needed a new language. A Rosetta Stone for translating infinite technical complexity into a single, human-centric truth. That language is an equation:
 
-```
-E = (A × 0.4) + (R × 0.3) + (Q × 0.3)
-```
-
-### Pillar 1: Accessibility (A) — Can the Moment Begin?
+E = (A × 0.4) + (R × 0.3) + (Q × 0.3)  
+Pillar 1: Accessibility (A) — Can the Moment Begin?
 
 For the mother, this is everything. Can she even start the livestream? That single bar of connectivity represents her gateway to sharing this moment. If she can’t connect, the experience is over before it begins. Accessibility is binary in human perception, which is why it carries the most weight.
 
@@ -97,11 +94,9 @@ But even this equation isn’t enough. The mother’s experience is not the same
 
 This is where we add a new dimension. The E score must be personalized. The needs during the Opening Ceremony are different from a final swim race. The back-of-house security team’s E score for their comms network is just as critical as the front-of-house fan’s E score for their social media post. A truly resilient system understands and adapts to these variables, ensuring the right experience is delivered to the right person at the right time.
 
-```
-Weights adjusted:
-```
-
-## How to Start: Your First E Score
+Weights adjusted:  
+E = (A × 0.3) + (R × 0.4) + (Q × 0.3)  
+How to Start: Your First E Score
 
 This isn’t a complex, multi-year transformation. You can start this journey on Monday.
 
@@ -146,24 +141,21 @@ The Universal Experience Equation provides more than a score; it provides a new,
 - QoE Fairness → **Experience Equity**
 - User Satisfaction Score → **Digital Delight**
 
-### Risk
-
-- Security Vulnerabilities → **Trust Foundation**
-- Operational Maturity → **Process Excellence**
-- Compliance Adherence → **Regulatory Confidence**
-- System Redundancy → **Failure Immunity**
-
-### **Context**
-
-- Use Case Alignment → **Purpose-Built Performance**
-- Bandwidth Optimization → **Smart Resource Allocation**
-- Service Prioritization → **Critical-First Service**
-- Guest Profile Adaptation → **Personalized Experience**
-- Accessibility Support → **Universal Access**
-- Priority Routing → **VIP Treatment**
-- Event Phase Recognition → **Intelligent Anticipation**
-- Predictive Scaling → **Proactive Capacity**
-- Emergency Response → **Crisis Readiness**
+Risk  
+Security Vulnerabilities → **Trust Foundation**  
+Operational Maturity → **Process Excellence**  
+Compliance Adherence → **Regulatory Confidence**  
+System Redundancy → **Failure Immunity**  
+**Context**  
+Use Case Alignment → **Purpose-Built Performance**  
+Bandwidth Optimization → **Smart Resource Allocation**  
+Service Prioritization → **Critical-First Service**  
+Guest Profile Adaptation → **Personalized Experience**  
+Accessibility Support → **Universal Access**  
+Priority Routing → **VIP Treatment**  
+Event Phase Recognition → **Intelligent Anticipation**  
+Predictive Scaling → **Proactive Capacity**  
+Emergency Response → **Crisis Readiness**
 
 Twenty years ago, I walked into a classroom and learned the language of networks. Today, I stand in stadiums with 80,000 other people, my ears ringing, my “phone” (it’s more than just a phone) in-pocket, asking the same question everyone else is asking: Will this work?
 

@@ -3,7 +3,7 @@ Part II of The Digital Battleground: Uniting Cybersecurity and Fraud Prevention 
 
 In order to get ahead of the problems, and in an effort to help us all communicate more effectively, I created this list of layers where we can describe threats, vulnerabilities, actors, risks, mitigations, and areas with low visibility.
 
-![So far I’ve **identified** these layers of c](images/figure-01.png)
+![So far I’ve **identified** these layers of complexity.](images/figure-01.png)
 
 Within each level of our anti-fraud defenses, critical conversations unfold concerning the extent of vulnerabilities, the sufficiency of resources, and the interplay between layers. It’s essential to consider how each layer not only stands on its own but also contributes to the strength of the overall structure.
 
@@ -21,7 +21,7 @@ Each layer represents a different aspect or level of security infrastructure tha
 
 The **Identity Verification Layer (IVL)** serves as a fundamental battleground in the fight against fraud. It’s where individual identification intersects with systemic defense, and its robustness runs through all other layers. By employing a continuous, risk-based approach, state authorities can leverage ongoing analytics to dynamically update an individual’s *Identity Assurance Score*. This score then could become a living metric, informing and involved with every interaction across state government regardless if in person, via snail mail, over the phone, or digitally.
 
-![Identity Assurance High-Level Process Fl](images/figure-02.png)
+![*Identity Assurance High-Level Process Flow*](images/figure-02.png)
 
 ## Identity Verification Layer
 
@@ -81,10 +81,10 @@ The interwoven structure of the phases, underpinned by data analytics tools, sta
 
 **Next**
 
-- Part III: The Future State: Fortifying Security Through Cyber-Fraud Convergence
+Part III: The Future State: Fortifying Security Through Cyber-Fraud Convergence
 
 **Previous**
 
-- Part I: Who Are The Threat Actors And What Are Their Schemes?
+Part I: Who Are The Threat Actors And What Are Their Schemes?
 
 Please note: the views and opinions expressed in this post are those of the author (Chris Perkins) and do not necessarily reflect the official policy or position of my employer, or any other agency, organization, or company. Assumptions made in this post are not reflective of the position of any entity other than the author — and, since we are critically-thinking human beings, these views are always subject to change, revision, and rethinking at any time.

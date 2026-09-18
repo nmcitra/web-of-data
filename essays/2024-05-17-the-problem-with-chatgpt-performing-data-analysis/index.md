@@ -27,16 +27,17 @@ Equally important is understanding the significance of the data results generate
 
 As our cultural approach to data evolves, becoming more data literate is inevitable. This progression is critical for effectively reading, working with, and communicating data insights.
 
-![Analytics Center of Excellence (ACE)](images/figure-01.png)
+![](images/figure-01.jpg)
 
-## Strategic Plans for Analyzing Data
+[Analytics Center of Excellence (ACE)](https://odam.community/static/part-1/ace.webp)  
+Strategic Plans for Analyzing Data
 
 In my article, “Strategy to Signal: Mapping out the Data Landscape for State Government Innovation,” I explored the four levels of data analytics and the three data layers. These frameworks play a crucial role in communicating and managing the intricacies of data analytics while utilizing (meta)data for innovation.
 
-![The intersection of…](images/figure-02.jpg)
+[The intersection of…](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*TNpqg2lfGdIq_LX1T5Ex9g.png)
 
 Ultimately, I believe organizations need to form data literacy programs yesterday and move data security measures closer to the user (think: browser).
 
-![Where are you and where are you going?!](images/figure-03.png)
+![Where are you and where are you going?!](images/figure-02.png)
 
 Please note: the views and opinions expressed in this post are those of the author (Chris Perkins) and do not necessarily reflect the official policy or position of my employer, or any other agency, organization, or company. Assumptions made in this post are not reflective of the position of any entity other than the author — and, since we are critically-thinking human beings, these views are always subject to change, revision, and rethinking at any time.

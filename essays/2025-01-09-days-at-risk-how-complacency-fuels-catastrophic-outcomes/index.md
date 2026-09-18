@@ -5,10 +5,13 @@ From Wildfires to Data Breaches — How One Minor Spark Can Ignite Widespread Di
 
 **This article:**
 
-1. The Reality We Face
-2. The Systemic Problems
-3. The Call to Action
-4. Building the Future
+## The Reality We Face
+
+## The Systemic Problems
+
+## The Call to Action
+
+## Building the Future
 
 As cybersecurity professionals, we are familiar with the terms “firefighting” and “putting out fires,” among others.
 
@@ -68,13 +71,14 @@ As a society, we also tell ourselves stories that comfort us. Like, how we’ll 
 
 Years of “we’ll get to it soon” are catching up and catching up fast. Although it seems like we are being blind-sided, we are not. The catastrophes arise through mundane decisions, usually through the path of least resistance.
 
-- A cooking fire on Pacific Coast Highway → Most of Malibu burns → $50 billion+ in losses, lives lost
-- A skipped MFA requirement → K-12 district breach → 60,000,000 student records exposed
-- A postponed pipeline inspection → Major leak → City’s water supply contaminated
-- A missed security patch → Hospital ransomware → Emergency rooms diverted and lives lost
-- A default password unchanged → Power grid breach → Cities go dark
-- A misconfigured firewall → Healthcare database breach → Million patient records leaked
-- A single compromised password → Election system breach → Voter database accessed, propaganda about election insecurity spreads
+1. A cooking fire on Pacific Coast Highway → Most of Malibu burns → $50 billion+ in losses, lives lost
+2. A skipped MFA requirement → K-12 district breach → 60,000,000 student records exposed
+3. A postponed pipeline inspection → Major leak → City’s water supply contaminated
+4. A missed security patch → Hospital ransomware → Emergency rooms diverted and lives lost
+
+A default password unchanged → Power grid breach → Cities go dark  
+A misconfigured firewall → Healthcare database breach → Million patient records leaked  
+A single compromised password → Election system breach → Voter database accessed, propaganda about election insecurity spreads
 
 These aren’t accidents. They’re not bad luck. They’re not even surprises.
 
@@ -110,7 +114,7 @@ Catastrophe = Risk greater than 801
 
 Anything about 801 is considered catastrophic.
 
-![From the article where I introduced a co](images/figure-01.png)
+![From the article where I introduced a consensus-building framework and a modern metric: “Days at Risk.”](images/figure-01.png)
 
 When a single spark leads to billion-dollar losses, we have to ask whether we truly value prevention. The match that starts the blaze costs nothing, yet the inferno it ignites can consume entire neighborhoods, communities and in the case of the recent California fires, it can cost lives. In digital terms, the lack of prevention can expose thousands of children’s personal data by not having a second factor for authentication (something you know, have, or something you are).
 
@@ -148,7 +152,7 @@ The mathematics of priority is merciless.
 
 It doesn’t care about good intentions or public statements. It measures only actions, resources and time invested. By this objective calculus, our true priorities become crystal clear.
 
-> What is prevention’s true place in your hierarchy of concerns?
+What is prevention’s true place in your hierarchy of concerns?
 
 In the end, priorities aren’t what we say they are. They’re what we prove they are, day by day, decision by decision, dollar by dollar. And right now, we’re proving that we prefer to fight fires rather than prevent them (figuratively and actually).
 
@@ -182,10 +186,10 @@ A small school sits at the edge of a brush-filled canyon — peaceful on the sur
 
 One afternoon in January, 2025, a spark leapt the fence and ignited the tinder-dry grass. By sundown, flames tore through classrooms and homes alike, forcing firefighters into a battle that never should have happened. And the damage? Shocking but predictable:
 
-- Classrooms reduced to ash
-- Emergency funds drained for temporary structures
-- Water damage from firefighting efforts
-- Legal / insurance claims piling up
+Classrooms reduced to ash  
+Emergency funds drained for temporary structures  
+Water damage from firefighting efforts  
+Legal / insurance claims piling up
 
 **We don’t choose whether we pay** — only when and **how much**. We can plan it on our terms (preventive, manageable) or pay it all at once on disaster’s terms (urgent, excessive and destructive).
 
@@ -195,9 +199,9 @@ One afternoon in January, 2025, a spark leapt the fence and ignited the tinder-d
 
 It’s time to move from performative to effective action:
 
-- **Clear the Underbrush:** Implement structured prevention for wildfires — clear dangerous brush, build robust firebreaks and continuously maintain them.
-- **Strengthen the Infrastructure:** Train security teams, apply multi-factor authentication and patch known vulnerabilities.
-- **Follow Through:** Stop admiring the problem; concrete, daily efforts reduce the risk.
+**Clear the Underbrush:** Implement structured prevention for wildfires — clear dangerous brush, build robust firebreaks and continuously maintain them.  
+**Strengthen the Infrastructure:** Train security teams, apply multi-factor authentication and patch known vulnerabilities.  
+**Follow Through:** Stop admiring the problem; concrete, daily efforts reduce the risk.
 
 We don’t need more endless meetings or toothless resolutions. We need to act with urgency and resolve — removing the hazards that feed these crises before they ignite. By investing in real prevention work, we minimize the disasters we’d otherwise scramble to contain.
 
@@ -217,9 +221,9 @@ The challenge isn’t predicting the fallout — it’s acting on what we alread
 
 As long as rewards are tied to short-term wins and accountability measures don’t have any real teeth, we’ll remain stuck in a cycle of crisis response.
 
-> Boards won’t choose people over profits until they and their peers start serving jail time instead of paying fines.
+Boards won’t choose people over profits until they and their peers start serving jail time instead of paying fines.
 
-![Example chart of cybersecurity risk regi](images/figure-02.png)
+![Example chart of cybersecurity risk register items with their associated rating for Likelihood and Impact. Days at Risk is shown over time (30, 100, 365 days).](images/figure-02.png)
 
 ## Conclusion
 

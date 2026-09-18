@@ -15,8 +15,8 @@ Tactical response and continuous enhancement, or **TRACE**, is a critical compon
 
 Resolution and optimization (**ROO**) activities are critical components of the SHIFT framework, including factors such as escalation, legal coordination, remediation, and prevention. This framework component aims to reduce risk over an extended period of time and enhance detection capabilities. It methodically incorporates strategies for elevating key concerns, giving legal advice, conducting effective remedial actions, and improving processes to maximize efficiency and impact.
 
-> ROO — Think: Kanga-roo…. just kidding.
-> Think: Long-term, always improving the system.
+ROO — Think: Kanga-roo…. just kidding.  
+Think: Long-term, always improving the system.
 
 A comprehensive workflow designed especially for state agency fraud prevention and detection is at the heart of SHIFT. This process includes both the initial handling of incidents and continuous strategy improvement for any fraud prevention program within the state. This framework has several key components (or modules) that help state agencies align processes, with data, with tools. Key components covered in this article are:
 
@@ -26,7 +26,7 @@ A comprehensive workflow designed especially for state agency fraud prevention a
 
 SHIFT strengthens the public’s trust by uniting different state departments in a joint effort to combat financial fraud.
 
-## Rapid Reaction: Resolution, Escalation, and Adaptive Control Tactics
+Rapid Reaction: Resolution, Escalation, and Adaptive Control Tactics
 
 The SHIFT framework’s immediate response component focuses on responding quickly and effectively to fraud incidents as they occur. This aspect ensures that state agencies are prepared to respond decisively in order to mitigate potential damage and adapt quickly to changing fraud scenarios.
 
@@ -62,7 +62,7 @@ The SHIFT framework’s long-term improvement component is all about how fraud d
 - **Long-Term Strategic Planning:** Focused on the strategic vision of fraud management within state agencies, ensuring that measures are proactive and forward-looking.
 - **Collaboration and Knowledge Sharing:** Encourages the sharing of insights and strategies with other departments and agencies, fostering a collaborative approach to continuously improve fraud detection and prevention.
 
-## Post-Detection Resolution Operations and Optimization
+Post-Detection Resolution Operations and Optimization
 
 The SHIFT framework’s post-detection fraud case management component focuses on holistic case resolution while also optimizing overall fraud management processes. This aspect of the framework ensures that each resolved case provides valuable insights for improving the system’s future resilience and efficiency.
 
@@ -117,6 +117,8 @@ Risk-based evaluations have been around for a while, and a lot of tools and proc
 
 > This little example is incredibly powerful when you scale things out to terabytes or petabytes of data.
 
+One other note: I’m referring to both structured and unstructured data.
+
 If we can do those two things well, the possibilities for the state agency open up. The data is telling the story, whether you’re collecting and analyzing it or not.
 
 One of the best things about risk-based analytics is that it can sort risks by how bad they are, how likely they are to happen, or even how they might affect things. This sorting of tasks into priorities makes sure that resources are used more wisely, putting more investigation into high-risk areas and lessening the attention that is needed on low-risk activities. This method not only makes things run more smoothly, but it also makes fraud management programs more effective by letting people respond faster to the most dangerous fraud attempts.
@@ -141,7 +143,7 @@ Before we get into how I think states will be using AI in the future, let’s di
 
 Artificial intelligence (AI) is the field of technology that lets machines think and act like people. Even though they aren’t fully human-intelligent, they can do things that humans can’t. AI is the combination of art, science, and math that makes machines (mostly computers) able to do things that humans normally have to understand and decide how to do.
 
-![Table showing human vs. AI characteristi](images/figure-01.png)
+![Table showing human vs. AI characteristics.](images/figure-01.png)
 
 Another point that I’ll save for a future article, perhaps. Which is, **what about human willingness, availability, and ability?** Computers can scale up to the extent that they have compute, memory, power (energy), storage, and connectivity. The concepts of centralization and decentralization are important considerations that I’d like to weave into here. Please [ping me](https://www.linkedin.com/in/cperkins2/) or leave a comment if you have thoughts on this!
 
@@ -176,7 +178,7 @@ The matrix below provides state agencies with critical answers to the following 
 3. What could happen?
 4. What should we do about it?
 
-![Table showing the three layers to data a](images/figure-02.png)
+Table showing the three layers to data and the four levels of data analytics.
 
 Looking at fraudulent attack scenarios in this context is the best way to highlight the importance of each intersection in the chart above.
 
@@ -189,34 +191,30 @@ Looking at fraudulent attack scenarios in this context is the best way to highli
 3. **Predictive:** Forecasting potential ATO incidents based on unusual login activity trends.
 4. **Prescriptive:** Implementing real-time alerts for suspicious login attempts.
 
-### The Semantics Layer (data interpretation).
-
-1. Descriptive: Categorizing types of user activities post-login.
-2. Diagnostic: Analyzing deviations from normal user behavior, like unexpected money transfers.
-3. Predictive: Projecting future ATO risks based on behavior pattern changes.
-4. Prescriptive: Advising on proactive measures like user verification steps for high-risk actions.
-
-### The Logic Layer (data analysis and decision-making).
-
-1. Descriptive: Summarizing historical data on ATO incidents and understanding common characteristics.
-2. Diagnostic: Interpreting the context of ATO events, and understanding how and why they occur.
-3. Predictive: Developing models to predict ATO risks based on comprehensive data analysis.
-4. Prescriptive: Formulating strategic plans and policies to enhance overall system security against ATO fraud.
+The Semantics Layer (data interpretation).  
+Descriptive: Categorizing types of user activities post-login.  
+Diagnostic: Analyzing deviations from normal user behavior, like unexpected money transfers.  
+Predictive: Projecting future ATO risks based on behavior pattern changes.  
+Prescriptive: Advising on proactive measures like user verification steps for high-risk actions.  
+The Logic Layer (data analysis and decision-making).  
+Descriptive: Summarizing historical data on ATO incidents and understanding common characteristics.  
+Diagnostic: Interpreting the context of ATO events, and understanding how and why they occur.  
+Predictive: Developing models to predict ATO risks based on comprehensive data analysis.  
+Prescriptive: Formulating strategic plans and policies to enhance overall system security against ATO fraud.
 
 Viewing the specific attack type, it is clear that each level of data is key. Meaning, the ability to collect, normalize, search, visualize, and report on data within the system is key to fighting fraud.
 
-- The **Signals Level** focuses on the raw data transmission, capturing the initial signs of possible ATO fraud.
-- The **Semantics Level** goes deeper into interpreting and understanding this data, adding context to differentiate normal user behavior from potential fraud.
-- The **Logic Level** takes a holistic approach, analyzing and making informed decisions based on the insights gained from the data.
+1. The **Signals Level** focuses on the raw data transmission, capturing the initial signs of possible ATO fraud.
+2. The **Semantics Level** goes deeper into interpreting and understanding this data, adding context to differentiate normal user behavior from potential fraud.
+3. The **Logic Level** takes a holistic approach, analyzing and making informed decisions based on the insights gained from the data.
+4. Required Data:
 
-### Required Data:
-
-- Login and access patterns (time, location, device used).
-- Transaction patterns and histories.
-- Analytics of user behavior (changes in account profile (e.g., banking information), frequent password resets, and so on).
-- Responses to security challenges (failed attempts, unusual answers).
-- Data on IP addresses and device fingerprinting.
-- Claims or account information, particularly historical data and a list of known victims.
+Login and access patterns (time, location, device used).  
+Transaction patterns and histories.  
+Analytics of user behavior (changes in account profile (e.g., banking information), frequent password resets, and so on).  
+Responses to security challenges (failed attempts, unusual answers).  
+Data on IP addresses and device fingerprinting.  
+Claims or account information, particularly historical data and a list of known victims.
 
 Check out this earlier article for more thoughts on [Discovering the True Worth of Data](https://medium.com/@chrisperkins505/discovering-the-true-worth-of-data-unlocking-value-with-odam-fbb007b7b8d8).
 
@@ -238,7 +236,7 @@ Thank you to my editors and reviewers!! Special thanks to [Audra Streetman](http
 
 ### **Aug 18, 2020**
 
-> https://www.linkedin.com/pulse/pandemic-unemployment-assistance-fraud-chris-perkins/
+> <https://www.linkedin.com/pulse/pandemic-unemployment-assista>nce-fraud-chris-perkins/
 
 ### **Jan 4, 2021**
 

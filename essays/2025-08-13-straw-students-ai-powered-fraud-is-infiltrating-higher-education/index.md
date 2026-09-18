@@ -36,31 +36,31 @@ The Architecture of Deception operates on seven interconnected layers, each desi
 
 **Social engineering (the human layer):**
 
-- Scripted calls and emails mirror stressed applicants; escalation is timed for when staff coverage is thinnest.
+Scripted calls and emails mirror stressed applicants; escalation is timed for when staff coverage is thinnest.
 
 **Technical (scale):**
 
-- Cloud hosts, rotating residential IPs, device emulators, and SMS/voice farms automate applications and logins on a large scale.
+Cloud hosts, rotating residential IPs, device emulators, and SMS/voice farms automate applications and logins on a large scale.
 
 **Identity (believability):**
 
-- Synthetic profiles blend leaked PII with fabricated details; ages, addresses, schools, and employment histories are tuned to pass basic checks.
+Synthetic profiles blend leaked PII with fabricated details; ages, addresses, schools, and employment histories are tuned to pass basic checks.
 
 **Behavioral (persistence):**
 
-- Realistic login times, LMS “activity,” and staggered submissions mimic genuine student behavior to avoid anomaly flags.
+Realistic login times, LMS “activity,” and staggered submissions mimic genuine student behavior to avoid anomaly flags.
 
 **Verification (institution playbooks):**
 
-- Actors map each school’s tripwires — what triggers manual review, what doesn’t — and route applications through the low-friction paths.
+Actors map each school’s tripwires — what triggers manual review, what doesn’t — and route applications through the low-friction paths.
 
 **Money movement (cash-out):**
 
-- Disbursements flow through prepaid and mule accounts, then into crypto/exchanges or layered wires so funds are gone before detection.
+Disbursements flow through prepaid and mule accounts, then into crypto/exchanges or layered wires so funds are gone before detection.
 
 **OpSec (longevity):**
 
-- Compartmentalized crews, rotating infrastructure, and strict “no-reuse” practices prevent linkage and slow attribution.
+Compartmentalized crews, rotating infrastructure, and strict “no-reuse” practices prevent linkage and slow attribution.
 
 These layers reinforce each other: technical scale amplifies social engineering; behavioral signals mask the scale; OpSec protects their program. Our failures to detect feed their feedback loop, which refines their next wave.
 
@@ -72,12 +72,12 @@ What once took weeks now takes minutes. With automation and AI, a single operato
 
 **How the factory runs (at a high level):**
 
-- **Inputs:** leaked or compromised data, with open-source records seed plausible names, dates, addresses, and histories.
-- **Assembly:** bots/agents fill in forms with internally consistent details (age, graduation year, address, school district, etc.) that align with common-screening rules.
-- **Artifacts:** polished applications, documents, and routine-looking engagement in portals/LMS create a surface of normalcy.
-- **Variation:** applications are slightly modified and diversified — program choices, course loads, submission timing — to avoid obvious duplication.
-- **Feedback loop:** outcomes inform the next batch; pass rates rise as controls are mapped and avoided.
-- **Throughput:** once the playbook is stable, expansion is linear — more profiles, more campuses, same workflow.
+**Inputs:** leaked or compromised data, with open-source records seed plausible names, dates, addresses, and histories.  
+**Assembly:** bots/agents fill in forms with internally consistent details (age, graduation year, address, school district, etc.) that align with common-screening rules.  
+**Artifacts:** polished applications, documents, and routine-looking engagement in portals/LMS create a surface of normalcy.  
+**Variation:** applications are slightly modified and diversified — program choices, course loads, submission timing — to avoid obvious duplication.  
+**Feedback loop:** outcomes inform the next batch; pass rates rise as controls are mapped and avoided.  
+**Throughput:** once the playbook is stable, expansion is linear — more profiles, more campuses, same workflow.
 
 Mass production is the point. Scale and iteration turn individual deception into a repeatable operation.
 
@@ -87,12 +87,12 @@ Organized groups — some state-linked, others criminal syndicates — treat adm
 
 **How they exploit the funnel:**
 
-- **Time the surge.** Submit in bursts during peak windows — final day of open enrollment, late nights, long weekends — when queues are longest and coverage is thinnest. An application at 11:47 p.m. on the last day simply gets less scrutiny.
-- **Blend into volume.** Flood look-alike (not identical) applications so synthetics disappear inside legitimate spikes.
-- **Exploit system and process gaps.** Legacy, disconnected CRMs, LMS, SIS, and financial aid systems struggle to correlate devices, phones, or bank accounts across records — making straw identities seem unique and hiding account takeovers.
-- **A/B testers.** Track which steps trigger manual review at each school; fraud actors use a variety of email domains, address formats, and course selections to skirt tripwires.
-- **Recycle infrastructure across schools.** Reuse number ranges, devices, and IP blocks between institutions — but not within the same one — to stay below duplicate-detection thresholds.
-- **Hit, cash out, move on.** Do the minimum activity to unlock disbursement, then churn to the next campus.
+**Time the surge.** Submit in bursts during peak windows — final day of open enrollment, late nights, long weekends — when queues are longest and coverage is thinnest. An application at 11:47 p.m. on the last day simply gets less scrutiny.  
+**Blend into volume.** Flood look-alike (not identical) applications so synthetics disappear inside legitimate spikes.  
+**Exploit system and process gaps.** Legacy, disconnected CRMs, LMS, SIS, and financial aid systems struggle to correlate devices, phones, or bank accounts across records — making straw identities seem unique and hiding account takeovers.  
+**A/B testers.** Track which steps trigger manual review at each school; fraud actors use a variety of email domains, address formats, and course selections to skirt tripwires.  
+**Recycle infrastructure across schools.** Reuse number ranges, devices, and IP blocks between institutions — but not within the same one — to stay below duplicate-detection thresholds.  
+**Hit, cash out, move on.** Do the minimum activity to unlock disbursement, then churn to the next campus.
 
 Legacy controls assume steady flow and human attention. Adversaries optimize for spikes and inattention.
 
@@ -102,17 +102,17 @@ Each “straw student” is worth $5,000–$20,000 in potential aid, depending o
 
 **Why it scales:**
 
-- **Abundant inputs:** leaked data and open records make plausible identities cheap.
-- **Automation + AI:** profile generation and form-filling compress time from days to minutes. (Dark-web models marketed for fraud — e.g., “FraudGPT” — promise turnkey prompts.)
-- **Low marginal cost:** once infrastructure exists, each additional identity is nearly free.
+**Abundant inputs:** leaked data and open records make plausible identities cheap.  
+**Automation + AI:** profile generation and form-filling compress time from days to minutes. (Dark-web models marketed for fraud — e.g., “FraudGPT” — promise turnkey prompts.)  
+**Low marginal cost:** once infrastructure exists, each additional identity is nearly free.
 
 **Napkin economics (illustrative):**
 
-- **Headcount:** 500 synthetic “students” across multiple institutions.
-- **Average payout:** $8,000 per student per semester.
-- **Gross intake:** 500 × $8,000 = $4,000,000 per semester.
-- **Operating costs:** ~$500,000 (infrastructure, identity maintenance, mule networks, OpSec, etc.).
-- **Approximate margin:** $3.5M gone.
+**Headcount:** 500 synthetic “students” across multiple institutions.  
+**Average payout:** $8,000 per student per semester.  
+**Gross intake:** 500 × $8,000 = $4,000,000 per semester.  
+**Operating costs:** ~$500,000 (infrastructure, identity maintenance, mule networks, OpSec, etc.).  
+**Approximate margin:** $3.5M gone.
 
 **Cash-Out**
 
@@ -120,9 +120,9 @@ Fraud actors disperse money through obfuscation channels — prepaid and interme
 
 **Why recovery is rare:**
 
-- **Speed:** disbursement precedes review.
-- **Fragmentation:** aid, SIS, and banking systems don’t correlate signals well.
-- **Jurisdiction:** multi-state/international movement raises the bar for coordination and recovery.
+**Speed:** disbursement precedes review.  
+**Fragmentation:** aid, SIS, and banking systems don’t correlate signals well.  
+**Jurisdiction:** multi-state/international movement raises the bar for coordination and recovery.
 
 At this scale, they’re not testing our controls — they’re arbitraging them.
 
@@ -138,13 +138,13 @@ The solution isn’t to abandon online education or create insurmountable barrie
 
 **Guiding principles:**
 
-- **Verify reality, not paperwork.** Trust should rest on people being who they say they are — not merely on forms that are easy to fake.
-- **Correlate the picture.** Admissions, LMS, aid, and finance data tell a clearer story together than apart; patterns emerge only when the dots connect.
-- **Use time as a signal.** Spikes, last-minute surges, and synchronized activity aren’t noise; they’re telemetry.
-- **Share what you learn.** Indicators that help one campus help the next; isolation is the attacker’s ally.
-- **Protect the legitimate student experience.** Keep friction low for real students even as controls get smarter.
-- **Make deterrence visible.** Clear expectations and consequences raise the cost of attempted fraud.
-- **Measure tradeoffs openly.** The cost of fraud = losses + detection + investigation + student friction + trust. Optimize across all five, not just the first.
+**Verify reality, not paperwork.** Trust should rest on people being who they say they are — not merely on forms that are easy to fake.  
+**Correlate the picture.** Admissions, LMS, aid, and finance data tell a clearer story together than apart; patterns emerge only when the dots connect.  
+**Use time as a signal.** Spikes, last-minute surges, and synchronized activity aren’t noise; they’re telemetry.  
+**Share what you learn.** Indicators that help one campus help the next; isolation is the attacker’s ally.  
+**Protect the legitimate student experience.** Keep friction low for real students even as controls get smarter.  
+**Make deterrence visible.** Clear expectations and consequences raise the cost of attempted fraud.  
+**Measure tradeoffs openly.** The cost of fraud = losses + detection + investigation + student friction + trust. Optimize across all five, not just the first.
 
 **The clock is ticking.** Fall enrollment is underway. Right now, as admissions offices gear up for their busiest season, fraud actors are preparing their largest attacks of the year.
 

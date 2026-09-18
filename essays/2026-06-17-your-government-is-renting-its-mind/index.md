@@ -56,13 +56,13 @@ The hospital details (Hurricane Helene, Mission Hospital, the September–Decemb
 
 ## Sources
 
-- NHC Tropical Cyclone Report (Helene): [https://www.nhc.noaa.gov/data/tcr/AL092024_Helene.pdf](https://www.nhc.noaa.gov/data/tcr/AL092024_Helene.pdf)
-- Mission Health official Helene page: [https://www.missionhealth.org/helene](https://www.missionhealth.org/helene)
-- Healthcare Dive — Mission without water (Oct 1, 2024): https://www.healthcaredive.com/news/hca-mission-hurricane-helene-recovery-north-carolina/728653/
-- National Nurses United — Dispatches from Asheville: https://www.nationalnursesunited.org/blog/caring-after-helene-dispatches-from-asheville
-- BPR — Mission back on city water (Dec 8, 2024): https://www.bpr.org/bpr-news/2024-12-09/mission-health-is-back-on-city-water-after-using-water-tankers-wells-in-helene-aftermath
-- Anthropic statement (June 12, 2026): [https://x.com/AnthropicAI/status/2065597531644743999](https://x.com/AnthropicAI/status/2065597531644743999)
-- Reuters — US blocks foreign access to Anthropic’s most advanced AI models (June 13, 2026): https://www.reuters.com/technology/us-blocks-foreign-access-anthropics-most-advanced-ai-models-axios-reports-2026-06-13/
-- Defense One — Anthropic suspends access under export control (June 2026): https://www.defenseone.com/policy/2026/06/anthropic-suspends-export-control/414178/
-- Fortune — Anthropic disables Fable & Mythos (June 13, 2026): https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/
-- AP — Trump sanctions and the ICC prosecutor (email, banking impacts): https://apnews.com/article/icc-trump-sanctions-karim-khan-court-a4b4c02751ab84c09718b1b95cbd5db3
+- NHC Tropical Cyclone Report (Helene): <https://www.nhc.noaa.gov/data/tcr/AL092024_Helene.pdf>
+- Mission Health official Helene page: <https://www.missionhealth.org/helene>
+- Healthcare Dive — Mission without water (Oct 1, 2024): <https://www.healthcaredive.com/news/hca-mission-hurricane-he>lene-recovery-north-carolina/728653/
+- National Nurses United — Dispatches from Asheville: <https://www.nationalnursesunited.org/blog/caring-after-helen>e-dispatches-from-asheville
+- BPR — Mission back on city water (Dec 8, 2024): <https://www.bpr.org/bpr-news/2024-12-09/mission-health-is-ba>ck-on-city-water-after-using-water-tankers-wells-in-helene-aftermath
+- Anthropic statement (June 12, 2026): <https://x.com/AnthropicAI/status/2065597531644743999>
+- Reuters — US blocks foreign access to Anthropic’s most advanced AI models (June 13, 2026): <https://www.reuters.com/technology/us-blocks-foreign-access->anthropics-most-advanced-ai-models-axios-reports-2026-06-13/
+- Defense One — Anthropic suspends access under export control (June 2026): <https://www.defenseone.com/policy/2026/06/anthropic-suspends>-export-control/414178/
+- Fortune — Anthropic disables Fable & Mythos (June 13, 2026): <https://fortune.com/2026/06/13/anthropic-disables-fable-myth>os-export-controls-national-security-threat/
+- AP — Trump sanctions and the ICC prosecutor (email, banking impacts): <https://apnews.com/article/icc-trump-sanctions-karim-khan-co>urt-a4b4c02751ab84c09718b1b95cbd5db3

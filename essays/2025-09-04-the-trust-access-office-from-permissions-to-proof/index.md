@@ -9,6 +9,9 @@ A field guide to building a Trust & Access Office that unblocks teams, reduces b
 
 That’s how long it took them.
 
+I  
+magine this: Five specialized autonomous AI agents coordinated an infiltration attack on a Fortune 500 company, stole $31 million, and vanished without a trace. No human operators, just stolen credentials, perfect digital mimicry, and machine-speed execution.
+
 The forensics team found fragments three days later–anomalous patterns, suspicious connections, and traces of sessions that should not have been possible. They noted the logs were incomplete, the timeline was murky, and the root cause remains a mystery. The CISO’s official statement blamed “sophisticated threat actors.” Although he was right, the real point missed was: the attackers weren’t human.
 
 This scenario isn’t far-off science fiction. The building blocks exist today and the baseline threat of tomorrow. Your defenses, built for human attackers, are now facing adversaries that operate at the speed of light. This isn’t a problem you can solve with another tool; it requires a new operating model.
@@ -41,6 +44,10 @@ This is how you scale trust.
 
 > You can run this as an Office or a Framework.
 
+A formal office (named team with budget and OKRs), or
+
+A virtual program anchored by this framework: shared intake, SLAs, RACI, runbooks, and a data backbone (Splunk) with clear enforcement integrations (IdP, apps, endpoints, network).
+
 The rest of this article describes the process — portable to any org chart.
 
 ## Why Your Current Defense Can’t Win
@@ -52,7 +59,7 @@ Think of your company’s digital access like a massive building with thousands 
 - Service accounts that “no one can touch or something might break.”
 - Apps connected to other apps in ways no one fully understands.
 
-### The Bottom Line
+The Bottom Line
 
 Your current security was built for human attackers. It was built for a world where you had time to think, investigate, and respond.
 
@@ -60,7 +67,7 @@ Your current security was built for human attackers. It was built for a world wh
 
 These attackers aren’t hackers in hoodies typing at keyboards and clicking mice. They’re not even human, they have agency. That is what Agentic AI means.
 
-![Critical Distinction: AI Agent vs Agenti](images/figure-01.png)
+![Critical Distinction: AI Agent vs Agentic AI](images/figure-01.png)
 
 The difference matters: defending against AI agents requires better rules. Defending against Agentic AI requires fundamentally different architecture.
 
@@ -122,7 +129,7 @@ Instead of treating security as a cost center that slows everyone down, TAO trea
 1. Access as a Product: Stop thinking about access management like IT support. Start thinking about it like Amazon thinks about customer experience. Every access request should be instant, intelligent, and invisible when legitimate — but impossible when it’s not.
 2. Defense as a Data Problem: Stop chasing individual alerts. Start seeing patterns across everything. When every login, every file access, and every network connection feeds into one intelligent system, you can spot attacks that would be invisible when looking at each system separately.
 
-### What This Means in Practice
+What This Means in Practice
 
 TAO creates a single brain for your organization’s security — one that:
 
@@ -262,7 +269,7 @@ This approach correlates all signals to the same identity in seconds and automat
 - Incident response team alerted with full context.
 - Forensic trail preserved.
 
-## Measuring What Matters: From Vanity to Value
+Measuring What Matters: From Vanity to Value
 
 The old way of measuring success is broken.
 
@@ -281,23 +288,22 @@ Why TTGD Changes Everything:
 - For auditors: Evidence in minutes, not months of preparation.
 - For the business: Velocity without vulnerability.
 
-### Metrics We Actually Need to Care About
+Metrics We Actually Need to Care About
 
 When you focus on TTGD, you start answering the questions that executives and stakeholders ask.
 
 How fast can a new developer become productive?
 
-- This isn’t just an HR metric — it’s a direct measure of your internal platform’s effectiveness.
+This isn’t just an HR metric — it’s a direct measure of your internal platform’s effectiveness.
 
 How quickly do we detect and stop breaches?
 
-- This is the ultimate security value metric, often expressed as Mean Time to Detect (MTTD) and Mean Time to Respond (MTTR). A low number demonstrates a mature security posture and directly quantifies risk reduction.
+This is the ultimate security value metric, often expressed as Mean Time to Detect (MTTD) and Mean Time to Respond (MTTR). A low number demonstrates a mature security posture and directly quantifies risk reduction.
 
 How much are we reducing our audit and compliance costs?
 
-- This metric is a powerful indicator of operational efficiency. Low audit costs are a byproduct of well-documented, automated, and transparent systems. It proves that your internal controls are working, and it frees up money and time for innovation instead of manual evidence gathering.
-
-## The Implementation Journey: Start Small, Move Fast, Prove Everything
+This metric is a powerful indicator of operational efficiency. Low audit costs are a byproduct of well-documented, automated, and transparent systems. It proves that your internal controls are working, and it frees up money and time for innovation instead of manual evidence gathering.  
+The Implementation Journey: Start Small, Move Fast, Prove Everything
 
 The theory is sound, but theory doesn’t stop breaches. Execution does. Let’s get brutally practical.
 
@@ -309,9 +315,9 @@ Start here:
 
 Fix the Organization First: Technology doesn’t solve problems. People with clear authority solve problems. Before you touch a single system, get three things straight:
 
-- A charter that fits on one page (if it’s longer, you don’t understand it yet).
-- An executive who will take the heat when the team needs direction or approvals.
-- A team that actually wants to be there (volunteers beat conscripts every time).
+A charter that fits on one page (if it’s longer, you don’t understand it yet).  
+An executive who will take the heat when the team needs direction or approvals.  
+A team that actually wants to be there (volunteers beat conscripts every time).
 
 The Identity Purge: You know those 10,000 accounts from people who left years ago? The ones nobody wants to touch because “something might break”?
 
@@ -374,3 +380,68 @@ When an attack happens at 3 AM, your system should respond in seconds, not wait 
 Show Them the Money.
 
 After twelve months, have the numbers that matter (examples):
+
+Developer onboarding: From 5 days to 2 hours.  
+Breach detection: From 21 days to 12 seconds.  
+Audit prep: From 800 hours to 40.
+
+Not: “we processed 10,000 tickets” or “we’re 98% compliant.”
+
+Real value. Measured in time saved, attacks stopped, and money not lost.
+
+The Uncomfortable Truth About Implementation
+
+Most organizations will read this and do nothing. They’ll form a committee. Write a proposal. Schedule a meeting to schedule a meeting.
+
+Meanwhile, AI attackers are getting smarter. Faster. Better.
+
+Every day you wait isn’t neutral. It’s falling behind.
+
+So here’s your choice: Start messy and improve, or wait for perfect and fail.
+
+The first step isn’t perfect. It’s not comprehensive. It’s not even particularly elegant.
+
+But it’s a step.
+
+And in a world where attackers move at machine speed, standing still is the same as running backward.
+
+Pick one thing from Phase 1. One thing. Do it tomorrow.
+
+Because transformation doesn’t happen in boardrooms. It happens when someone, maybe you, decides to take responsibility and says, today is the day we stop accepting “that’s how we’ve always done it” as an answer.
+
+The attackers are already moving. What’s your excuse?
+
+Catastrophes are not accidents, but the predictable harvest of systematic complacency.
+
+The Choice Before You
+
+The agentic era creates a stark choice: organizations that implement TAO will safely harness AI’s transformative power while defending against its weaponization. Those that don’t will either fall behind competitively or fall victim to adversarial agents.
+
+A crisis is a terrible time to discover your tools are inadequate for a threat that has been quietly building.
+
+The cost of inaction (or Days at Risk) is the slow erosion of efficiency, increased vulnerability to threats, and an increasing inability to make intelligent decisions quickly. Every day we do nothing is an active choice that increases your risk exposure.
+
+The advantage of action is equally clear: it’s the ability to move faster, operate more securely, and build a resilient organization that anticipates change instead of just reacting to it. It’s the ultimate competitive edge.
+
+Option 1: Restrict AI agents entirely.  
+Option 2: Deploy agents without proper controls or training, accepting massive risk.  
+Option 3: Implement the TAO framework to enable beneficial agents while defending against adversarial ones.  
+Your Next Three Moves  
+Identify One Vanity Metric: Find one KPI your team reports that doesn’t drive decisions (like “number of tickets closed”). Challenge your team to replace it with a value metric (like “mean time to resolve critical incidents”).  
+Map One Critical Decision Tree: Choose one recurring, high-stakes decision tree your team runs through semi-frequently. Trace the entire process, from the initial trigger to the final decision. Identify the single biggest bottleneck, challenges, or troublesome areas of the process and start a conversation about how to fix it.  
+Ask a “Dumb” Question: Go to your security team and ask, “How would we know if an attacker stole a developer’s password and was poking around our network without breaking anything?” The quality of their answer will tell you everything you need to know about your current visibility.  
+Next Steps
+
+Whether or not you create a formal “office,” follow this framework: centralize signals in Splunk, blend human and machine identities into one lifecycle, score risk continuously, and enforce at machine speed — from the IdP down to a hybrid mesh firewall. That’s how you shrink time-to-good-decision and let trust scale.
+
+Analyze your current identity environment.  
+Map your agent/ic landscape (beneficial and potential adversarial).  
+Prioritize and move quickly.
+
+The TAO framework exists. The technology is ready. The only variable is your organization’s will to act. Start with one orphaned account, one Golden Path, replace one metric. Because in the race against machine-speed adversaries, the only losing move is standing still.
+
+5 hours, 18 minutes. That’s how long they needed. How long will you take to decide?
+
+Shout out to my draft reviewers Mike Storm, Clare Frey, and Audra Streetman! Thank you for your time, expertise, and collaboration!
+
+Please note: the views and opinions expressed in this post are those of the author (Chris Perkins) and do not necessarily reflect the official policy or position of my employer, or any other agency, organization, person or company. Assumptions made in this post are not reflective of the position of any entity other than the author — and, since we are critically-thinking human beings, these views are always subject to change, revision and rethinking at any time.

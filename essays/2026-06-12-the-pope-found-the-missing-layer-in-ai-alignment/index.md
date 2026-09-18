@@ -214,3 +214,5 @@ Las Cruces, New Mexico
 June 12, 2026
 
 > The research: https://kinetic-trust-protocol.net/research/magnifica-humanitas
+
+The Disarm campaign: https://kinetic-trust-protocol.net/disarm

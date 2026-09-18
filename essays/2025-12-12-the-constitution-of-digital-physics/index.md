@@ -116,9 +116,10 @@ The Mechanism: Adaptive Dormancy.
 
 When a crisis hits, we don’t want binary failure. We want analog survival. We implement Trust Tiers — progressive levels of capability that degrade as the environment destabilizes.
 
-```
-God Mode: E ≥ 95
-```
+- God Mode: E ≥ 95
+- Operator Mode: E ≥ 85
+- Analyst Mode: E ≥ 70
+- Observer Mode: E < 70
 
 The Reflex: When the Trust Score falls below critical tiers, the enforcement point automatically strips the agent of dangerous capabilities. This is not punishment. It is survival. The agent hibernates. When the environment stabilizes, it wakes back up.
 
@@ -132,14 +133,12 @@ The Mechanism: The Flight Recorder.
 
 Every decision — allowed, denied, or aborted — must log the full Decision Geometry:
 
-```
-Decision Geometry = {E, dE/dt, σ, ρ}
-```
-
+- Decision Geometry = {E, dE/dt, σ, ρ}
 - E = Trust Score
 - dE/dt = Velocity of trust
 - σ = Volatility
-- ρ = Action’s intrinsic risk
+
+ρ = Action’s intrinsic risk
 
 The Defense: This immutable log establishes a Digital Force Majeure defense. It distinguishes between human negligence and inevitable environmental constraint.
 
@@ -175,10 +174,10 @@ No single entity can declare trust. Trust is emergent — calculated from sensor
 
 The Oracle Mesh requires:
 
-- Minimum three Oracles for threshold signing
-- Geographic distribution (no single point of failure)
-- Consensus before any Trust Proof is issued
-- No single Oracle can act alone
+Minimum three Oracles for threshold signing  
+Geographic distribution (no single point of failure)  
+Consensus before any Trust Proof is issued  
+No single Oracle can act alone
 
 The Trust Proof: The Oracle issues a cryptographically signed token — the Trust Proof — containing the agent’s current Trust Score, its velocity, the environmental context, and Soul constraint status. The proof expires in seconds, not hours. It must be refreshed constantly.
 

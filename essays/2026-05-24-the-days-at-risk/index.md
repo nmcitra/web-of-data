@@ -1,8 +1,6 @@
 The Days at Risk
 On counters, refusals, and the dictionary that has begun to update itself
 
-## PART 1: THE COUNTER
-
 A hospital system declines an AI-scribe integration because it cannot audit decisions the system would make on its behalf. A school district walks away from automated grading because false positives would land on students least able to appeal. A cooperative refuses a platform migration because exit would mean losing the knowledge that flowed through the tool.
 
 Those sentences matter before the vocabulary arrives. They are what wait looks like in institutional language.
@@ -29,7 +27,7 @@ What I’m describing is something else. It is the vocabulary that has begun to 
 
 It also has structure. Not as branded primitives — different communities are arriving at the same shape under different words — but as a grouping by what each term names. Eight categories, grouped by the structural problem rather than by the vocabulary itself:
 
-![Diagnostic vocabulary grouped by the str](images/figure-01.png)
+![Diagnostic vocabulary grouped by the structural problem each term names — the vocabulary is functional, not branded.](images/figure-01.png)
 
 The dictionary is updating itself. Slowly. By hand.
 
@@ -62,7 +60,9 @@ In practical terms: if you are watching for the inflection signal of substrate-h
 
 The third thing the wait produced was an audit.
 
-> Method note. Days at Risk is the number of days a class of consequential capability has existed in broad operational deployment without an institutional classification that triggers a defensive response proportionate to the capability. The counter starts at the date a system class enters broad operational deployment to enterprise or institutional customers.
+Method note. Days at Risk is the number of days a class of consequential capability has existed in broad operational deployment without an institutional classification that triggers a defensive response proportionate to the capability. The counter starts at the date a system class enters broad operational deployment to enterprise or institutional customers.
+
+For this campaign, I count inclusive calendar days: the deployment date is day one. The counter stops when an authority with relevant jurisdiction publishes a classification that names the behavior at recognition-grade and mandates a response (constraint, attribution, audit, recall, or veto) that matches the capability.
 
 Days at Risk is a family of metrics, not a single number. Most systems have multiple deployment milestones — Microsoft 365 Copilot has a November 2023 enterprise GA and a March 2024 mid-market expansion; Epic’s clinical AI has a May 2023 public GPT-4 EHR integration announcement, a Q3 2023 first broad-deployment window, and a February 2026 ambient-scribe GA.
 

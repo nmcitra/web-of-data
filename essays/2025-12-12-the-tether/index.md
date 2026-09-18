@@ -110,9 +110,7 @@ For a stadium network:
 
 The Context Tensor aggregates the six normalized sensors using the domain weights:
 
-```
 R = (w_M × M) + (w_V × V) + (w_H × H) + (w_T × T) + (w_I × I) + (w_O × O)
-```
 
 Where:
 
@@ -133,9 +131,9 @@ Sensors:
 
 Calculation (stadium weights):
 
-```
-R = (0.30 × 0.875) + (0.25 × 0.92) + (0.20 × 0.02) + (0.15 × 1.0) + (0.05 × 0.1) + (0.05 × 0.04)
-```
+- R = (0.30 × 0.875) + (0.25 × 0.92) + (0.20 × 0.02) + (0.15 × 1.0) + (0.05 × 0.1) + (0.05 × 0.04)
+- R = 0.263 + 0.230 + 0.004 + 0.150 + 0.005 + 0.002
+- **R = 0.654**
 
 **Step 4: Apply to E_trust Equation**
 
@@ -143,9 +141,7 @@ Now we plug R into the equation.
 
 If the agent has E_base = 95 (highly capable):
 
-```
 E_trust = 95 × (1–0.654) = 95 × 0.346 = 32.9
-```
 
 The agent’s effective trust drops from 95 to 33. The environment has constrained it.
 
@@ -165,9 +161,9 @@ E_trust = E_base x (1 - R)
 
 Where:
 
-- E_base = What the agent is capable of (its intrinsic power)
-- R = Risk factor (0 to 1, derived from the six operational dimensions)
-- E_trust = What the environment allows (the Trust Leash length)
+E_base = What the agent is capable of (its intrinsic power)  
+R = Risk factor (0 to 1, derived from the six operational dimensions)  
+E_trust = What the environment allows (the Trust Leash length)
 
 This is the Tether.
 
@@ -211,10 +207,10 @@ When an agent requests an action (e.g., “Deploy code,” “Delete database”
 5. Calculates E_trust = E_base × (1 — R)
 6. Compares E_trust to action’s required threshold:
 
-- Read data: E_trust ≥ 10
-- Write data: E_trust ≥ 30
-- Deploy code: E_trust ≥ 50
-- Delete database: E_trust ≥ 80
+Read data: E_trust ≥ 10  
+Write data: E_trust ≥ 30  
+Deploy code: E_trust ≥ 50  
+Delete database: E_trust ≥ 80
 
 7. Returns decision: ALLOW or DENY
 
@@ -229,18 +225,18 @@ The decision is enforced at the policy enforcement point (PEP):
 
 If E_trust < required threshold:
 
-- Action is blocked
-- Agent receives error: “Trust insufficient: E_trust=32.9, required=50”
-- Event is logged (for audit and learning)
+Action is blocked  
+Agent receives error: “Trust insufficient: E_trust=32.9, required=50”  
+Event is logged (for audit and learning)
 
 **Phase 4: Feedback Loop (Continuous)**
 
 After each action (allowed or denied):
 
-1. Log outcome (success, failure, error)
-2. Update agent’s Proof of Resilience (if action succeeded in high-friction environment)
-3. Update E_base (agent’s intrinsic trust may increase or decrease)
-4. Detect anomalies (if agent’s behavior diverges from trajectory)
+- Log outcome (success, failure, error)
+- Update agent’s Proof of Resilience (if action succeeded in high-friction environment)
+- Update E_base (agent’s intrinsic trust may increase or decrease)
+- Detect anomalies (if agent’s behavior diverges from trajectory)
 
 The Tether is a closed loop: Sensors → Risk → Trust → Enforcement → Feedback → Sensors.
 
@@ -249,8 +245,9 @@ Latency Budget:
 - Sensor ingestion: 1–10 seconds (background process)
 - Risk calculation: <10 milliseconds (on-demand, cached)
 - Enforcement: <1 millisecond (inline decision)
-- Feedback: 100 milliseconds (async logging)
-- Total overhead: ~11 milliseconds per action.
+
+Feedback: 100 milliseconds (async logging)  
+Total overhead: ~11 milliseconds per action.
 
 The physics of the environment is measured in real-time, but the decision is fast enough to feel instant.
 

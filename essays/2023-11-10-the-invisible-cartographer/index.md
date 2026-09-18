@@ -13,7 +13,9 @@ In the Mapping the Cyber Terrain article, we discussed the three levels of data�
 
 ### Signals: The Foundation of the Data Landscape
 
-> Raw Data Streams: Signals represent the raw, unprocessed data. This is the initial layer, akin to the basic contours of a terrain. Just as contours depict the altitudes and depressions on a physical map, signals provide the fundamental structure of the information landscape.
+Raw Data Streams: Signals represent the raw, unprocessed data. This is the initial layer, akin to the basic contours of a terrain. Just as contours depict the altitudes and depressions on a physical map, signals provide the fundamental structure of the information landscape.
+
+Basic Data Patterns: At this level, data is observed in its most primitive form — as logs, metrics, traces, and transactions — without any added interpretation or context.
 
 ![Semantics](images/figure-02.png)
 
@@ -21,11 +23,15 @@ In the Mapping the Cyber Terrain article, we discussed the three levels of data�
 
 > Meaning and Interpretation: The semantics layer adds context and meaning to the raw signals. It’s similar to how a cartographer adds annotations to a map, turning simple lines and shapes into meaningful representations of roads, rivers, and cities.
 
+Data Relationships and Significance: In this layer, the raw data is interpreted, giving it a purpose and place. It discerns how different pieces of data relate to each other and their significance in the larger scheme.
+
 ![Logic](images/figure-03.png)
 
 ### Logic: The Layer of Decision and Action
 
 > Strategic Analysis: Logic operates as the decision-making layer. Here, the interpretations and context provided by the Semantics layer are used to make strategic decisions.
+
+Choosing Pathways: If the Semantics layer presents multiple routes or scenarios, the Logic layer is where a decision is made on which path to follow. It involves weighing various factors, risks, and potential outcomes to determine the best course of action.
 
 The Invisible Cartographer and the squad have saved the day many times over the years. Future articles will tell the tales of these heroes and how they saved organizations from being attacked by APTs (advanced persistent threats). We’ll get to know these specialized teams later in this article and in future articles but here is a brief overview.
 
@@ -37,7 +43,7 @@ The Invisible Cartographer and the squad have saved the day many times over the 
 
 ### Scouts — The Reconnaissance Patrol:
 
-> Vulnerability Assessment Experts: Agile and thorough, these Scouts skillfully navigate through the network’s complex structure. Using sophisticated scanning tools, they systematically uncover and assess vulnerabilities — the hidden cracks and crevices in the network’s architecture that could be exploited by cyber threats.
+Vulnerability Assessment Experts: Agile and thorough, these Scouts skillfully navigate through the network’s complex structure. Using sophisticated scanning tools, they systematically uncover and assess vulnerabilities — the hidden cracks and crevices in the network’s architecture that could be exploited by cyber threats.
 
 ### Strategists — The War Room Planners:
 
@@ -45,11 +51,11 @@ The Invisible Cartographer and the squad have saved the day many times over the 
 
 ### Sharpshooters — The Precisionists:
 
-> Targeted Defense and Forensic Analysis: The Sharpshooters are adept at deploying precise detections as they seek out specific threats. Post-attack, they shift into forensic experts, meticulously analyzing the breach to trace its source, understand the attack patterns, and guide the recovery process.
+Targeted Defense and Forensic Analysis: The Sharpshooters are adept at deploying precise detections as they seek out specific threats. Post-attack, they shift into forensic experts, meticulously analyzing the breach to trace its source, understand the attack patterns, and guide the recovery process.
 
 ### Engineers — The Builders:
 
-> Infrastructure Fortification and Backup Systems: These Engineers expertly reinforce the digital infrastructure, utilizing data analytics to inform their decisions on where fortifications are most needed. In parallel, they design and implement robust backup systems, ensuring these safeguards are strategically aligned with the most critical data and system vulnerabilities for optimal protection and continuity.
+Infrastructure Fortification and Backup Systems: These Engineers expertly reinforce the digital infrastructure, utilizing data analytics to inform their decisions on where fortifications are most needed. In parallel, they design and implement robust backup systems, ensuring these safeguards are strategically aligned with the most critical data and system vulnerabilities for optimal protection and continuity.
 
 ### Communicators — The Storytellers:
 
@@ -82,9 +88,9 @@ The framework/methodology (I use those terms interchangeably) is thoroughly docu
 
 If you’re just now learning what ODAM is, I recommend you check out the website and these articles before continuing on with this article.
 
-- ODAM 2-pager [https://odam.community/static/splunk_odam_overview.pdf](https://odam.community/static/splunk_odam_overview.pdf)
-- ODAM: a Digital Resilience Strategy https://medium.com/@chrisperkins505/odam-a-digital-resilience-strategy-fc34f2fbc286
-- Discovering the True Worth of Data: Unlocking Value with ODAM https://medium.com/@chrisperkins505/discovering-the-true-worth-of-data-unlocking-value-with-odam-fbb007b7b8d8
+- ODAM 2-pager <https://odam.community/static/splunk_odam_overview.pdf>
+- ODAM: a Digital Resilience Strategy <https://medium.com/@chrisperkins505/odam-a-digital-resilienc>e-strategy-fc34f2fbc286
+- Discovering the True Worth of Data: Unlocking Value with ODAM <https://medium.com/@chrisperkins505/discovering-the-true-wor>th-of-data-unlocking-value-with-odam-fbb007b7b8d8
 
 In a nutshell, the ODAM approach enhances:
 
@@ -131,7 +137,7 @@ Clarity requires change. Change requires buy-in and incremental adjustments. In 
 
 ## Change is Constant
 
-> “It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.” — Charles Darwin
+“It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.” — Charles Darwin
 
 We see through the lens of history that change has been an ever-present force, pushing us from the wheel to the web, from the printing press to pixels. We are witnessing rapid-change first hand. ChatGPT (and Large Language Models; LLMs) were far from being mainstream just a year ago. Tools like Midjourney and DALL-E were just becoming available in the latter part of 2022.
 
@@ -145,7 +151,7 @@ This is nothing new… from the dawn of civilization to the cutting edge of digi
 
 > “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.” — Albert Einstein
 
-![This image was made in Midjourney and up](images/figure-04.jpg)
+![This image was made in Midjourney and upscaled in Photoshop. The image represents a spectrum of challenges and opportunities we have at our fingertips.](images/figure-04.jpg)
 
 ## Navigating Cyberspace
 
@@ -156,6 +162,16 @@ At first glance, map-making and defending the digital enterprise might seem worl
 Some similarities I’ve noticed between map-makers and cyber defenders:
 
 > Terrain Understanding: Cartographers study the physical layout of lands, noting mountains, rivers, and other geographic markers. Similarly, cyber defenders analyze digital landscapes, identifying network topologies, data flow paths, and system interconnections.
+
+Boundary Definition: Cartography involves defining territories, borders, and regions. In cybersecurity, defining the perimeter, understanding what’s inside and outside, and setting boundaries for data access are similar.
+
+Threat Awareness: Just as a cartographer might mark treacherous terrains or pirate-infested waters, cyber defenders mark areas of vulnerabilities, potential attack vectors, and historical breach points.
+
+Guidance and Pathfinding: Cartographers provide the safest or most efficient routes through terrain. Cyber defenders use threat intelligence and vulnerability assessments to guide organizations through less risky digital pathways.
+
+Continuous Update: Maps need periodic updating as terrains change or as cities are expanded. Similarly, the organization is always adding new technologies, users, endpoints, and vulnerabilities, to the digital landscape making continuous monitoring and updating core components of defense.
+
+Tools and Techniques: Both cartographers and cyber defenders rely on specialized tools; where the cartographer might use compasses and calipers, cyber defenders employ sensors, APIs, honeypots, nodes, and policies.
 
 In the digital expanse of cybersecurity, the parallels with cartography are evident. When organizations use ODAM, we can efficiently chart the vast cybersecurity landscape to ensure a safer path for the organization.
 
@@ -170,6 +186,12 @@ Without the challenges we face today, I wouldn’t be writing this article and w
 These cannot exist without one another and they are interrelated. Given this, how do we improve all areas in a concerted manner? How can we measure them independently and how they’re working together? And how can we address our organizational challenges holistically?
 
 > People: The success of cybersecurity strategies hinges on the people involved, encompassing their diverse skills and knowledge, and the organizational challenges in acquiring and retaining such talent.
+
+Process: Effective cybersecurity is grounded in the development and implementation of robust security protocols, the importance of standardization and compliance, and the need to streamline processes to eliminate inefficiencies and redundancies.
+
+Data: The core of informed cybersecurity decision-making lies in leveraging high-quality, accessible data for threat intelligence, while carefully managing and safeguarding this data to address privacy and security concerns.
+
+Technology: The strength of an organization’s cybersecurity posture is significantly influenced by the integration of advanced technologies, the seamless incorporation of these technologies into existing systems, and the ongoing challenge of adapting to rapidly evolving cyber threats.
 
 As we begin wrapping up the first article in the series and our exploration of the critical pillars of cybersecurity — People, Process, Data, and Technology — it becomes evident how each of these elements plays a vital role in enhancing organizational resilience. The effectiveness of an organization’s cyber defense is not just dependent on one aspect but on the harmonious integration of all these components. The right blend of skilled personnel, agile processes, quality data, and advanced technology forms the backbone of your organization’s overall defense strategy.
 
@@ -189,7 +211,7 @@ The rise of the Invisible Cartographer marks a new era in digital strategy and m
 
 Thank you for reading!
 
-![This image was created with DALL-E via C](images/figure-05.jpg)
+![This image was created with DALL-E via ChatGPT with a lot of modification in Photoshop using AI. This is an image of what someone invisible might look like!](images/figure-05.jpg)
 
 Special thanks to Audra Streetman and Nate for their reviews, edits, and feedback!
 

@@ -17,8 +17,13 @@ Whether you’re a regular participant in our virtual meetups or new to the comm
 
 Join us as we continue to grow and evolve by attending the next episode of [“The Office” Hours](https://rba.community/#the-office-hours).
 
-> **Mission Statement**
-> The RBA Community is dedicated to advancing cybersecurity through risk-based alerting. Our mission is to empower cybersecurity professionals and enthusiasts at all levels by providing tools, education, and a collaborative platform. Together, we enhance the security and resilience of organizations worldwide, creating a safer digital landscape for all.
+**Mission Statement**  
+The RBA Community is dedicated to advancing cybersecurity through risk-based alerting. Our mission is to empower cybersecurity professionals and enthusiasts at all levels by providing tools, education, and a collaborative platform. Together, we enhance the security and resilience of organizations worldwide, creating a safer digital landscape for all.
+
+**Vision**  
+At the heart of this community lies a powerful belief: intelligence should guide every alert, wisdom should drive every response, and resilience should be the cornerstone of every organization.
+
+Together, we unite under these principles to transform cybersecurity — one insight, one action, and one member at a time. Step by step, we create a future where the digital world is secure, innovative, and trusted.
 
 ### The Speakeasy
 
@@ -28,11 +33,19 @@ Our first crack at this was in 2023 at Trustworthy Brewery (which isn’t around
 
 > “Do you have any spare tickets to the circus?”
 
+— 2023 passphrase
+
+“Who remembers the unwritten?”
+
+— 2024 passphrase
+
 For 2024, I wanted to shake things up. I decided to announce the location even later — just 4 hours before the event. It was a bit of a gamble, and I got a bunch of messages from people asking where it was and what the passphrase was. Everyone was worried about missing out.
 
 About a week before the event, I started thinking about adding a game for people to play. I can’t pinpoint the exact moment, but I remember having a rough idea about 6 days out. I spent some time each day fleshing it out and going back and forth with my intelligent and lovely partner, Nayomi, who had a lot of great ideas. She grounds me by giving me her very non-technical advice! Then I thought: I need to ask Zach for help. If you know Zach, you know he was all in as soon as I mentioned it.
 
-> *Quick side note on Zach here…*
+*Quick side note on Zach here…*
+
+*Zach has been instrumental to* The RBA Community since we joined forces with Stuart and Will over at Outpost Security. There are many core members and advocates that we have recognized on our [*RBA Community Champions*](https://rba.community/community/rba-champions/) *page. Zach and I, along with a few others joined forces to launch version 2 of* The RBA Community. Will and Stuart had a strong foundation built which we were fortunate enough to be part of the the second layer. All this to say that Zach continues to be awesome, great to work with, and can knock out micro-sites in no time at all! Thank you for all you do, Zach!
 
 ### Game Pre-Logistics
 
@@ -62,7 +75,7 @@ Of course, risk-based alerting (RBA) played a big role too. I’d previously cre
 
 The third big influence was my interest in immersive learning experiences. There’s research out there supporting this approach. For instance, check out this image on learning retention:
 
-![Source: https://www.enablersofchange.com](images/figure-01.jpg)
+![Source: <https://www.enablersofchange.com.au/mythbuster-do-people-rea>lly-only-retain-20-of-what-they-hear/](images/figure-01.jpg)
 
 At the end of the day, I wanted to create something fun for people to do while socializing. It turned out to be a great ice breaker and seeing everyone there, united by the game, talking and making new connections was a great feeling.
 
@@ -96,7 +109,7 @@ One example: I wanted to include an old Mapquest printout as a clue found in the
 
 Here’s where it gets interesting: The address on Barton Springs Rd. in Austin, TX actually leads to a surfboard shop near the river. This was intentionally designed as a low-signal clue that ultimately led nowhere.
 
-![The address on Barton Springs Rd. in Aus](images/figure-02.png)
+![The address on Barton Springs Rd. in Austin, TX resolves to a surfboard shop. They’re right near the river there in Austin.](images/figure-02.png)
 
 But you know what? I finally got to tick off a bucket list item: using a Mapquest image in a Speakeasy game in Las Vegas for the RBA Community. Dreams do come true, folks!
 
@@ -113,7 +126,21 @@ Once they signed the guest book (name, email, organization), they were presented
 
 Christopher McConkey is the best. First of all! Second, he nailed the game orientation pitch and told nearly everyone who came through. His pitch was essentially this:
 
-> *Welcome to The Vault!*
+*Welcome to The Vault!*
+
+*Today is the 100th anniversary of the historic Las Vegas blackout in 1924.* We came upon the Shadow Owls’ journal as we were getting ready for the centennial celebration. An artificial intelligence (AI) recently examined the information and discovered heightened risk and clues associated with what happened that fateful night.
+
+Your task is to take on the role of detective and solve the mystery.
+
+There are QR codes hidden throughout the speakeasy that can be used to access journal pages written by the Shadow Owls. Important hints and details about the circumstances leading up to the blackout are included on every page.
+
+There are three possible accounts of what happened that evening. It is up to you to put the puzzle pieces together, piece together the clues, and figure out which version of the heist is accurate. You have the task of verifying the AI’s conclusions, as it has already determined the true story.
+
+You will vote as you gather information by dropping your raffle ticket into the box that corresponds to the story you think is true. The true story is contained in a single box.
+
+Discovering the mysteries of the Shadow Owls will take you on a journey through time filled with surprises and turns. Start your research right away and get immersed in the mystery that has baffled scholars for a century. I hope your curiosity takes you to the truth.
+
+Now go have a beverage of your choice… Make yourself at home… and tell the Bartender, “Chris says hi.”
 
 At this point, the players had signed the guest book, read the game rules, and given a quick explanation of game play as they received their 3 raffle tickets.
 
@@ -131,7 +158,7 @@ Here’s the kicker: I asked the bartender to post these QR codes around the ven
 
 This approach was all about immersion. When players spotted a QR code, it shouldn’t have felt like they were playing a game. Instead, it should have felt like they’d stumbled upon a genuine clue in a real-life mystery. That’s the kind of experience I was aiming for — one where the line between game and reality blurs just a little.
 
-![Photo of my desk showing the laminated m](images/figure-03.jpg)
+![Photo of my desk showing the laminated material for the event.](images/figure-03.jpg)
 
 ### Not Everything is True
 
@@ -161,23 +188,23 @@ Classical storytelling eventually culminates in a dramatic climax or reveal. In 
 
 **Attendee Involvement:**
 
-- Although attendees weren’t part of the 1924 events or the AI’s analysis, they became investigators in the present-day narrative, hearing both the original story and the AI’s conclusions.
+Although attendees weren’t part of the 1924 events or the AI’s analysis, they became investigators in the present-day narrative, hearing both the original story and the AI’s conclusions.
 
 **The Reveal:**
 
-- The raffle at the event’s end served as the climax. It unveiled the true story (story #2) and the raffle/coin winners.
+The raffle at the event’s end served as the climax. It unveiled the true story (story #2) and the raffle/coin winners.
 
 **Supporting **Characters:****
 
-- **Bartender:** Deployed QR codes, provided first beverage and clue.
-- **Sponsors:** Welcomed attendees, acknowledged during prize drawings.
-- **Zach:** “Phantom Orchestrator,” made real-time adjustments.
-- **Myself:** Antagonist and wisdom-giver (LOL).
+**Bartender:** Deployed QR codes, provided first beverage and clue.  
+**Sponsors:** Welcomed attendees, acknowledged during prize drawings.  
+**Zach:** “Phantom Orchestrator,” made real-time adjustments.  
+**Myself:** Antagonist and wisdom-giver (LOL).
 
 **Main Characters:**
 
-- **Individual players:** Heroes of their own investigations.
-- **Raffle/coin winners:** Ultimate heroes of the overall narrative.
+**Individual players:** Heroes of their own investigations.  
+**Raffle/coin winners:** Ultimate heroes of the overall narrative.
 
 **What archetype was AI in this story?**
 
@@ -193,7 +220,7 @@ I was under a massive time crunch because I need to 1) get these details to Zach
 
 I also had to get some of the printed material over to Staples for printing and laminating. I was truly down to the last hour. I left Staples 10 minutes after the closed because I was getting everything finalized on a Sunday evening!
 
-![The artwork for the 10 clues, 3 stories,](images/figure-05.png)
+![The artwork for the 10 clues, 3 stories, and the speakeasy passphrase.](images/figure-05.png)
 
 ## Building Community Through Storytelling
 
@@ -203,7 +230,7 @@ As the night unfolded, it was clear our plan was working. The mystery became the
 
 But here’s where it got really interesting: a few tech-savvy players took it to the next level. They came up to me, all excited, saying they’d PDF’d the clue images and text and fed them into AI tools like ChatGPT and Perplexity. When they showed me the output, I was impressed — these AI tools nailed the description of what was happening. But here’s the kicker: even with all that tech firepower, they were no closer to cracking the case. It just goes to show, sometimes there’s no substitute for good old-fashioned human intuition and teamwork.
 
-Watching all this unfold, I realized we’d created more than just a game. We’d built a shared experience, a story that everyone there was now a part of.
+> Watching all this unfold, I realized we’d created more than just a game. We’d built a shared experience, a story that everyone there was now a part of.
 
 > Watching all this unfold, I realized we’d created more than just a game. We’d built a shared experience, a story that everyone there was now a part of.
 
@@ -227,11 +254,11 @@ I wanted to create a space where like-minded people could meetup to strengthen t
 
 There’s a lot of detail that the game creator can put in to make it incredibly immersive. Using many tools, we were able to customize the story with a depth and width a good story needs.
 
-- Characters: specifically the attendee who was the main investigator / analyst have no end to their depth, experience, or thoughts. #love
-- **Deep connections and history between characters:** For example, I tried to load up a lot of nuance and details in the text message exchanges between characters. I also tried to establish some pre-text about the characters.
-- **Location = Las Vegas:** local places or real places to refer to are key. The location of the heist (the Vault), the storage facility, the surf shop in Austin. Locations are key in storytelling.
-- **Technical accuracy:** the technical clues needed to be correct. I had code examples and other bits of the story that needed to be accessible to non-super nerds (aka general public) and super nerds. Is technical sarcasim a thing? If not, let’s make that a thing because I tend to think of technical sarcasm as a way to create and find “Easter eggs.”
-- **Time blending:** I don’t know what else to call it but this seemed to have opened up doors that storytellers can only dream of! As seen on TV, in the show, “Outer Range,” we see that this works incredibly well. **What are some other shows that do this?** Not only do I have the context and details from one time period, I have the details from two time periods and everything in between and into the future! #dreams
+Characters: specifically the attendee who was the main investigator / analyst have no end to their depth, experience, or thoughts. #love  
+**Deep connections and history between characters:** For example, I tried to load up a lot of nuance and details in the text message exchanges between characters. I also tried to establish some pre-text about the characters.  
+**Location = Las Vegas:** local places or real places to refer to are key. The location of the heist (the Vault), the storage facility, the surf shop in Austin. Locations are key in storytelling.  
+**Technical accuracy:** the technical clues needed to be correct. I had code examples and other bits of the story that needed to be accessible to non-super nerds (aka general public) and super nerds. Is technical sarcasim a thing? If not, let’s make that a thing because I tend to think of technical sarcasm as a way to create and find “Easter eggs.”  
+**Time blending:** I don’t know what else to call it but this seemed to have opened up doors that storytellers can only dream of! As seen on TV, in the show, “Outer Range,” we see that this works incredibly well. **What are some other shows that do this?** Not only do I have the context and details from one time period, I have the details from two time periods and everything in between and into the future! #dreams
 
 Remember: There is always going to be a “**100 Years Ago Today”** story. Write it!
 
@@ -241,9 +268,9 @@ One of my favorite movies of all time is Terminator 2. Yes, I’ll admit it’s 
 
 I’ve always been inspired by and influenced by the possibility of time travel.
 
-- What happens if you meet yourself in the past / future?
-- Do things change or were they always meant to be?
-- Is there a multi-verse?
+What happens if you meet yourself in the past / future?  
+Do things change or were they always meant to be?  
+Is there a multi-verse?
 
 By the way, the answer to the last question there is: most definitely YES! It’s called [Meow Wolf](https://meowwolf.com/) ❤!!!
 

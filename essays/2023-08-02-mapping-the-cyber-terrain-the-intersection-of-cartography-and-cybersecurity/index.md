@@ -1,5 +1,5 @@
 Mapping the Cyber Terrain: The Intersection of Cartography and Cybersecurity
-
+In this article, we venture into the intersections of cartography and cybersecurity, discussing how map-making principles can enhance our ability to tackle cyber threats and increase organizational resilience. We also discuss how the strategic integration of Microsoft Sentinel and Splunk serves as a key conversation in the public sector, in an effort in strengthening our digital defenses.
 
 In my role **a**t Splunk, I have the unique privilege of interacting with a diverse array of public sector organizations nationwide. My engagements span state **and** city departments, educational institutions from elementary to tertiary levels, tribal governments, counties, academic medical centers, and public utilities. A recurring theme echoing throughout these interactions is the quest to effectively harness the combined capabilities of Microsoft Sentinel and Splunk’s data analytics platform.
 
@@ -13,6 +13,8 @@ Before we get dive in, here’s the **TL;DR.**
 4. **How to operationalize Sentinel and Splunk‘s data analytics with the** ODAM framework: Let’s talk about practical steps to integrate Microsoft Sentinel and Splunk using the ODAM framework.
 
 > “No individual stakeholder can address the growing cyber workforce demands at scale. Vigorous collaboration among education, labor, and commercial stakeholders is essential to success. Further development of robust cyber education and workforce development ecosystems must prepare workers to thrive in the digital environment.”
+
+— Biden Administration plan for National Cyber Workforce and Education Strategy
 
 ## Introduction: The Terrain of the Digital World
 
@@ -28,11 +30,11 @@ In comprehending the intersection of cybersecurity and cartography, let’s draw
 
 ![Three Data Planes](images/figure-01.png)
 
-- Press enter or click to view image in full size
 - The **Signals** layer is analogous to a topographic map, representing raw data about elevation and longitude/latitude, similar to machine data and system logs.
 - The **Semantics** layer is like the details on a city’s blueprint that show the city’s layout, including its heights, depths, land features, and key structures. This layer changes raw, complex data into understandable business terms and concepts, providing a clear and meaningful context.
+- The **Logic** layer is where we encounter insights abstracted from the Semantic layer. Further, we can add value to the Logic layer with one-way sharing as described later in this article.
 
-![Three Data Planes with Details](images/figure-02.png)
+Three Data Planes with Details
 
 I will provide more details on these layers later in this article.
 
@@ -52,7 +54,7 @@ Ultimately, I’m keeping the goals of the public sector in mind — which are:
 
 Cybersecurity can feel like trying to find your way in a new city without a map. In this article, we’ll show you how ODAM works like a map for understanding your data, its history, and your technology landscape. It’s a way of making your cybersecurity journey easier and more predictable.
 
-> ODAM works like a map for understanding your data, its history, and your technology landscape.
+ODAM works like a map for understanding your data, its history, and your technology landscape.
 
 The world of cyber threats is always changing, growing more complex each day. It’s essential we respond with dynamic strategies that keep us one step ahead, and through the lens of ODAM, we’ll explore how to do just that.
 
@@ -72,9 +74,11 @@ The [integration](https://splunkbase.splunk.com/app/5312) of Sentinel’s specia
 
 The recent [announcement](https://www.splunk.com/en_us/newsroom/press-releases/2023/splunk-and-microsoft-collaborate-through-strategic-partnership-to-advance-digital-resilience.html) of the Microsoft and Splunk alliance underscores the advantages of a holistic, efficient, and agile cybersecurity strategy.
 
-> The unity of these platforms reinforces the critical importance of collaboration in tackling complex cybersecurity challenges.
+The unity of these platforms reinforces the critical importance of collaboration in tackling complex cybersecurity challenges.
 
-![This diagram represents how data sources](images/figure-03.png)
+![](images/figure-02.png)
+
+![This diagram represents how data sources, monitoring tools, and the analytics layers relate to each other. The right side of the diagram shows how threat intel and SOAR are used. The left side is about the future of data.](images/figure-03.png)
 
 There’s a lot to unpack in the diagram above. Let’s start at the bottom and work our way up.
 
@@ -106,9 +110,9 @@ There are three distinct but interconnected layers of data… each serve a uniqu
 
 1. Signals, the first level, encompass the raw, machine-generated data and logs, acting as the foundation of our cyber terrain.
 2. Semantics is where raw data is transformed into meaningful business terms and concepts, providing valuable context (assets, identities, risk factors).
-3. At the highest level, **Logic**; where abstract extrapolations from the semantic layer occur, revealing valuable insights hidden beneath the surface.
+3. At the highest level, Logic; where abstract extrapolations from the semantic layer occur, revealing valuable insights hidden beneath the surface.
 
-### Sharing Across and Within Data Planes
+Sharing Across and Within Data Planes
 
 Machine data, by nature, is raw.
 
@@ -170,7 +174,7 @@ From a cybersecurity perspective, this process can be facilitated by the bi-dire
 3. **Detections and TTPs and Conte**nt: Detected threats and their associated tactics, techniques, and procedures are shared between parties.
 4. Third-Party Vendor Security: Both parties share and learn from each other’s experiences and assessments of third-party vendors.
 
-### The third layer: Logic
+The third layer: Logic
 
 The Logic layer is like the services provided on top of a basic map.
 
@@ -203,7 +207,7 @@ From a cybersecurity perspective a two-way exchange of the following elements wo
 6. Red/Blue/Purple Team Exercises: Both parties learn reciprocally from the outcomes and learnings of these exercises.
 7. Physical Security: Shared physical security strategies benefit both parties.
 
-### Adding Value to the Logic Layer
+Adding Value to the Logic Layer
 
 Alongside the bi-directional sharing, a one-way share of certain strategic items adds value at the logic layer:
 
@@ -214,7 +218,7 @@ Alongside the bi-directional sharing, a one-way share of certain strategic items
 5. Compliance and Audit: One party conducts compliance checks or audits and shares the results.
 6. Asset and Identity Management: One party shares its asset management strategies or lists.
 
-## Empowering Cyber Navigators: The Role of Cyber Cartography Education
+Empowering Cyber Navigators: The Role of Cyber Cartography Education
 
 As we discussed in ODAM, a Revolution! Reinventing the Cybersecurity Workforce in New Mexico, educating young people is key to our long-term strategy. Teaching a gamified version of ODAM that encourages the collection and public display of micro-credentials can start as early as middle school. I remember taking typing classes in middle school and playing practice games that you could earn points if you typed well. I still love games like this — like [TypeRacer](https://play.typeracer.com/)! I digress.
 

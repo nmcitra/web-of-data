@@ -157,9 +157,9 @@ A note on the layers, since readers ask. Because this work uses several adjacent
 
 Digital Gravity is the public framework. Relational Trust Infrastructure is the research program. KTP is one operational protocol derived from that work. Tamed Autonomy is an applied AI-governance implementation surface. The pieces are connected, but they are not interchangeable.
 
-**The Kinetic Trust Protocol** is a 27-document research specification I’ve been developing since 2025. Read the spec: [https://nmcitra.github.io/ktp-rfc/](https://nmcitra.github.io/ktp-rfc/)
+**The Kinetic Trust Protocol** is a 27-document research specification I’ve been developing since 2025. Read the spec: <https://nmcitra.github.io/ktp-rfc/>
 
-Visit the research program: [https://kinetic-trust-protocol.net](https://kinetic-trust-protocol.net)
+Visit the research program: <https://kinetic-trust-protocol.net>
 
 **Companion essays:**
 

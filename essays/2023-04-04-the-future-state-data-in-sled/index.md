@@ -8,17 +8,15 @@ n January of 2023, I published [**ODAM**](https://odam.community) ([Operationali
 
 The future simply means: more data. More data being consumed and more data being generated. Data about data will continue to grow in every one of [the 5 Vs](https://odam.community/data-is-beautiful/#the-5-vs-of-data-analytics) as well. Threats to organizations will continue to grow, the attack surfaces are growing and becoming more complex with every ‘modernization effort’ that is kicked off, and adversaries are getting a significant boost in their mission to steal data or money for organizations across the US with the use of AI tools like GPT or ChatGPT.
 
-![This image was altered! Caution: Fake Ne](images/figure-01.png)
+![This image was altered! Caution: Fake News!](images/figure-01.png)
 
 Over the last decade or so I have been of the mindset that the government takes a long time to change compared to the private sector (mostly by design). And I believed that institutions like universities or K-12 school districts will eventually get to a point where they feel like: Yay, we did it. But then the pandemic. The pandemic was the rock tossed into a still pond.
-
-![](images/figure-02.jpg)
 
 We’re continuing to see the ripple effects in global economic forces as well as local forces like worker shortages. Now we’re on the other side of “work from home” and isolating, we are getting back to work with different questions about work and the technology used within the organization. Now I am starting to believe that SLED needs to make a big change and make it quickly. As in: this year.
 
 As I mentioned, there will be more and more data generated as we move into the future. Data will end up in clouds, on endpoints, and in those orange buckets stacked up in some IT closet.
 
-![](images/figure-03.png)
+![](images/figure-02.jpg)
 
 With more and more data, in an increasing number of locations data resides, and thousands of (or more) threat groups that actively trying to steal it or hold the organization ransom, the time is now.
 
@@ -28,7 +26,9 @@ These use cases begin to sound very cool because of all the new capabilities, ef
 
 Many organizations seem to be stuck on the question of: what do I collect first? What are the data sources I can use to get started? This is exactly why I created the [IT Service Blueprint methodology](https://odam.community/ace/#understanding-the-it-service-blueprint) as part of ODAM. In less than an hour, you can learn how to run the IT Service Blueprint for every single service in your organization.
 
-![IT Service Blueprint showing a resident ](images/figure-04.png)
+![](images/figure-03.png)
+
+![IT Service Blueprint showing a resident accessing the unemployment benefits portal. This can easily be turned into a dashboard.](images/figure-04.png)
 
 You can map out every one of your IT services and rank them by priority or criticality. Look at the shared technologies in each IT service and bam, there’s your list of initial data sources. As a second wave, take the rest of the technologies listed in your top 5 IT services and onboard that data, too.
 
@@ -58,7 +58,7 @@ Before we continue, Let’s take a quick tour down memory lane by having a look 
 
 *And Network is saying:*
 
-> I have some monitoring capabilities but they’re dated; I would like more capabilities but is it worth the trouble?
+I have some monitoring capabilities but they’re dated; I would like more capabilities but is it worth the trouble?
 
 *Then you have the Systems team saying:*
 
@@ -110,9 +110,9 @@ This is why I created ODAM.
 
 I’d like to take a moment to recognize everyone who has reviewed, contributed, discussed, provided feedback, or otherwise helped with ODAM. If it weren’t for an incredible group of humans, this would not exist. To each and every person who works in SLED: you are an incredible motivation to me. I made this for you.
 
-Special thanks to Zachary Christensen for putting the beautiful website together: [https://odam.community.](https://odam.community.)
+Special thanks to Zachary Christensen for putting the beautiful website together: <https://odam.community.>
 
 Please note: the views and opinions expressed in this post are those of the author (Chris Perkins) and do not necessarily reflect the official policy or position of my employer, or any other agency, organization, or company. Assumptions made in this post are not reflective of the position of any entity other than the author — and, since we are critically-thinking human beings, these views are always subject to change, revision, and rethinking at any time.
 
 *Originally posted on LinkedIn:*  
-*https://www.linkedin.com/pulse/future-state-data-sled-chris-perkins/*
+<https://www.linkedin.com/pulse/future-state-data-sled-chris->perkins/

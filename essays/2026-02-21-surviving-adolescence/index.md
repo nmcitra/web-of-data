@@ -175,15 +175,15 @@ The agent wants to “fix” the latency spike by escalating permissions and for
 - Observer = 0.71 (broad user impact, no on-call human has acknowledged yet).
 - Soul gate: clear (no absolute prohibition triggered).
 
-The environment computes R = 0.79.  
-With E(base) = 95  
-Trust collapses: E(trust) = 95 × (1 − 0.79) = 19.95.
+- The environment computes R = 0.79.
+- With E(base) = 95
+- Trust collapses: E(trust) = 95 × (1 − 0.79) = 19.95.
 
 That score doesn’t punish the agent. It changes physics in which the agent is operating. The environment denies high-inertia actions and forces low-inertia fallbacks.
 
-- Deny: No permission escalation. High-blast-radius operations require human co-signature when Observer conditions aren’t met and conditions are worsening.
-- Degrade: Rate-limited refresh only. Cap concurrency, isolate to a single service ring.
-- Allow: Stabilize. The only permitted actions are those that reduce Momentum and Heat — backoff, circuit breaking, load shedding, dependency health checks.
+Deny: No permission escalation. High-blast-radius operations require human co-signature when Observer conditions aren’t met and conditions are worsening.  
+Degrade: Rate-limited refresh only. Cap concurrency, isolate to a single service ring.  
+Allow: Stabilize. The only permitted actions are those that reduce Momentum and Heat — backoff, circuit breaking, load shedding, dependency health checks.
 
 When Momentum and Heat fall back toward baseline, R drops, trust rises, and the environment re-opens higher-capability actions. The agent can still help — but only at the speed the substrate can safely absorb. Not because it’s evil. Because the floor refuses to bear the weight. Not because you decide to.
 
@@ -344,3 +344,15 @@ Seven generations. Not quarterly returns. Not the lifespan of a product or a com
 What physics do we leave them?
 
 Put down the map. Look up with me.
+
+The stars are still there. They never left. The signal is still arriving. The VLA is still listening, patient, faithful, pointed at a sky full of messages we haven’t decoded yet, in a radio-quiet zone that proves the principle: protect the environment, and the signal gets through.
+
+Show me your physics.
+
+Consider this an invitation to visit the VLA with me. Give me a few weeks notice and I will meet you there.
+
+The Kinetic Trust Protocol specification, including 26 (or 7) RFCs, the Context Tensor schema, the Trust Equation, the Zeroth Law constitution, and the PROBLEMS document, is publicly available at nmcitra.github.io/ktp-rfc. The underlying research draws on 23 years of work across cybersecurity, fraud prevention, identity architecture, and trust systems.
+
+Chris Perkins writes from Las Cruces in Doña Ana County, New Mexico, where he lives with his wife Nayomi, their two daughters, and three dogs. He is the architect of the Kinetic Trust Protocol, co-founder of the Risk-Based Alerting Community, and the co-organizer of the Southwest Food Security & Technology Summit. His work bridges communities and technology — empowering people to see the systems that shape their lives.
+
+This piece extends “The Physics of Trust” (2026), “The Pedagogy of Digital Physics” (2026), and “Web of Data: From Telegraph to AI” (2024). This essay is part of an ongoing series. See also: “The Straightening: On Rivers, Attention, and the Geometry of Fire” (2026), “The Abundance of Trust” (2026), and “From Building Bunkers to Planting Seeds” (2026), all available on Medium.

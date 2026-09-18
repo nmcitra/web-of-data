@@ -27,11 +27,14 @@ You do not need to be an engineer to follow the ideas. Curiosity is enough.
 
 ## The Complete Voyage
 
-![](images/figure-01.png)
-
 ## What We Named
 
 As the journey progressed, a vocabulary took shape.
+
+**The Zeroth Law**  
+Autonomy cannot exceed environmental stability.  
+A ≤ E.  
+The hull of the vessel.
 
 **The Context Tensor**  
 Seven dimensions that let the Internet feel its own weather:  
@@ -69,7 +72,7 @@ The voyage is the story. The specifications are the compass.
 
 All specifications are available at [**github.com/nmcitra/ktp-rfc**](https://github.com/nmcitra/ktp-rfc/tree/main):
 
-- [Core RFC](https://github.com/nmcitra/ktp-rfc/blob/main/rfcs/ktp-core.txt) — **The Zeroth Law**
+- [Core RFC](https://github.com/nmcitra/ktp-rfc/blob/main/rfcs/ktp-core.txt) — The Zeroth Law
 - [Constitution RFC](https://github.com/nmcitra/ktp-rfc/blob/main/constitution.txt) — Ten laws that hold the shape
 - [Context Tensor RFC](https://github.com/nmcitra/ktp-rfc/blob/main/rfcs/ktp-sensors.txt) — Seven dimensions, fully specified
 - [Trust Equation RFC](https://github.com/nmcitra/ktp-rfc/blob/main/rfcs/ktp-crypto.txt) — The mathematics of dynamic trust
@@ -79,7 +82,7 @@ All specifications are available at [**github.com/nmcitra/ktp-rfc**](https://git
 - [Flight Recorder RFC](https://github.com/nmcitra/ktp-rfc/blob/main/rfcs/ktp-audit.txt) — Geometry of accountability
 - [Celestial RFC](https://github.com/nmcitra/ktp-rfc/blob/main/rfcs/ktp-celestial.txt) — Because the physics doesn’t stop at Earth
 
-## Follow the Voyage
+Follow the Voyage
 
 *The crossing begins with* [*Day 1: Departure*](https://medium.com/@chrisperkins505/departure-525049f52c23).
 

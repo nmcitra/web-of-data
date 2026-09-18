@@ -176,7 +176,7 @@ This is the joy of conatus in the age of AI.
 
 > ”The road to these things that I have pointed out now seems very hard, but it can be found. And of course something that is found so rarely is bound to be hard. For if salvation were ready to hand and could be found without great effort, how could it come about that almost everyone neglects it? But excellence is as difficult as it is rare.” — Baruch Spinoza, Ethics
 
-![We stop sailing by the map. We start sai](images/figure-01.jpg)
+![We stop sailing by the map. We start sailing by the stars.](images/figure-01.jpg)
 
 Look at that photograph. I took it in Los Pargos, Costa Rica, with nothing but my Canon R6 pointed at the night. Those are the same stars the Polynesian navigators used to cross the Pacific. The same stars humans have trusted for ten thousand years.
 

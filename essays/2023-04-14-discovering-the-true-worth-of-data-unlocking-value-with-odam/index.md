@@ -19,6 +19,20 @@ The ODI report says it perfectly:
 
 > Many of the issues associated with valuing and unlocking value from data arise from its economic characteristics. As laid out in the Value of Data report published by the Bennett Institute for Public Policy and the ODI, data has particular characteristics that differentiate it from other goods or assets that organisations normally hold or have access to:
 
+Data can be used multiple times without being depleted, which makes it hard to know how it might be used in the future and thus to quantify its potential value over time.
+
+Data is ‘non-rival’, meaning that the same data can potentially be used by multiple actors at the same time without them needing to compete for access to it.
+
+Data may have different levels of excludability. Although it is non-rival in nature, in some cases some actors may have the capacity to restrict others from accessing or using certain data.
+
+Data often involves externalities. The use of data can produce positive or negative effects for actors beyond those who collect, process or use it.
+
+Data may have option value: its value may increase in the future if it can be put to productive uses that have not yet been thought of, or anticipated by, its current holders.
+
+Its value is strongly linked to access: all other things being equal, the more accessible data is, the greater the value that can be created from it.
+
+It’s extremely difficult to estimate or predict the uses to which data might be put and as a consequence, the total value or benefit that any individual actor or society as a whole could theoretically get from a specific dataset. Value can be created from data multiple times, for multiple stakeholders every time it gets used and reused, and its dimensions are highly dependent on the context in which the data is used and the infrastructure, assets (including, but not limited to, other data assets) and skills with which it can be combined. Clinical data that was originally collected to track a patient’s progress, for example, can potentially become useful in the development of new health services or for health policy decisions once individual records are depersonalised, aggregated and combined with other sources of data.
+
 ## ODI’s Theory of Change
 
 ### Building a Safer and Resilient Digital World
@@ -33,7 +47,7 @@ The ODI is a trailblazer in the realm of open data culture, striving to create a
 6. Outcomes: Boosting data literacy, accessibility, transparency, and driving innovation and economic growth.
 7. Impacts: Enabling better decision-making, improved public services, increased citizen participation, and sustainable development.
 
-![Theory of Change](images/figure-01.png)
+Theory of Change
 
 ODI identifies three core activities that generate impact from data:
 
@@ -71,7 +85,9 @@ ODI introduces a simple two-by-two matrix for prioritizing use cases at an ecosy
 
 At its core, ODAM provides guidance to organizations looking to prioritize which data to collect, which systems to monitor, and which applications to instrument. Using ODAM and the IT Service Blueprint, organizations can list out their critical services and begin to map them to the two-by-two matrix below and develop strategies to maximize their benefits.
 
-![Caption: Ecosystem use cases prioritizat](images/figure-02.png)
+![](images/figure-01.png)
+
+![Caption: Ecosystem use cases prioritization matrix; page 22.](images/figure-02.png)
 
 Improve Access to Data
 
@@ -96,3 +112,17 @@ The Data Spectrum
 The final favorite from the report is the Data Spectrum chart. Just look at this beautiful graphic!!
 
 ![](https://miro.me[BLOCKED: Cookie/query string data]-vision-and-manifesto/our-theory-of-change/)
+
+The ODI Data Spectrum, Page 19
+
+The Data Spectrum helps organizations determine the extent to which data should be shared with partners, stakeholders, and the ecosystem. As data moves from closed to shared to open, the potential for creating value and impact rises, but so do the risks. ODAM offers a method for balancing these factors, ensuring that data sharing is optimized for maximum value and minimal risk.
+
+I can see how this can be applied to zero trust architecture discussions and planning efforts. I’d like to know your thoughts on that!
+
+In Conclusion
+
+Check out the full report and let me know what you think about it! If you have a chance, please check out the ODAM paper (roughly 100 pages long!) and let me know if you think there are any parts of ODAM that were helpful to you.
+
+You can follow ODI on LinkedIn and please do check out their website here.
+
+Farmland (ODI)

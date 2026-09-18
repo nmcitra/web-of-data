@@ -75,32 +75,32 @@ At its core, storytelling is about making connections: to our shared history, to
 
 Data narratives are as complex and detailed as the most exquisite tapestries when we weave them through the loom of storytelling. Expert data storyteller Brent Dykes breaks it all down in his book “Effective Data Storytelling: How to Drive Change with Data, Narrative, and Visuals.” Dykes breaks down this art form into its fundamental components: an engaging story, striking images, and, of course, data, the unprocessed material from which we construct our stories.
 
-![Effective Data Storytelling, Brent Dykes](images/figure-03.png)
+![Effective Data Storytelling, Brent Dykes.](images/figure-03.png)
 
 By going further, as Brent does in his book, we find the Aristotle Rhetorical Triangle. I’m paraphrasing Dykes when I say that your data story’s success will be influenced by both the reliability of your data and your own credibility (Ethos). Your data story will rely heavily on logic (Logos) appeal since it is supported by facts and figures. Your message becomes more captivating when you integrate the data into a compelling story that appeals to the emotions (Pathos). Putting a visualized insight at the center of your message sharpens its purpose and focus, adding appeal (Telos). Ultimately, your message has the potential to be a potent change agent when it is shared with the appropriate audience at the appropriate moment (Kairos) through a pertinent data story.
 
-![Effective Data Storytelling, Brent Dykes](images/figure-04.png)
+![Effective Data Storytelling, Brent Dykes.](images/figure-04.png)
 
-## Storytelling: narratives in numbers and crafting stories from data
+Storytelling: narratives in numbers and crafting stories from data
 
 The need to distill massive amounts of data into useful insights has never been greater than in the modern day. Our goal is to make data more approachable and relevant to everyone by crafting narratives that shed light on its complexity. Starting with background information, we provide the groundwork for the significance of the facts we offer, turning raw statistics into compelling narratives that have an effect in the actual world.
 
-- **Context:** Setting the scene by providing background information that helps the audience understand why the data matters. Context turns data from mere numbers into a narrative with relevance to the audience’s experiences or challenges.
+**Context:** Setting the scene by providing background information that helps the audience understand why the data matters. Context turns data from mere numbers into a narrative with relevance to the audience’s experiences or challenges.
 
 Subsequently, clarity emerges, reducing the complicated into insights that appeal to a wide range of people despite where they are on their journey of data literacy. However, having understanding without trusting the facts to be accurate and transparent is like being lost without a compass.
 
-- **Clarity:** Simplifying complex data into understandable insights. This involves using clear visuals, avoiding jargon, and breaking down complex concepts so that the story is accessible to all audience members, regardless of their data literacy levels.
-- **Confidence:** Having confidence in the data and its accuracy, fidelity, and trustworthiness. Is the data transparent? Does it include stakeholders (i.e., who the data is being sourced from / collected on)?
+**Clarity:** Simplifying complex data into understandable insights. This involves using clear visuals, avoiding jargon, and breaking down complex concepts so that the story is accessible to all audience members, regardless of their data literacy levels.  
+**Confidence:** Having confidence in the data and its accuracy, fidelity, and trustworthiness. Is the data transparent? Does it include stakeholders (i.e., who the data is being sourced from / collected on)?
 
 At its core, our narrative is about building connections, where numbers come alive in people’s lives, transforming raw data and abstract signals into a powerful tool for understanding and empathy. By utilizing graphs, photos, and interactive components, we may create a captivating and engaging narrative through conveyance, which is a form of visual storytelling.
 
-- **Connection:** Humanizing the data by linking it to real-world implications, stories, and experiences. This element bridges the gap between abstract figures and the tangible impact on individuals and communities, making the data relatable and emotionally resonant.
-- **Conveyance:** Employing effective visualization and narrative techniques to convey the message. Whether through graphs, charts, images, or interactive elements, conveyance is about choosing the right tools to communicate the story in a compelling and engaging manner.
+**Connection:** Humanizing the data by linking it to real-world implications, stories, and experiences. This element bridges the gap between abstract figures and the tangible impact on individuals and communities, making the data relatable and emotionally resonant.  
+**Conveyance:** Employing effective visualization and narrative techniques to convey the message. Whether through graphs, charts, images, or interactive elements, conveyance is about choosing the right tools to communicate the story in a compelling and engaging manner.
 
 Still, a Call to Action is an essential part of every tale. By encouraging readers to reevaluate their assumptions, expand their horizons, and actively participate in creating a better society, we hope that our stories will do more than merely educate.
 
-- **Call to Action:** Inspiring action or change by presenting data in a way that motivates the audience. This could involve highlighting opportunities for improvement, suggesting steps for action, or urging reconsideration of current practices based on the data’s insights.
-- **Continuity**: Ensuring the data story is part of an ongoing conversation. This involves updating the narrative as new data becomes available, reflecting on past predictions or actions, and keeping the audience engaged over time. Continuity turns a single data story into a narrative thread that can guide decision-making and innovation continuously.
+**Call to Action:** Inspiring action or change by presenting data in a way that motivates the audience. This could involve highlighting opportunities for improvement, suggesting steps for action, or urging reconsideration of current practices based on the data’s insights.  
+**Continuity**: Ensuring the data story is part of an ongoing conversation. This involves updating the narrative as new data becomes available, reflecting on past predictions or actions, and keeping the audience engaged over time. Continuity turns a single data story into a narrative thread that can guide decision-making and innovation continuously.
 
 All of these things come together to make data storytelling our specialty, transporting the audience to a place where data is more than simply understood; it is lived, felt and used. Together, we will take this next step toward a society that is better educated, more actively involved in its governance, and more empowered by turning facts into stories, insights into actions, and data into decisions.
 
@@ -112,17 +112,18 @@ All of these things come together to make data storytelling our specialty, trans
 
 Let’s first examine the three data planes: signal, semantics and logic, in order to gain a complete understanding of data. See the most recent article “Mapping the Cyber Terrain” for further information.
 
-1. The first raw data form is called the signal layer. It is comparable to ore that is ready to be extracted for its precious metals.
-2. Semantics then enters the picture and gives this raw data context, converting numbers and observations into insightful and practical knowledge.
-3. The logic layer goes one step further, employing reasoning to identify trends, draw inferences, and make predictions about the future based on fresh data.
-
-![Signals, Semantics, Logic.](images/figure-06.png)
+The first raw data form is called the signal layer. It is comparable to ore that is ready to be extracted for its precious metals.  
+Semantics then enters the picture and gives this raw data context, converting numbers and observations into insightful and practical knowledge.  
+The logic layer goes one step further, employing reasoning to identify trends, draw inferences, and make predictions about the future based on fresh data.  
+Signals, Semantics, Logic.
 
 NASCIO emphasizes the importance of state employees understanding the value of data, finding the right information, and correctly interpreting it, similar to the journey through these data planes. It is critical to be able to transition from signal to semantics and apply logic. Without these skills, data cannot be used to aid decision-making.
 
 ## Clarity in the chaos
 
 The initial stage in mastering the intricate data world is to comprehend the basic levels of signal, semantics, and logic. The signals, which are the information nuggets in a data river and are unprocessed raw data points, can only be found by sorting through the noise. The story, though, is far from over. In order to provide these signals with context, a common language, and the ability to be transformed into useful information, we must engage in semantics. Through the application of logic, we are able to decipher patterns, identify outliers, and derive conclusions that direct our subsequent actions (i.e., AI).
+
+![](images/figure-06.png)
 
 ![Detailed Signals, Semantics, Logic.](images/figure-07.png)
 
@@ -138,7 +139,9 @@ Descriptive analytics offers a rearview mirror view of the data, revealing what 
 
 As the name implies, predictive analytics forecasts future risk or outcomes using data, giving an idea of possible future events based on past data trends. The ultimate form of data analytics is called prescriptive analytics, which makes suggestions about how to proceed in order to minimize risks or attain desired results. Every stage builds on the one before it, forming an all-encompassing framework for fully comprehending and utilizing data.
 
-![Intersection of the three data planes an](images/figure-08.png)
+![Intersection of the three data planes and four levels of data analytics.](images/figure-08.png)
+
+## Integrating NASCIO’s vision with the three layers of data and the four levels of data analytics
 
 NASCIO’s recent work highlights the path toward a workforce that is fluent in the language of data, its context, and the analytics that give it life. It goes beyond just honing the craft of maintaining [beautiful data](https://odam.community/part-1/) and venturing into the unexplored realms of generative AI. These challenges are only a few of the many chapters in the larger story of data knowledge, which spans from the raw, signal origins of data to the strategic apex of prescriptive analytics.
 
@@ -152,24 +155,24 @@ By advocating for state employees to acquire data management and analytics skill
 
 ## NASCIO competencies
 
-1. Understanding the importance of data — Recognizing what data is and its significance.
-2. Knowing/learning where to find data needed for informing a particular decision.
-3. Knowing how to read and interpret data — Being able to understand and make sense of data.
-4. Understanding basic principles of data management — Grasping how data should be organized, stored, and maintained.
-5. Knowing how to prepare and analyze data — Being capable of manipulating data for analysis and drawing conclusions from it.
-6. How to communicate with others using data — Effectively sharing data insights and findings with others.
+Understanding the importance of data — Recognizing what data is and its significance.  
+Knowing/learning where to find data needed for informing a particular decision.  
+Knowing how to read and interpret data — Being able to understand and make sense of data.  
+Understanding basic principles of data management — Grasping how data should be organized, stored, and maintained.  
+Knowing how to prepare and analyze data — Being capable of manipulating data for analysis and drawing conclusions from it.  
+How to communicate with others using data — Effectively sharing data insights and findings with others.
 
 Let’s take a look at how NASCIO’s six competencies intersect with the three data planes and four levels of data analytics.
 
-![NASCIO’s six competencies, data layers, ](images/figure-09.png)
+![NASCIO’s six competencies, data layers, and analytics levels breakdown.](images/figure-09.png)
 
 ## Do you have any spare change?
 
-> “Our dilemma is that we hate change and love it at the same time; what we really want is for things to remain the same but get better.” — Sydney J. Harris, Journalist and Author
+“Our dilemma is that we hate change and love it at the same time; what we really want is for things to remain the same but get better.” — Sydney J. Harris, Journalist and Author
 
 Effective data stories can drive change when you combine the right data, with the right narrative and visuals.
 
-![Effective Data Storytelling, Brent Dykes](images/figure-10.png)
+![Effective Data Storytelling, Brent Dykes.](images/figure-10.png)
 
 ## Moving forward
 

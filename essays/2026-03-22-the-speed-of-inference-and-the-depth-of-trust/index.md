@@ -103,7 +103,7 @@ Every token generated at inference speed is a drop of water moving through a con
 
 > **The Arroyo Paradox:** when a system that was already solving the problem gets reclassified as the problem itself. The arroyos were infrastructure. The city called them flood hazards. The slow, frictional physics of trust was maintaining coherence. The industry called it latency and engineered it away.
 
-![https://amafca.org/gis-maps-data/](images/figure-01.png)
+![<https://amafca.org/gis-maps-data/>](images/figure-01.png)
 
 ## Physics at the Speed of Water
 

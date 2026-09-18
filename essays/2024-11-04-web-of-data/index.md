@@ -47,7 +47,7 @@ When the book was closed, the page edges were a shiny, bright gold color. Soft t
 
 Each book was the color of dark mud, and the letters on the spine were aged gold.
 
-![What I remember my set of encyclopedias ](images/figure-02.jpg)
+![What I remember my set of encyclopedias looking like.](images/figure-02.jpg)
 
 How much information or knowledge can a publisher fit into these books? What information must they include, and what information is optional? What if the information changes?
 
@@ -93,6 +93,10 @@ According to the New Mexico Museum of Art, an American minister to Mexico, James
 
 > “The Mesilla Valley through which the Rio Grande runs is the spiritual and ancestral homelands of the Manso people. The Manso people continues, and will continue, to be the community Indigenous to the city we call Las Cruces.
 
+The City of Las Cruces has been cared for by these tribal peoples who are the original, historical, and perpetual stewards of this land. Their culture plays an immeasurable role in shaping the ethos of the wonderful community of Las Cruces. The current Piro-Manso-Tiwa tribe are the forebears of Las Cruces and the successors of their ancestors who were the first people of this land; and we are proud to share their ancestral homelands with them and their descendants.”
+
+- Las Cruces City Councilor Bencomo’s Resolution
+
 Power and control, now part of our Web metaphor, connect us to another topic we will get into as part of this article. Surveillance and privacy tie back to identity, sovereignty, self-determination and data.
 
 The eventual expansion of the transcontinental railway, connecting El Paso (in 1881) and Las Cruces (1901) to the Southern Pacific Railroad, led to the convergence with the telegraph system. As new railways were built, telegraph lines were systematically laid alongside the tracks. This integration was driven by the need for efficient communication between trains, stations and railway offices. The telegraph facilitated real-time coordination, improving operational efficiency and safety.
@@ -125,9 +129,17 @@ For example, here’s some data that encompasses changes over time and impact. I
 
 > “The westward expansion of European settlers across the continent in the 19th century was the primary driver in the rapid decline of bison in North America.
 
+Railways, rifles, and an international market for buffalo hides led to “the Great Slaughter” from about 1820 to 1880, when the bison population plummeted from 30–60 million (estimates vary) to fewer than 1,000 animals by the 1890s.
+
+Other factors including the military’s directive to destroy buffalo as a way to control American Indians, the introduction of diseases from cattle, drought, and competition from domestic livestock (horses, cattle, sheep) contributed to the reduction in bison numbers as well.
+
+At their lowest numbers, some estimated that there were only 300 bison that survived the slaughter, bringing the species to the brink of extinction.”
+
+- National Park Service
+
 In 2016, the North American bison was declared the national mammal of the United States. National Bison Day has been observed annually on the first Saturday in November since 2012.
 
-![Two men stand with a minimum of 15,000 b](images/figure-03.png)
+![Two men stand with a minimum of 15,000 bison skulls (circa late 1800s).](images/figure-03.png)
 
 It’s estimated that 30–60 million bison roamed North America pre-contact. The American bison was central to the lives of many Indigenous tribes, particularly those in the Great Plains such as the Lakota, Cheyenne and Comanche. The animal provided essential resources, including meat for food, hide for clothes and bones for tools. These animals hold significant spiritual and ceremonial importance.
 
@@ -148,7 +160,7 @@ This article has been a bear to research and write and I needed a way to organiz
 
 After staring out my home office window for a couple of weeks, the idea dawned on me. A spider web! You see, a couple of weeks ago, my youngest and I put some Halloween decorations up in the front yard. We put some of the stretchy nylon webbing on the porch where my office window is, and strings of purple LED lights in the shape of a web wedge.
 
-![Looking Northwest, an image of a chile r](images/figure-04.jpg)
+![Looking Northwest, an image of a chile ristra with spider webs and a spider.](images/figure-04.jpg)
 
 This metaphor captures perfectly the characteristics I see when describing such big, varying and interconnected systems-of-systems. This Web-based narrative will serve as the rest of the article’s foundational framework as we explore data, knowledge, information flows, identity, surveillance, privacy and data governance.
 
@@ -176,7 +188,10 @@ When we examine traditional knowledge management systems, we find that their fou
 - Infrastructure for Sharing and Storing
 - Ensuring data is accessible yet secure.
 
-![](images/figure-05.png)
+Techniques for Ensuring Integrity and Privacy  
+Protecting data from misuse.  
+Laws, Policies, Practices and Protocols  
+Governing the ethical and technical use of data.
 
 By asserting ownership and control over their data, Indigenous communities can ensure that data supports their own goals and priorities, rather than serving the interests of those who have historically marginalized them.
 
@@ -198,7 +213,7 @@ Surveillance and Privacy: The Mechanisms of Oppression
 
 Oppressive systems exert control over data, information and knowledge, intertwining surveillance and privacy concerns with the broader themes of identity and sovereignty. The manipulation and oversight of data serve as tools for maintaining dominance, restricting the autonomy of Indigenous communities and undermining their efforts toward self-determination.
 
-![](images/figure-06.png)
+![](images/figure-05.png)
 
 Empowering Indigenous Communities Through Data Sovereignty
 
@@ -208,7 +223,7 @@ By asserting ownership and control over their data, Indigenous communities can e
 
 Sovereignty is the right of a People to govern themselves.
 
-![](images/figure-07.png)
+![](images/figure-06.png)
 
 ### Frameworks Supporting Data Sovereignty
 
@@ -244,13 +259,11 @@ ODAM (Operationalizing Data Analytics Methodology)
 - Analytics: Utilizing data for insightful analysis.
 - Methodology: Applying structured methods to mature organizational capabilities.
 
-### Protecting Privacy Through Frameworks and Policy
+Protecting Privacy Through Frameworks and Policy
 
 Data About People vs. Data Generated by People: Distinct Forms of Control
 
 To illustrate the distinct forms of data control and how various frameworks support Indigenous data sovereignty, let’s examine the following comparison between data about people and data generated by people.
-
-![](images/figure-08.png)
 
 Legal Frameworks
 
@@ -270,7 +283,7 @@ For a deeper exploration of the true worth of data and how methodologies like OD
 
 > Data sovereignty acts as a response to historical injustices by empowering Indigenous communities.
 
-![The Sandia Mountains seen here. Resting ](images/figure-09.jpg)
+![The Sandia Mountains seen here. Resting to the East of Albuquerque, New Mexico.](images/figure-07.jpg)
 
 ## Knowledge: Sources, Control and Power Dynamics
 
@@ -309,7 +322,7 @@ While different sources of knowledge each contribute to our understanding, tradi
 
 Indigenous knowledge resembles, to me, a blend of experiential and moral knowledge, offering a holistic perspective that integrates wisdom, environment and community.
 
-![](images/figure-10.png)
+![](images/figure-08.png)
 
 There are many resources that go into depth on Traditional Knowledge, which I will link at the end. I will highlight later the data labeling framework that I found very interesting and will prove to be very helpful in the pursuit of data sovereignty.
 
@@ -319,11 +332,7 @@ Philosophize This! by Stephen Wes is a long-running podcast with just one person
 
 So I thought it would be interesting to dig into the more popular perspectives on how knowledge manifests into various forms. Let’s take a look into the following historic perspectives on knowledge:
 
-![](images/figure-11.png)
-
 ### Data as Encoded Knowledge
-
-![](images/figure-12.png)
 
 Data analysis as knowledge creation suggests that when data is handled ethically and with community consent, it can generate new insights and foster knowledge growth. Data as Encoded Knowledge posits that data, especially when contextualized, represents a form of knowledge that encapsulates lived experiences, cultural practices and historical narratives. For Indigenous communities, data is intrinsically linked to their identity and autonomy, serving as a vital resource for cultural preservation and self-determination.
 
@@ -335,13 +344,11 @@ Tribal governments today operate sophisticated IT infrastructures comprising app
 
 Epistemic injustice, a term coined by philosopher Miranda Fricker (1999), refers to wrongs done to someone specifically in their capacity as a knower. It involves the marginalization, suppression or devaluation of certain groups’ knowledge and credibility. In the context of Indigenous communities, epistemic injustice has manifested in various forms throughout history, particularly during colonial periods.
 
-![](images/figure-13.png)
+![](images/figure-09.png)
 
 This concept explores how social power dynamics can lead to the unfair distribution of knowledge and credibility, impacting marginalized groups.
 
 Historical context and specific examples:
-
-![](images/figure-14.png)
 
 In addition, the following U.S. policies greatly impacted all areas of epistemic injustices.
 
@@ -353,11 +360,11 @@ In addition, the following U.S. policies greatly impacted all areas of epistemic
 - 1964 Wilderness Act
 - 1974 Navajo-Hopi Relocation Act
 
-### The Interdependence of Knowledge and Power in the Digital Age
+The Interdependence of Knowledge and Power in the Digital Age
 
 Michel Foucault’s concept of power-knowledge emphasizes that power and knowledge are mutually constitutive.
 
-![](images/figure-15.png)
+![](images/figure-10.png)
 
 > “Understanding knowledge requires analyzing the power relations that shape its creation and dissemination.”
 > — Michel Foucault, 1975
@@ -368,12 +375,12 @@ Knowledge and identity encompass a diverse range of forms and moral dimensions, 
 
 As we transition to the next chapter, it is crucial to explore how these foundational understandings of knowledge and power dynamics inform the pursuit of modern data sovereignty. I believe, addressing historical injustices and leveraging contemporary strategies, we can advance towards a more inclusive and balanced approach to knowledge governance.
 
-![On the trail to Dripping Springs in the ](images/figure-16.jpg)
+![On the trail to Dripping Springs in the Organ Mountains.](images/figure-11.jpg)
 
 ## Identity: Types, Evolution and Power Dynamics
 
-> “Our identities are always changing and growing, they’re not meant to be pinned down. Our histories are never all good or all bad, and running from the past is the surest way to be defined by it. That’s when it owns us. The key is bringing light to the darkness — developing awareness and understanding.”
-> — Brené Brown, Rising Strong
+“Our identities are always changing and growing, they’re not meant to be pinned down. Our histories are never all good or all bad, and running from the past is the surest way to be defined by it. That’s when it owns us. The key is bringing light to the darkness — developing awareness and understanding.”  
+— Brené Brown, Rising Strong
 
 This quote by Brené Brown sets the stage for understanding identity as a dynamic Web. Imagine your identity as a thread within the Web of Data — a vast, interconnected network that spans both your digital and physical lives.
 
@@ -389,9 +396,7 @@ Building on this fundamental distinction, various philosophical theories have em
 
 Let’s have a look at the fundamental differences in identity theories.
 
-![](images/figure-17.png)
-
-![Created in Midjourney: The Web of Data.](images/figure-18.png)
+![Created in Midjourney: The Web of Data.](images/figure-12.png)
 
 ### The Web of Data
 
@@ -439,23 +444,23 @@ Let’s have a look at the fundamental differences in identity theories.
 
 In the Web of Data, your self-concept and self-esteem are like the strength and brightness of your personal threads. High self-esteem makes your thread shine brightly, confidently navigating through various connections, while low self-esteem dims it, making you more susceptible to external influences. As you move through the Web, your self-concept evolves, reflecting the ongoing interactions and experiences that shape who you are.
 
-![](images/figure-19.png)
+![](images/figure-13.png)
 
 ### Communal Identity
 
 Within the Web of Data, communal identities form clusters of interconnected threads, each representing shared values, traditions and cultural practices. These clusters create strong, supportive links that reinforce collective identity and solidarity, much like how communities nurture and preserve cultural heritage amidst the vast network.
 
-![](images/figure-20.png)
+![](images/figure-14.png)
 
 ### Social Identities
 
 Intersectionality in the Web of Data is like multiple threads overlapping and intertwining, each representing different aspects of social identity such as race, gender and class. These intersecting threads create unique patterns that illustrate how diverse identities interact and shape each other, adding layers of complexity to the Web and influencing individual experiences within the network.
 
-![](images/figure-21.png)
+![](images/figure-15.png)
 
 ### Non-Human Identity
 
-> Non-human identities in the Web of Data are like the essential environmental threads that support the entire network.
+Non-human identities in the Web of Data are like the essential environmental threads that support the entire network.
 
 In the Web of Data, non-human identities are like the roadways within a city, the veins within a body or the tree line at the edge of a forest — essential environmental threads that support the entire network. Land, animals and ecosystems each have their own unique threads, interwoven with human identities. This interconnectedness highlights the relational nature of identity, where the well-being of non-human entities is intrinsically linked to the health and resilience of human communities.
 
@@ -467,11 +472,19 @@ Agency and Personhood
 - Non-human entities are often viewed as active participants within the Web of Data, possessing their own agency and rights. They are not merely background elements but integral threads that influence and sustain the entire Web.
 - Challenging Anthropocentrism
 
+This perspective challenges the conventional human-centric view of identity. By recognizing the agency of non-human entities, we promote a more inclusive understanding of community and existence.  
+Metaphorical Representation  
+Just as veins carry vital nutrients throughout a body, non-human identities transport essential knowledge, cultural values and ecological benefits across the Web, nourishing both the environment and human societies.
+
 Spiritual and Cultural Significance
 
 - Imbued with Meaning
 - Non-human identities are deeply embedded with spiritual and cultural meanings, often tied to myths, legends and traditional practices. They serve as anchors within the Web of Data, grounding human identities in a larger cosmological framework.
 - Maintaining Heritage
+
+These identities play a crucial role in preserving cultural heritage and collective memory. They act as bridges connecting past, present and future generations through shared narratives and practices.  
+Symbolic Threads  
+In the Web, these entities are symbolic threads that weave together stories, beliefs and values, reinforcing the fabric of communal identity.
 
 Influence on Individual and Communal Identity
 
@@ -483,6 +496,10 @@ Recognizing non-human entities as part of one’s identity can:
 - Encourages individuals to empathize with the environment, leading to more compassionate interactions with nature.
 - Promote Environmental Consciousness
 
+Heightens awareness of ecological issues and motivates sustainable living practices.  
+Strengthen Cultural Pride  
+Reinforces connections to cultural traditions and ancestral knowledge, boosting communal solidarity.
+
 For Indigenous peoples, this interconnected identity framework reinforces traditional knowledge systems and sustainable living practices, which are essential for cultural resilience and environmental stewardship. The non-human threads in the Web of Data are vital pathways that transmit ecological wisdom and cultural values, ensuring the legacy and continuity of Indigenous identities.
 
 Continuity and Change
@@ -493,15 +510,16 @@ Like human identity, non-human identity is subject to continuity and change with
 - Traditional practices and oral histories help maintain the continuity of non-human identities, ensuring their persistence across generations. These practices keep the threads strong and intact, preserving the integrity of the Web.
 - Challenges from Modernization
 
-### Identity in the Digital Age
+Environmental degradation, cultural assimilation and technological advancements can disrupt these identities, leading to the weakening or loss of non-human threads in the Web. This disruption can cause fragmentation in the web, affecting both ecological balance and cultural cohesion.  
+Efforts for Revival  
+Initiatives to revive and preserve non-human identities are crucial. By strengthening these environmental threads, communities work towards restoring the cultural integrity and ecological balance within the Web of Data.  
+Identity in the Digital Age
 
 In the Web of Data, online identities are like distinct pathways that lead to various virtual spaces. Each interaction leaves a digital footprint — a trail that shapes and reveals aspects of who we are. Virtual communities serve as vibrant nodes within the Web, where collective and individual identities converge, fostering a dynamic environment for cultural expression and personal growth.
 
 In the era of Web 2.0, digital technologies have profoundly transformed the way identities are formed, managed and perceived. The advent of social media, e-commerce, entertainment (e.g., gambling) and virtual communities have introduced new dimensions to identity construction, challenging traditional interpretation of self and community.
 
 Next, let’s have a closer look at Online Identities, Digital Footprint and Privacy and Virtual Communities, examining their roles in shaping individual and communal identities.
-
-![](images/figure-22.png)
 
 ### The Evolution of Identity
 
@@ -535,7 +553,7 @@ Ultimately, a comprehensive grasp of identity — its philosophical roots, socia
 
 So, next time you’re asked to introduce yourself, what are you going to say?
 
-![Southern New Mexico near the Rio Grande.](images/figure-23.jpg)
+![Southern New Mexico near the Rio Grande.](images/figure-16.jpg)
 
 ## Information Flows and Communication
 
@@ -572,7 +590,7 @@ This information and knowledge about me and my performance is highly sensitive f
 
 From a transmission perspective, the fundamentals listed above apply. Let’s take a look at the seven fundamentals within the context of an Employee Performance Review information flow.
 
-![](images/figure-24.png)
+![](images/figure-17.png)
 
 With the examples of an Electronic Medical Record and Employee Performance Review information flows, we see how the seven transmission fundamentals factor in when transmitting or otherwise sharing data.
 
@@ -590,18 +608,22 @@ Next up, Contextual Integrity and after that: How access to communications netwo
 
 ### Contextual Integrity Framework
 
-> “It posits a new construct, ‘contextual integrity,’ as an alternative benchmark for privacy, to capture the nature of challenges posed by information technologies. Contextual integrity ties adequate protection for privacy to norms of specific contexts, demanding that information gathering and dissemination be appropriate to that context and obey the governing norms of distribution within it. Building on the idea of “spheres of justice,” developed by political philosopher Michael Walzer, this Article argues that public surveillance violates a right to privacy because it violates contextual integrity; as such, it constitutes injustice and even tyranny.
-> — Privacy as Contextual Integrity developed by Helen Nissenbaum
+“It posits a new construct, ‘contextual integrity,’ as an alternative benchmark for privacy, to capture the nature of challenges posed by information technologies. Contextual integrity ties adequate protection for privacy to norms of specific contexts, demanding that information gathering and dissemination be appropriate to that context and obey the governing norms of distribution within it. Building on the idea of “spheres of justice,” developed by political philosopher Michael Walzer, this Article argues that public surveillance violates a right to privacy because it violates contextual integrity; as such, it constitutes injustice and even tyranny.  
+— Privacy as Contextual Integrity developed by Helen Nissenbaum
 
 The concept of privacy as contextual integrity, developed by Helen Nissenbaum (2004), offers a nuanced framework for understanding how information flows should be managed within different contexts to maintain privacy and trust. This framework asserts that privacy is preserved when information gathering and dissemination are appropriate to the specific context and adhere to its governing norms. In this section, we introduce the core principles of the Contextual Integrity Framework — Contextual Norms, Actors and Attributes and Transmission Principles — and explore how they relate to the Web of Data metaphor.
 
-![](images/figure-25.png)
+![](images/figure-18.png)
 
 Core principles:
 
 - Contextual Norms
 - Understanding the specific norms governing information flows within different contexts
 - Actors and Attributes
+
+Identifying the entities involved in information transmission and their relevant attributes  
+Transmission Principles  
+Rules and expectations for how information is shared and used
 
 As we apply these core principles to the Web of Data metaphor, important nuances emerge that deepen our understanding of privacy and information flow. For instance, Contextual Norms mean that for any segment of the Web, these norms act as the local rules and expectations governing how information can be shared and utilized. Violating these norms can disrupt the continuity of the Web, challenging its resilience and leading to breaches of trust, misuse and other ethical dilemmas.
 
@@ -631,11 +653,11 @@ As stated by Local Contexts:
 
 > “The Traditional Knowledge (TK) Labels allow communities to express local and specific conditions for sharing and engaging in future research and relationships in ways that are consistent with already existing community rules, governance, and protocols for using, sharing, and circulating knowledge and data.”
 
-![](images/figure-26.png)
+![](images/figure-19.png)
 
-![](images/figure-27.png)
+![](images/figure-20.png)
 
-![](images/figure-28.png)
+![](images/figure-21.png)
 
 For Indigenous communities, the use of TK Labels is a way to embed ethical considerations into data management practices. By specifying conditions for access and use, these labels help prevent misuse and support the preservation of cultural heritage.
 
@@ -648,6 +670,11 @@ The Operationalizing Data Analytics Methodology (ODAM) framework can play a pivo
 - Process Standardization
 - It outlines processes for data handling that can be uniformly applied, ensuring consistency.
 
+Scalability  
+The framework is designed to be adaptable to different organizational sizes and data volumes.  
+Sustainability  
+By promoting best practices, ODAM helps organizations build sustainable data management systems that can evolve with changing needs.
+
 Designing Data Systems Aligned with Indigenous Protocols
 
 In practice, aligning data systems with Indigenous protocols involves:
@@ -656,6 +683,11 @@ In practice, aligning data systems with Indigenous protocols involves:
 - Establishing governance bodies composed of community members to oversee data practices.
 - Culturally Relevant Categorization
 - Applying labels that reflect Indigenous worldviews and knowledge.
+
+Access Controls Based on Community Norms  
+Implementing permissions that align with cultural protocols regarding who can access certain types of information.  
+Capacity Building  
+Investing in training and resources for Indigenous communities to manage and utilize data systems effectively.
 
 This alignment reinforces the autonomy and self-determination of Indigenous communities, ensuring that data practices do not inadvertently perpetuate colonial dynamics.
 
@@ -679,7 +711,7 @@ This scenario echoes the historical exclusion experienced during the expansion o
 
 Recognizing these recurring patterns is crucial. Addressing the digital divide requires intentional efforts to include Indigenous voices in the development and control of communication technologies. By empowering these communities with access and agency, we can transform communication landscapes into platforms for inclusivity and equitable growth.
 
-![https://nabpi.unm.edu/assets/documents/r](images/figure-29.png)
+![https://nabpi.unm.edu/assets/documents/research/digital-divide-infographic.pdf](images/figure-22.png)
 
 Looking five to ten years into the future, there is both hope and critical work to be done to ensure that the patterns of marginalization faced by Indigenous communities are not repeated but instead reversed. The goal is to transform the communication landscape into one that is inclusive, equitable and empowering for Native American communities, particularly for women and girls.
 
@@ -688,7 +720,12 @@ In the next decade, with improved Internet access:
 - Digital Education Platforms
 - Schools on reservations could integrate digital learning tools, providing students with resources comparable to those available in well-connected areas. This access can help close the educational achievement gap.
 
+Cultural Preservation and Language Revitalization  
+Enhanced connectivity allows for the creation and sharing of digital resources aimed at preserving Indigenous languages and cultures, engaging younger generations through technology.
+
 Going back to the early 18th century, Samuel Morse had not only invented Morse Code, but the Morse Telegraph system as well. This technology and its distinctive sounds will change the landscape and echo forever into time.
+
+The sound of Morse Code.
 
 Growing up in the 80s and 90s (as my youngest says, “the late 1900s”), my world of communication technologies centered around the landline phone in our home. Initially the curly-corded handset, then eventually, a 900 megahertz handset that had signal issues when the microwave was running!
 
@@ -728,12 +765,12 @@ As we consider the impact of these technologies, it is important to acknowledge 
 
 This viewpoint reminds us that communication technologies are not just tools for transmitting information; they are instruments that can either bridge or widen gaps between communities. Actors can harness the power of technology to shape identities, influence relationships and affect the continuity of cultures.
 
-![The sky above Las Cruces, New Mexico fro](images/figure-30.jpg)
+![The sky above Las Cruces, New Mexico from the top of A Mountain.](images/figure-23.jpg)
 
 ## Surveillance and Privacy
 
-> “Ultimately, saying that you don’t care about privacy because you have nothing to hide is no different from saying you don’t care about freedom of speech because you have nothing to say.”
-> — Edward Snowden, Permanent Record, 2019
+“Ultimately, saying that you don’t care about privacy because you have nothing to hide is no different from saying you don’t care about freedom of speech because you have nothing to say.”  
+— Edward Snowden, Permanent Record, 2019
 
 During one of my drives, I found myself reflecting on the extensive miles of fencing that cut through the horizon.
 
@@ -782,7 +819,7 @@ The story of early surveillance and its role in land acquisition underscores the
 
 Understanding how surveillance works requires a deep dive into its fundamental components and processes, which collectively enable pervasive monitoring and control in modern society.
 
-![](images/figure-31.png)
+![](images/figure-24.png)
 
 Surveillance systems integrate regulatory policies, advanced technologies and continuous data management to enable pervasive monitoring and control. This infrastructure creates an environment where constant observation becomes normalized.
 
@@ -827,20 +864,32 @@ Internalized Surveillance:
 - Psychological Impact
 - The awareness of being constantly watched can lead individuals to internalize the gaze of the surveillant authority. This internalization means that individuals regulate their own behavior out of fear of judgment or repercussions, rather than out of personal conviction or ethical considerations.
 
+Self-Censorship  
+To avoid negative evaluation, individuals may restrict their actions, opinions and expressions, leading to a homogenization of behavior that aligns with perceived expectations.
+
 Erosion of Trust:
 
 - Trust in Self
 - Continuous surveillance can erode trust in one’s own perceptions and judgments. When individuals are frequently reminded that their actions are being monitored, they may begin to doubt their instincts and rely more heavily on external validation.
+
+Trust in Others  
+Surveillance can also diminish trust in peers and community members. The fear of being watched may lead to secrecy and suspicion, weakening communal bonds and fostering isolation.
 
 Distorted Reality:
 
 - Description
 - The manipulation of information and the selective presentation of data create a distorted perception of reality.
 
+Impact  
+Individuals may become uncertain about the accuracy of their own thoughts and experiences, relying increasingly on corporate algorithms for guidance and validation.
+
 Dependency on Authoritative Systems
 
 - Validation
 - As individuals lose confidence in their own perceptions, they become increasingly dependent on authoritative systems for validation and decision-making. This dependency reinforces the power dynamics between surveillants and the surveilled, as authority figures become the primary sources of truth and legitimacy.
+
+Security  
+The perceived need for protection and security under surveillance fosters a reliance on the systems that monitor them, further entrenching the authority’s control over individual autonomy.
 
 ### Surveillance Capitalism
 
@@ -856,3 +905,198 @@ Key Aspects of Surveillance Capitalism
 
 Data Extraction  
 Continuous and often covert collection of vast amounts of personal data through various digital interactions.
+
+Data extraction is the foundational mechanism of surveillance capitalism, involving the continuous and often covert collection of vast amounts of personal data through various digital interactions. This process transcends traditional data collection methods by tapping into the minutiae of individuals’ online and offline behaviors.
+
+Mechanisms:
+
+Digital Footprinting  
+Every digital interaction — be it browsing the Internet, using social media or engaging with smart devices — creates a digital footprint. Surveillance capitalist enterprises utilize these footprints to gather comprehensive profiles of individuals.  
+IoT and Sensor Networks  
+The proliferation of Internet of Things (IoT) devices and sensor networks in homes, workplaces and public spaces facilitates real-time data collection on a granular level, encompassing everything from physical movements to environmental conditions.  
+Consent Manipulation  
+Often, data extraction occurs under the guise of consent, where users unknowingly agree to extensive data collection through lengthy and complex terms of service agreements.  
+Third-Party Data Brokers  
+Corporations frequently purchase data from third-party brokers, aggregating information from multiple sources to enhance their data repositories without direct user consent.
+
+Zuboff emphasizes that data extraction in surveillance capitalism is not merely about accumulating information but about transforming personal experiences into raw materials (i.e., data) for predictive analytics. This process commodifies every aspect of human behavior, turning individual actions and interactions into data points for profit-driven analysis and manipulation.
+
+Building on these concerns, legal scholar Julie E. Cohen delves deeper into the implications of this commodification in her work on cyberlaw and privacy. In her book “Configuring the Networked Self: Law, Code, and the Play of Everyday Practice” (2012), Cohen argues that treating personal data as a commodity undermines traditional notions of privacy and autonomy. Cohen posits that when individuals are reduced to mere data points within algorithmic systems, their identities and agency are eroded.
+
+Cohen argues that commodifying personal data diminishes individuals’ capacity for self-determination, as people are increasingly subjected to surveillance mechanisms influencing their choices without explicit consent. By treating individuals as objects to be analyzed and predicted, surveillance capitalism disrupts the balance between personal freedom and corporate interests, leading to significant legal and ethical issues.
+
+Behavioral Prediction  
+Utilizing advanced algorithms and machine learning to analyze data and predict future behaviors.
+
+Behavioral prediction involves utilizing advanced algorithms and machine learning techniques to analyze the extracted data and forecast future behaviors. This predictive capability is central to the value proposition of surveillance capitalism, enabling corporations to anticipate and influence consumer actions with high precision.
+
+Mechanisms:
+
+Machine Learning Algorithms  
+These algorithms process vast datasets to identify patterns and correlations that humans might overlook, enabling accurate predictions of future behaviors based on past interactions.  
+Predictive Analytics  
+By analyzing trends and behaviors, companies can forecast not only what consumers will do but also what they will want, thereby preemptively catering to their needs and desires.  
+Contextual Advertising  
+Leveraging predictive models, companies deliver highly targeted advertisements that resonate with individual preferences, increasing the likelihood of engagement and conversion.  
+Personalization Engines  
+These systems customize user experiences across digital platforms, from personalized news feeds to tailored product recommendations, enhancing user engagement while simultaneously collecting more data.
+
+Behavioral Modification  
+Implementing strategies to influence and modify behaviors to align with corporate interests, thereby maximizing profit. Behavioral modification is the culmination of surveillance capitalism’s mechanisms, where data-driven insights are employed to influence and alter behaviors to align with corporate interests. This process not only maximizes profit but also reinforces the dominance of surveillance capitalist enterprises in shaping societal norms and individual actions.
+
+Mechanisms:
+
+Behavioral Nudges  
+Utilizing insights from behavioral economics, companies design subtle interventions that guide users towards specific actions, such as making a purchase or increasing engagement with content.  
+Gamification  
+Incorporating game-like elements into non-gaming environments (e.g., social media platforms) incentivizes behaviors that drive user engagement and data generation.  
+Content Personalization  
+By curating content that aligns with users’ predicted preferences, companies reinforce certain behaviors and consumption patterns, effectively shaping user experiences to favor their business models.  
+Dynamic Pricing  
+Leveraging predictive analytics, companies adjust prices in real-time based on user behavior and demand forecasts, maximizing revenue while influencing purchasing decisions.
+
+Furthermore, Byung-Chul Han (Psychopolitics: Neoliberalism and New Technologies of Power, 2017), explores how surveillance capitalism fosters a “psychopolitics” of performance and self-optimization, where individuals internalize corporate expectations and strive to conform to data-driven norms. He argues that this leads to a paradoxical loss of freedom, as people willingly subject themselves to subtle forms of control that manipulate their innermost thoughts and desires.
+
+Han highlights that the constant pressure to optimize oneself not only undermines personal autonomy but also contributes to widespread feelings of anxiety and burnout. This mirrors concerns raised by Zuboff and Cohen about the commodification of personal data eroding traditional notions of privacy and self-determination.
+
+Privacy Fundamentals
+
+Definition of Privacy  
+Privacy is the right of individuals and communities to control access to their personal information and to make decisions about how that information is shared and used. It encompasses the ability to maintain autonomy and agency over one’s own identity and data within the interconnected Web of Data.
+
+Different Dimensions of Privacy
+
+Informational Privacy  
+Refers to the control over the collection, use and dissemination of personal data. It is crucial in preventing unauthorized access and ensuring that individuals can determine how their information is shared within the Web of Data.  
+Physical Privacy  
+Involves the protection of individuals’ physical spaces from intrusion. This dimension is significant when considering surveillance technologies that may infringe upon personal or communal spaces.  
+Decisional Privacy  
+Pertains to the autonomy to make personal decisions without external interference or coercion. It underscores the importance of self-determination in both personal life and within communities.  
+Proprietary Privacy  
+Relates to the interests individuals or communities have in property, including intellectual property rights over traditional knowledge and cultural expressions.  
+Associational Privacy  
+Concerns the right to freely associate with others without undue surveillance or interference, vital for maintaining communal bonds and cultural practices.
+
+Privacy Principles
+
+Consent  
+Informed consent is fundamental, requiring that individuals and communities are fully aware of how their data will be used and have the capacity to agree freely without coercion. This principle respects the autonomy of data subjects and is critical in ethical data practices.  
+Transparency  
+Transparency involves clear and open communication about data collection methods, purposes and usage. It builds trust between data collectors and subjects, allowing for accountability and informed decision-making.  
+Data Minimization  
+This principle advocates for collecting only the data that is strictly necessary for a specified purpose. It reduces the risk of data breaches and the potential for misuse, aligning with ethical considerations in data handling.  
+Security  
+Ensuring data security through encryption, access controls and other protective measures is vital to maintain confidentiality and integrity. It prevents unauthorized access and protects sensitive information from being compromised.  
+Accountability  
+Entities that collect and process data must be accountable for complying with privacy principles and regulations. This includes regular audits, compliance checks and mechanisms for redress in cases of privacy violations.
+
+Importance of Privacy in Data Governance
+
+Protection of Identity  
+Privacy safeguards individual and communal identities from exploitation and misrepresentation, ensuring that the integrity of personal and collective narratives is maintained within the Web of Data.  
+Autonomy and Agency  
+By controlling access to personal information, privacy empowers individuals and communities to make autonomous decisions, fostering a sense of agency in the digital realm.  
+Prevention of Misuse  
+Robust privacy measures prevent the misuse of data, such as unauthorized surveillance, discrimination or manipulation, which can have profound social and psychological impacts.  
+Privacy in the Digital Age
+
+In our interconnected world, privacy stands as the guardian of the intricate Web of Data which shapes our identities. It empowers individuals and communities to control how their personal information is woven into the vast digital tapestry. By upholding fundamental privacy principles — such as consent, transparency, data minimization and security — we protect the integrity of the personal and communal threads that connect us all.
+
+Within this Web, encryption acts like a protective shield, transforming data into a secure format and safeguarding the threads from unauthorized access. This ensures that sensitive information remains confidential, preserving trust in the network. Access controls serve as gatekeepers, restricting who can view or modify data. By allowing only authorized nodes to interact with specific threads, we maintain the Web’s structural integrity and ensure that interactions are appropriate and secure. Maintaining data integrity and confidentiality is crucial; preserving the original state of data threads ensures that information remains reliable and authentic, fostering confidence across the Web of Data.
+
+By creating pathways between traditional knowledge and modern data systems, we enrich the Web with diverse perspectives and wisdom. This fusion allows for a more robust and inclusive network that honors all forms of knowledge. Additionally, protecting sensitive threads is essential. Safeguarding sacred or culturally sensitive data respects the unique identity threads of Indigenous communities within the Web. By honoring these threads, we ensure that cultural integrity is preserved and valued.
+
+By recognizing and addressing blind spots in current practices, we can move toward a more equitable and respectful digital environment. This commitment ensures that the Web of Data remains a space where every thread is valued, protected and able to contribute to the collective strength and diversity of the network.
+
+Privacy is not just about hiding information; it’s about protecting the essence of who we are within the interconnected world. By valuing privacy, we honor the individuality and dignity of every thread in the Web of Data.
+
+Implications for Indigenous Communities
+
+For Indigenous communities, the gaslighting effect of pervasive surveillance has profound implications, particularly in terms of cultural disempowerment and psychological strain.
+
+Cultural Disempowerment
+
+Continuous surveillance can erode traditional practices and communal bonds. When individuals feel constantly monitored, they may hesitate to engage in cultural expressions and activities that are essential for preserving their heritage. This reluctance can lead to a weakening of cultural identity and a loss of communal cohesion.
+
+Psychological Strain
+
+The mental health impacts are significant. According to the U.S. Department of Health and Human Services Office of Minority Health and the Center for Disease Control (CDC), in 2022, suicide was the second leading cause of death for non-Hispanic American Indians and Alaska Natives ages 10–34. In 2021, the suicide rate among adolescent American Indian and Alaska Native females, ages 15–19, was more than five times higher than that of non-Hispanic white females in the same age group.
+
+![](images/figure-25.png)
+
+National Center for Health Statistics, CDC
+
+The stress and anxiety induced by feeling constantly watched can contribute to mental health issues such as depression, anxiety disorders and a diminished sense of self-worth. This pervasive sense of surveillance exacerbates existing challenges, making it more difficult for individuals to seek help or support.
+
+Autonomy and Control
+
+Autonomy is a fundamental principle of privacy, granting individuals the right to control their personal information and how it is used. The gaslighting effect undermines autonomy by causing individuals to doubt their judgments and perceptions. When surveillance creates an environment of constant monitoring, people may lose confidence in acting independently, relying instead on external authorities for validation and decision-making. This dependency erodes personal control over one’s actions and information, directly violating the principle of autonomy.
+
+Conclusion: Navigating the Interconnected Future  
+Recap
+
+“Data is central to unlocking who we are as Indigenous people. It is central to our healing. We must take a stand for our freedom and our sovereignty. If we say those things then we must live up to it. Breathe it, be it, do it all the time.”  
+— Dr. Sammy Matsaw Jr., Treasurer, Fort Hall Business Council, Shoshone-Bannock Tribes
+
+As we conclude this exploration of the Web of Data, let’s return to where we began.
+
+Housing  
+Education  
+Hiring practices  
+Legal / judicial system  
+Healthcare  
+Voting  
+Environment  
+Taxes  
+Surveillance and policing
+
+These are not just facets of society but the very arenas where our lives unfold. Data permeates each of these domains, central to our existence and interwoven into the fabric of our daily experiences. How we harness this power is ultimately up to us. It calls for resistance against oppressive systems and a commitment to reclaiming our narratives.
+
+Throughout this article, we have explored the Web of Data, discussing how communication technologies — from the telegraph to the Internet — have profoundly impacted Indigenous communities. We began by acknowledging the historical injustices inflicted upon Indigenous Peoples, recognizing that the lasting effects of colonization, forced assimilation and cultural suppression that continue to reverberate today.
+
+We discussed the essence of data, knowledge and identity, underscoring how data embodies lived experiences, cultural heritage and collective wisdom. By examining knowledge and its interdependence with power dynamics, we gained a deeper understanding of how knowledge serves both as a sacred source and a target of control. All leading to historical power imbalances and marginalized Indigenous knowledge systems and epistemic injustices that persist in the digital age.
+
+Our exploration of each thread within the Web of Data revealed the complex interplay between individual, social and communal identities, and the world from which we emerge. We illustrated how identities are dynamic threads woven through experiences, relationships and cultural influences. Recognizing the evolving nature of identity is crucial for respecting and protecting the diverse expressions of self.
+
+The Contextual Integrity Framework provided us with a lens to analyze information flows and communication, ensuring respect for cultural norms and principles of data transmission. This framework emphasizes that information gathering and dissemination must be appropriate to the specific context and adhere to governing norms, thereby preserving privacy and integrity.
+
+In our discussion on surveillance and privacy, we examined the mechanisms by which oppressive systems exert control — often through pervasive monitoring that leads to psychological strain and the erosion of agency and autonomy. Theoretical frameworks like Foucault’s Panopticon and concepts such as surveillance capitalism and the gaslighting effect highlighted how constant surveillance can internalize control, diminish resistance and undermine both personal and communal agency.
+
+The implications for everyone, particularly Indigenous communities, are profound. These systems contribute to cultural disempowerment, psychological stress and identity crises, disproportionately affecting marginalized groups, particularly women and girls. The alarming mental health statistics among Indigenous youth underscore the urgency of addressing these challenges.
+
+As we reflect on these insights, it becomes clear that data is not merely a tool but a vital component of our own identity and sovereignty. It is central to healing and to standing up for freedom. The power of data lies in how we choose to use it — to resist oppressive structures, to empower our communities and to reclaim control over our narratives. By embracing data sovereignty and ethical data practices, we can weave a future where every thread in the Web of Data is valued and protected, contributing to a richer, more diverse and resilient network that honors the individuality, dignity and sovereignty of all.
+
+Path Forward
+
+As we navigate an increasingly interconnected future, the path forward demands collaborative efforts to bridge the digital divide, promote equitable access to technology and affirm data sovereignty for Indigenous communities. This requires us to challenge the prevailing paradigms of big data and surveillance capitalism that often prioritize power and profit over people.
+
+Final Thoughts
+
+“Stephen Cave… thinks that something incredibly important that we need to acknowledge if we want to understand the state of the society we have now… is that we have to look at the role of intelligence, all throughout history… as something that’s been used as a justification for dominating and controlling people.”  
+- Philosophize This! Podcast, episode 186
+
+While AI (artificial intelligence) holds the potential to empower, it also poses significant risks. AI-driven surveillance and data misuse threaten to exacerbate existing inequalities and further entrench systems of control. The same technologies that can help can also be harnessed to infringe upon privacy and autonomy, especially among marginalized communities.
+
+By actively promoting the flourishing of hybrid identities, we can harness digital (and data) literacy, ethical digital ID systems and other technological capabilities to connect and empower individuals across the diverse contexts in which they participate. Enhancing digital literacy equips people with the skills to navigate the cyber terrain effectively, assert their agency and safeguard their personal and cultural identities. When designed with respect for privacy and cultural integrity, digital IDs and wallets can provide secure access to services and enable full participation in the digital society without compromising personal data.
+
+Policymakers and technologists have a crucial role in creating inclusive environments that support these hybrid identities. By acknowledging the dynamic interplay between communal solidarity and individual agency in virtual spaces, they can develop technologies that empower individuals rather than serve the interests of surveillance capitalism. This involves rejecting the commodification of personal data and resisting systems that prioritize corporate profits over people.
+
+It’s imperative that we develop and enforce ethical frameworks for AI and other technologies that prioritize individual rights and community sovereignty over corporate interests. By focusing on empowerment and connection, we can ensure that technology becomes a means of enhancing cultural expression and personal autonomy. This approach fosters environments where hybrid identities can thrive without compromising cultural integrity or personal privacy, ultimately contributing to a more equitable and human-centered digital future.
+
+Resistance
+
+Overlapping social identities — such as gender, age and socioeconomic status — intensify the impact of surveillance on Indigenous communities. Women, youth and economically disadvantaged individuals often bear the brunt of oppressive systems such as invasive surveillance practices, leading to increasing vulnerability and marginalization.
+
+Mitigating the negative impacts of surveillance capitalism requires robust privacy protections, ethical data governance and policies that prioritize individual autonomy and community sovereignty. It demands resistance against systems that commodify personal data and perpetuate inequities. By standing together and advocating for these principles, we can forge a future where technology empowers rather than oppresses, and where every community has the agency to control its own narrative.
+
+Citations and Resources
+
+Special thanks to Audra Streetman. You make me a better writer.
+
+Thank you Bernina Gray and Tina Carkhuff for your recommendations and input.
+
+Many thanks to my friend Matt Snyder for giving thoughtful and helpful feedback.
+
+Please note: the views and opinions expressed in this post are those of the author (Chris Perkins) and do not necessarily reflect the official policy or position of my employer, or any other agency, organization, person or company. Assumptions made in this post are not reflective of the position of any entity other than the author — and, since we are critically-thinking human beings, these views are always subject to change, revision and rethinking at any time.
+
+Organ Mountains National Monument.

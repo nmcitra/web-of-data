@@ -17,7 +17,7 @@ Splunk is a powerful data analytics platform that specializes in parsing through
 
 This article builds on previous work I published early in the pandemic. Please check out these articles specific to UIB fraud.
 
-- Aug 18, 2020 https://www.linkedin.com/pulse/pandemic-unemployment-assistance-fraud-chris-perkins/
+- Aug 18, 2020 <https://www.linkedin.com/pulse/pandemic-unemployment-assista>nce-fraud-chris-perkins/
 - Jan 4, 2021 Part 1 https://www.linkedin.com/pulse/pandemic-unemployment-assistance-fraud-zero-trust-part-chris-perkins/
 - Jan 4, 2021 Part 2 https://www.linkedin.com/pulse/pandemic-unemployment-assistance-fraud-zero-trust-part-chris-perkins-1c/
 
@@ -69,7 +69,7 @@ Our high-fidelity detections are provided by The Sharpshooters:
 
 Now that we’re familiar with the different detection capabilities, let’s discuss how they map to fraudster activities. The table below summarizes how the detections are used to identify reconnaissance, application fraud, benefit trafficking, and account takeover attacks.
 
-![Common Fraud Use Cases, Detections, and ](images/figure-01.png)
+![Common Fraud Use Cases, Detections, and Data Needed](images/figure-01.png)
 
 Let’s have a look at what this can look like for your organization.
 
@@ -87,11 +87,11 @@ The four use cases listed above are high-level and may require customization and
 
 Generally speaking, the first step is to look for ways to speed up existing processes then focus on building out new use cases. Once you begin building out new use cases, thinking about the components below could help finalize each use case.
 
-![High-Level Fraud Use Case Development Pr](images/figure-03.png)
+![High-Level Fraud Use Case Development Process](images/figure-03.png)
 
 A more detailed view into use case lifecycle management is shown below.
 
-![Detailed Diagram Showing How to Create a](images/figure-04.png)
+![Detailed Diagram Showing How to Create a Fraud Use Case](images/figure-04.png)
 
 Next let’s talk about the most important part of fraud analytics in Splunk… the risk score!
 
@@ -109,49 +109,50 @@ Note: the detections discussed and provided in this article are only a few of th
 
 ### There are four categories of detections
 
-1. Device Fingerprinting
-2. Network
-3. User Profile
-4. Complex Behavior Patterns
+### Device Fingerprinting
+
+### Network
+
+### User Profile
+
+### Complex Behavior Patterns
 
 ### I’ve added weighting to these categories
 
-1. User Profile: 1.0 (base weight)
-2. Device Fingerprinting: 1.2
-3. Complex Behavior Patterns: 1.3
-4. Network: 1.5
+### User Profile: 1.0 (base weight)
 
-### I’m considering a variety of detections triggered should render an accelerator or multiplier. Let’s use the following scheme
+### Device Fingerprinting: 1.2
 
-1. If 2 different detection techniques are present, apply a multiplier of 1.1
-2. If 3 different detection techniques are present, apply a multiplier of 1.2
-3. If all 4 detection techniques are present, apply a multiplier of 1.3
+### Complex Behavior Patterns: 1.3
 
-### Each detection is given a severity label
+1. Network: 1.5
+2. I’m considering a variety of detections triggered should render an accelerator or multiplier. Let’s use the following scheme
+3. If 2 different detection techniques are present, apply a multiplier of 1.1
+4. If 3 different detection techniques are present, apply a multiplier of 1.2
 
-1. High (25)
-2. Medium-High (20)
-3. Medium (15)
-4. Low (5)
+If all 4 detection techniques are present, apply a multiplier of 1.3  
+Each detection is given a severity label  
+High (25)  
+Medium-High (20)  
+Medium (15)  
+Low (5)
 
 Finally, we’re going to assign some labels to the various aggregate risk levels. For the purposes of this article, let’s use the following thresholds.
 
-- Low Risk: Aggregate score less than 50
-- Medium Risk: Aggregate score between 50 and 100
-- High Risk: Aggregate score between 100 and 150
-- Very High Risk: Aggregate score greater than 150
+1. Low Risk: Aggregate score less than 50
+2. Medium Risk: Aggregate score between 50 and 100
+3. High Risk: Aggregate score between 100 and 150
+4. Very High Risk: Aggregate score greater than 150
 
 There’s a lot to consider here that I’m not including on this first pass (mostly because I don’t have a concise answer that will generally fit) but there needs to be consideration about time. Here are a few examples of how time comes into play.
 
-- If I’m looking for low and slow attacks that happen over long periods of time.
-- If I’m looking for high risk things in a 24 hour period versus some other period of time (72 hours, 1 week, etc.)
-- If I’m looking for the number of different detection categories over periods of months.
+1. If I’m looking for low and slow attacks that happen over long periods of time.
+2. If I’m looking for high risk things in a 24 hour period versus some other period of time (72 hours, 1 week, etc.)
+3. If I’m looking for the number of different detection categories over periods of months.
 
 I think what it comes down to is the calibration and properly outlining the use case using the Lifecycle Management recommendations provided above.
 
 Putting it all together. I asked our old friend (1 year old this month!) ChatGPT to take this information and write the formula for it. Here’s what that looks like.
-
-![](images/figure-05.png)
 
 I ended up expanding on this one to include a feedback loop. Please hit me up if that’s something of interest to you. I’d like to discuss further.
 
@@ -165,94 +166,90 @@ Every benefits program / anti-fraud team will have nuances to their operation. C
 
 User Authentication Data:
 
-- Username and password logs
-- Timestamps of login/logout activities
+Username and password logs  
+Timestamps of login/logout activities
 
 Geolocation Data:
 
-- IP addresses and associated geolocation data
-- Records of access from different locations
+IP addresses and associated geolocation data  
+Records of access from different locations
 
 Network and Connection Data:
 
-- VPN and Tor usage data
-- Records of interactions with known fraudulent entities
+VPN and Tor usage data  
+Records of interactions with known fraudulent entities
 
 External Data Sources:
 
-- Lists of known fraudulent IP addresses, phone numbers, or email domains
-- Other lists
-
-### Device Fingerprinting
+Lists of known fraudulent IP addresses, phone numbers, or email domains  
+Other lists  
+Device Fingerprinting
 
 Device and Access Data:
 
-- Device identifiers and hardware fingerprints
-- Browser and device metadata
+Device identifiers and hardware fingerprints  
+Browser and device metadata
 
 Security Settings and Changes:
 
-- Logs of changes to account settings
-- Security questions and answers
-
-### Complex Behavior Patterns
+Logs of changes to account settings  
+Security questions and answers  
+Complex Behavior Patterns
 
 Transaction Data:
 
-- Transaction amounts and timestamps
-- Transaction histories to determine normal behavior patterns
+Transaction amounts and timestamps  
+Transaction histories to determine normal behavior patterns
 
 Download and Usage Patterns:
 
-- Data download volumes and frequencies
-- Access logs to sensitive account features
+Data download volumes and frequencies  
+Access logs to sensitive account features
 
 Payment Methods:
 
-- Patterns of refunds, returns, or declined transactions
+Patterns of refunds, returns, or declined transactions
 
 Analytical and Monitoring Tools Data:
 
-- Fraud detection and analysis system logs
-- Anomaly detection outputs
-
-### User Profile
+Fraud detection and analysis system logs  
+Anomaly detection outputs  
+User Profile
 
 Multi-factor Authentication Records:
 
-- Records of password resets and recovery attempts
-- Multi-factor authentication settings and changes
+Records of password resets and recovery attempts  
+Multi-factor authentication settings and changes
 
 Communication Records:
 
-- Customer service interaction logs
-- Email headers and metadata
+Customer service interaction logs  
+Email headers and metadata
 
 Behavioral Biometrics:
 
-- Keystroke dynamics
-- Mouse movement patterns
+Keystroke dynamics  
+Mouse movement patterns
 
 Profile and Background Information:
 
-- Detailed customer profiles
-- Historical customer behavior data
-
-## Getting Data In
+Detailed customer profiles  
+Historical customer behavior data  
+Getting Data In
 
 Getting to the data / getting data into Splunk breaks down into three parts.
 
 1) Sending the data
 
-- The sending system needs to be configured to send or allow access via login or API.
+The sending system needs to be configured to send or allow access via login or API.
 
 2) Receiving the data
 
-- Splunk needs to be able to successfully receive the data from the system via listening port, API, or reading files (as an example).
+Splunk needs to be able to successfully receive the data from the system via listening port, API, or reading files (as an example).
 
 3) Transmitting the data
 
-- Consideration for network routing, firewall rules, ground-to-cloud communication, and other communication parameters need to be configured for data to be transmitted and received by Splunk.
+Consideration for network routing, firewall rules, ground-to-cloud communication, and other communication parameters need to be configured for data to be transmitted and received by Splunk.
 
 In the last section of this article we will review two real-world examples of how this framework can be leveraged.
 
@@ -262,17 +259,16 @@ As we wrap up the article, let’s pivot to the practical applications of our di
 
 Let’s apply our risk calculations to these two scenarios:
 
-1. Detecting fraudulent claims in Unemployment Insurance Benefits.
-2. Detecting an account takeover (ATO) attack to steal someone’s tax return.
-
-### Unemployment Fraud
+Detecting fraudulent claims in Unemployment Insurance Benefits.  
+Detecting an account takeover (ATO) attack to steal someone’s tax return.  
+Unemployment Fraud
 
 During the claims process, the following detections fired:
 
-- Two “Network” detections, both with high risk scores (25).
-- One “Device Fingerprinting” detection with a medium risk score (15).
-- Three “User Profile” detections, one with a medium risk score (15) and two with low risk scores (5).
-- One “Complex Behavior Patterns” detection with a high risk score (25).
+1. Two “Network” detections, both with high risk scores (25).
+2. One “Device Fingerprinting” detection with a medium risk score (15).
+3. Three “User Profile” detections, one with a medium risk score (15) and two with low risk scores (5).
+4. One “Complex Behavior Patterns” detection with a high risk score (25).
 
 Calculate the score for each detection category: For each detection, multiply the severity score by the weight of the category.
 
@@ -291,9 +287,24 @@ Determine the risk level based on the final risk score using the thresholds.
 
 Let’s do the math…
 
-```
-For the Network category:
-```
+For the Network category:  
+→ 2 detections with high severity: 2×25×1.5=75
+
+For the Device Fingerprinting category:  
+→ 1 detection with medium severity: 1×15×1.2=18
+
+- For the User Profile category:
+- → 1 detection with medium severity: 1×15×1.0=15
+- → 2 detections with low severity: 2×5×1.0=10
+
+- For the Complex Behavior Patterns category:
+- → 1 detection with high severity: 1×25×1.3=32.5
+
+The total score before applying the multiplier is 75+18+15+10+32.5=150.5
+
+Applying the multiplier for all 4 detection techniques present.
+
+Total risk score: 150.5×1.3=195.65
 
 Based on the information provided, a total risk score of 195 would be considered Very High Risk.
 
@@ -303,15 +314,17 @@ Over some length of time, the following detections are triggered.
 
 - One “Network” detection with a high risk score (25).
 - Two “Device Fingerprinting” detections with medium risk scores (15).
-- Two “User Profile” detections, one with a medium risk score (15) and one with a high risk score (25).
-- One “Complex Behavior Patterns” detection with a high risk score (25).
+
+Two “User Profile” detections, one with a medium risk score (15) and one with a high risk score (25).  
+One “Complex Behavior Patterns” detection with a high risk score (25).
 
 Calculate the score for each detection category: For each detection, multiply the severity score by the weight of the category.
 
 - Network: 1×25×1.5 because there is one high-severity detection.
 - Device Fingerprinting: 2×15×1.2 for two medium-severity detections.
-- User Profile: 1×15×1.0 for one medium-severity detection, and 1×25×1.0 for one high-severity detection.
-- Complex Behavior Patterns: 1×25×1.3 for one high-severity detection.
+
+User Profile: 1×15×1.0 for one medium-severity detection, and 1×25×1.0 for one high-severity detection.  
+Complex Behavior Patterns: 1×25×1.3 for one high-severity detection.
 
 Sum up all the individual scores to get a total before applying the multiplier.
 
@@ -323,9 +336,25 @@ Determine the risk level based on the final risk score using the thresholds.
 
 Now let’s do the calculations…
 
-```
-For the Network category:
-```
+- For the Network category:
+- → 1 detection with high severity: 1×25×1.5=37.5
+
+- For the Device Fingerprinting category:
+- → 2 detections with medium severity: 2×15×1.2=36
+
+- For the User Profile category:
+- → 1 detection with medium severity: 1×15×1.0=15
+
+→ 1 detection with high severity: 1×25×1.0=25
+
+- For the Complex Behavior Patterns category:
+- → 1 detection with high severity: 1×25×1.3=32.5
+
+The total score before applying the multiplier is 37.5+36+15+25+32.5=146.
+
+Applying the multiplier for all 4 detection techniques present.
+
+Total risk score: 146×1.3=189.8
 
 Based on the information provided, a total risk score of 189 would be considered Very High Risk.
 
@@ -341,11 +370,12 @@ Once more, here is what makes this a robust solution:
 
 - Standardized Scoring: It uses a standardized scoring system for different risk levels, which can be easily updated or recalibrated as new data becomes available.
 - Weights and Accelerators: The framework incorporates flexibility through the use of weights and accelerators. These can be adjusted based on evolving understandings of fraud patterns or the introduction of new detection technologies.
-- Adaptable to New Data: As more data is collected, the model can be further refined and trained to better predict fraud.
-- Thresholds for Action: It sets clear thresholds for different risk levels, guiding the response to potential fraud. These responses can range from additional monitoring to active investigation.
-- Comprehensive Detection Types: By covering various detection types, the model creates a comprehensive view of potential fraud that accounts for a wide range of fraudulent behaviors.
-- Dynamic and Proactive: The framework supports dynamic risk scoring, which can proactively adapt to new threats and changes in the fraud landscape without needing a complete redesign.
-- Transparent and Explainable: The model uses clear and explainable factors, making it transparent for analysts, investigators, and auditors to understand why a particular score was given.
+
+Adaptable to New Data: As more data is collected, the model can be further refined and trained to better predict fraud.  
+Thresholds for Action: It sets clear thresholds for different risk levels, guiding the response to potential fraud. These responses can range from additional monitoring to active investigation.  
+Comprehensive Detection Types: By covering various detection types, the model creates a comprehensive view of potential fraud that accounts for a wide range of fraudulent behaviors.  
+Dynamic and Proactive: The framework supports dynamic risk scoring, which can proactively adapt to new threats and changes in the fraud landscape without needing a complete redesign.  
+Transparent and Explainable: The model uses clear and explainable factors, making it transparent for analysts, investigators, and auditors to understand why a particular score was given.
 
 Stay tuned for more blog posts on this topic. As you know, this is a living and breathing practice that will always keep us on our toes. If you have anything to add or argue, please reach out! I’d love to hear from you.
 
@@ -353,14 +383,14 @@ Stay tuned for more blog posts on this topic. As you know, this is a living and 
 
 Links to further reading on Splunk and fraud detection.
 
-1. https://lantern.splunk.com/Splunk_Platform/UCE/Financial_Services_and_Insurance/Detecting_wire_transfer_fraud
-2. https://www.splunk.com/en_us/blog/industries/detecting-financial-crime-conf-session.html
-3. https://www.splunk.com/en_us/resources/splunk-fraud-analytics-success.html
-4. https://www.splunk.com/en_us/blog/security/detect-fraud-sooner-with-the-splunk-app-for-fraud-analytics.html
-5. https://www.splunk.com/en_us/blog/industries/fraud-is-in-your-backyard.html
-6. [https://www.splunk.com/en_us/solutions/fraud-detection.html](https://www.splunk.com/en_us/solutions/fraud-detection.html)
-7. [https://conf.splunk.com/watch/conf-online.html?search=1397A](https://conf.splunk.)
-8. https://www.splunk.com/pdfs/ebooks/using-data-to-cure-unemployment-fraud.pdf
-9. https://www.splunk.com/en_us/pdfs/resources/e-book/fraud-detective-and-the-case-of-the-pandemic-unemployment-insurance-con.pdf
+<https://lantern.splunk.com/Splunk_Platform/UCE/Financial_Ser>vices_and_Insurance/Detecting_wire_transfer_fraud  
+<https://www.splunk.com/en_us/blog/industries/detecting-finan>cial-crime-conf-session.html  
+<https://www.splunk.com/en_us/resources/splunk-fraud-analytic>s-success.html  
+<https://www.splunk.com/en_us/blog/security/detect-fraud-soon>er-with-the-splunk-app-for-fraud-analytics.html  
+<https://www.splunk.com/en_us/blog/industries/fraud-is-in-you>r-backyard.html  
+<https://www.splunk.com/en_us/solutions/fraud-detection.html>  
+<https://conf.splunk.com/watch/conf-online.html?search=1397A>  
+https://www.splunk.com/pdfs/ebooks/using-data-to-cure-unemployment-fraud.pdf  
+https://www.splunk.com/en_us/pdfs/resources/e-book/fraud-detective-and-the-case-of-the-pandemic-unemployment-insurance-con.pdf
 
 Please note: the views and opinions expressed in this post are those of the author (Chris Perkins) and do not necessarily reflect the official policy or position of my employer, or any other agency, organization, or company. Assumptions made in this post are not reflective of the position of any entity other than the author — and, since we are critically-thinking human beings, these views are always subject to change, revision, and rethinking at any time.

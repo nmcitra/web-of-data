@@ -13,6 +13,8 @@ Having the ability to see across the technology stack matches the organization�
 
 > In today’s digital age, the security and integrity of public sector pension systems are paramount. With the increasing sophistication of cyber attacks and fraud, it is crucial to implement robust security measures that protect sensitive financial data and ensure the integrity of pension systems.
 
+However, this security must be balanced with the need for seamless user experiences, allowing retirees and employees to access their benefits without unnecessary hurdles.
+
 Which brings us to [ID.me](http://id.me) and [Splunk](https://splunk.com). These technologies are essential to maintaining this balance of resilience and usability. Splunk offers data analytics for security and fraud prevention, enabling pension administrators to quickly identify and address threats. By improving identity proofing and verification, ID.me ensures that user authentication is done securely and is hyper-accessible on a large scale. When combined, these technologies strengthen the pension system and provide a seamless, user-friendly experience while also preventing fraud.
 
 ![](images/figure-01.png)
@@ -23,7 +25,7 @@ Which brings us to [ID.me](http://id.me) and [Splunk](https://splunk.com). These
 
 Pension systems have a lengthy history. It was interesting to dive into the pension systems rabbit hole and create this infographic.To enhance my understanding, I needed an overview of where these programs originated, how quickly (or slowly) they evolved, and what trajectory they might be on.
 
-![An overview and history of public safety](images/figure-02.png)
+![An overview and history of public safety, government employees’, and teachers’ pension systems.](images/figure-02.png)
 
 ### Similarities across public pension systems
 
@@ -43,7 +45,7 @@ Even with these differences, there are more commonalities than there are differe
 - An accessible user interface.
 - For people who are blind, using low bandwidth connections on a mobile phone as well as other ways to ensure a wide level of access.
 
-### Increasing digital threats
+Increasing digital threats
 
 As more funding is allocated to social safety programs or retirement funds like pensions, the complexity and attack surface continues to grow and expand.
 
@@ -65,7 +67,7 @@ As threats continue to escalate and pose greater risk than ever before, my goal 
 
 As we look in our rear-view mirror, we continue down the road to resilience. I thought a lot about the typical system and then thought about how a pension application as an overlay looks as a diagram. The diagram shows major elements of the pension system and where data lives.
 
-![Pension system with unstructured and str](images/figure-03.png)
+![Pension system with unstructured and structured data.](images/figure-03.png)
 
 I usually describe the image above as the “potential universe of data.” An organization can have full visibility or observability on this universe and integrate this with insights on processes and personnel to ensure that fraud becomes a thing of the past. I believe… no, I know… there can be a system with 100% integrity. We just need to build it.
 
@@ -78,11 +80,9 @@ The importance of data analytics in pension systems spans many initiatives and l
 - Operational efficiency
 - Personalized services
 
-![The Layers of Complexity.](images/figure-04.png)
-
-## Leveraging Splunk for Enhanced Data Analytics
-
-### Overview of Splunk’s platform
+The Layers of Complexity.  
+Leveraging Splunk for Enhanced Data Analytics  
+Overview of Splunk’s platform
 
 In my experience, when people say “data,” they mean the data sitting in a database that includes details about that person’s identity or their transactions. An assumption is that this data is structured or organized in columns and rows.
 
@@ -98,7 +98,7 @@ This is where the [IT Service Blueprint](https://odam.community/part-3/3-ace/#un
 
 This whiteboard exercise brings many subject matter experts together with a facilitator who maps out the technology (hardware and software components) that ensure confidentiality, integrity and availability. The goal is to teach the organization how to do these whiteboard workshops so they can keep their IT Service Blueprint dashboards up to date.
 
-![IT Service Blueprint Example](images/figure-05.png)
+![IT Service Blueprint Example](images/figure-04.png)
 
 As we enable pension administrators, troubleshooters and stakeholders to use the IT Service Blueprint and ODAM, we’ll synchronize our clocks.
 
@@ -110,13 +110,10 @@ Detecting patterns and anomalies within pension systems is critical for maintain
 
 This scenario describes an Account Takeover (ATO) attack perpetrated by an organized crime syndicate using a stolen identity to infiltrate a public pension system. The attack leverages multiple layers of data and analytics to detect and respond to the intrusion.
 
-![](images/figure-06.png)
-
 ### Lifespan / life cycle of a typical attack (details)
 
-![Flowchart illustrating the detection and](images/figure-07.png)
-
-### The power of unified data
+Flowchart illustrating the detection and response process for a cyber attack, from initial intrusion with compromised credentials to the use of predictive analytics for future threat anticipation.  
+The power of unified data
 
 Think of your data as a vast, untapped resource. By collecting data across all aspects of your pension system — transactions, user interactions, security logs, and more — you create a unified dataset. This “single source of truth” can serve a multitude of purposes, streamlining operations and ensuring compliance with regulatory standards. This unification of structured and unstructured data unlocks many more possibilities for the organization, including sending this consolidated information to higher abstraction levels and visualization tools like Power BI and Tableau.
 
@@ -136,15 +133,28 @@ Before we get into how we can use ID.me’s technology to reduce fraud and enhan
 
 > Identity proofing, as outlined by the National Institute of Standards and Technology (NIST) in its Digital Identity Guidelines (SP 800–63A), is a vital process for verifying that individuals are who they claim to be in digital systems. This process involves several key steps:
 
+- Identity resolution  
+- Evidence validation  
+- Attribute validation  
+- Identity verification
+
+The above steps are all designed to prevent identity theft and fraud. NIST categorizes identity proofing into three Identity Assurance Levels (IALs), ranging from self-asserted identities (IAL1) to the most stringent verification involving physical presence and biometric data (IAL3). By ensuring that only legitimate users can access digital services and resources, identity proofing is essential for maintaining trust and security in various sectors, including government, finance, and healthcare.
+
 > Identity verification, as defined by the National Institute of Standards and Technology (NIST) in its Digital Identity Guidelines (SP 800–63A), is the process of confirming that the validated identity evidence actually belongs to the individual presenting it. This involves linking the evidence to the physical, live existence of the applicant through methods like biometric comparisons or physical verification. For higher assurance levels (IAL2 and IAL3), this often includes comparing the applicant’s live photo to the image on their strongest piece of identity evidence or using biometric characteristics. These stringent measures ensure that the identity verification process is robust, preventing fraud and ensuring that only legitimate users gain access to digital services and resources.
 
 ### Overview of ID.me’s federated login solution
 
 > ID.me is the next-generation digital identity network that simplifies how individuals securely prove their identity online. Consumers can verify their identity with ID.me once and seamlessly log in across websites without having to create a new login or verify their identity again. 132 million members experience streamlined login and identity verification with ID.me at 17 federal agencies, 30 states, and 56 healthcare organizations. More than 600 consumer brands use ID.me to verify communities and user segments to honor service and build more authentic relationships.
 
+ID.me’s technology meets the federal guidelines for consumer authentication set by the Commerce Department and is approved as a NIST 800–63–3 IAL2 / AAL2 credential service provider by the Kantara Initiative. ID.me is committed to “No Identity Left Behind” to enable all people to have a secure digital identity.
+
+ID.me has an existing ID.me network of 132 million+ members and 60 million+ NIST credentials. ID.me has built partnerships with hundreds of retailers and expanded into regulated sectors like government, healthcare, and financial services with legal identity verification for high-risk transactions. More about ID.me on their website. <https://id.me/about>
+
 ID.me is used in many public sector organizations across the country as well as the private sector. Recently, Home Depot and ID.me [announced](https://news.va.gov/125193/2023-veterans-day-discounts-free-meals/) their partnership to provide military veterans with a cash back promotion. The idea is for the customer to prove their status to receive the discount or promotion.
 
-![https://shop.id.me/store/2465-home-depot](images/figure-08.png)
+![](images/figure-05.png)
+
+![<https://shop.id.me/store/2465-home-depot/clicks/track>](images/figure-06.png)
 
 ### What is possible with an ID in the ID.me ecosystem?
 
@@ -174,11 +184,11 @@ By using these advanced data points, pension systems can implement adaptive auth
 
 Personalization is a critical aspect of modern digital experiences, enhancing user engagement and satisfaction by tailoring interactions to individual needs. In the context of pension security systems, personalization can significantly improve both security and user experience. Here’s how it can be effectively implemented:
 
-![](images/figure-09.png)
-
 Personalization in pension security systems is not just about enhancing user engagement; it is also a powerful mechanism for improving security. By utilizing digital wallets, advanced notification systems, and risk-based authentication, pension systems can offer a tailored and secure experience for each member.
 
-![A screenshot of this pdf: https://www.ss](images/figure-10.png)
+![](images/figure-07.png)
+
+![A screenshot of this pdf: <https://www.ssa.gov/disabilityresearch/documents/VIP-6364_Un>derstanding_Experiences-OC_study.pdf](images/figure-08.png)
 
 ### Enhancing security and trustworthiness
 
@@ -194,7 +204,7 @@ If pension systems were to adopt a common “time,” they would be able to grow
 
 ### Implementing the principles of human-centered design in pension systems
 
-![A screenshot of this PDF: https://www.ss](images/figure-11.png)
+A screenshot of this PDF: https://www.ssa.gov/disabilityresearch/documents/VIP-6364_Understanding_Experiences-OC_study.pdf
 
 > “Government use of accessibility technology may increase people’s ability to access services and participate in political action.” — [SSA.gov](https://www.ssa.gov/disabilityresearch/documents/VIP-6364_Understanding_Experiences-OC_study.pdf)
 
@@ -202,7 +212,7 @@ Seamless and minimal user disruption leads to higher end user satisfaction and r
 
 Measuring accessibility metrics is to measure end user behavioral metrics. Fraud is largely an exploitation of process, which means we can detect fraud by monitoring behavior.
 
-![](images/figure-12.png)
+![](images/figure-09.png)
 
 ### Accessibility detections
 
@@ -212,7 +222,7 @@ It is possible to use the data from systems (e.g., web server, web app firewall,
 
 Users could include first-timers from your constituent base or they could be fraud actors. Once someone (or a bot) accesses the pension system you’re monitoring, you can detect how well they are using the system. Are they navigating through the site efficiently or are they acting like a script (i.e., bot) which is very methodical and fast.
 
-![](images/figure-13.png)
+![](images/figure-10.png)
 
 These are just a few examples I came up with as part of this article but it could be that you have dozens of detections that monitor the accessibility of your website while detecting fraud at the same time.
 

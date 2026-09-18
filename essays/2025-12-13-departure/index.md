@@ -14,46 +14,44 @@ In the American Southwest, the “Cloud” is actually millions of square feet o
 - **Phoenix Metro Area (The Hub):** Phoenix has become a primary node for the Western Hemisphere due to its stable geology and power infrastructure. Key facilities include:
 - **Dona Ana County, New Mexico (An Emerging Node) — Project Jupiter:** A planned high-efficiency data center campus near Santa Teresa. It represents the next generation of infrastructure designed to leverage the region’s solar capacity and stable land, bridging the gap between the Texas interconnect and Western grids.
 
-### 2. The Physics of the Machine
+2. The Physics of the Machine
 
 When you peel back the screen, the Internet is just energy and physics.
 
-- **Voltage:** Inside the data center, power is stepped down from massive 800VDC distribution lines to the precise voltage needed by silicon. A modern CPU core or GPU operates at a surprisingly low **0.7V to 1.2V**, but it draws massive current — up to **700 Watts** for a single GPU. This low voltage at high amperage creates intense heat, requiring liquid cooling loops.
+**Voltage:** Inside the data center, power is stepped down from massive 800VDC distribution lines to the precise voltage needed by silicon. A modern CPU core or GPU operates at a surprisingly low **0.7V to 1.2V**, but it draws massive current — up to **700 Watts** for a single GPU. This low voltage at high amperage creates intense heat, requiring liquid cooling loops.
 
 **Copper vs. Fiber:**
 
-- **Copper (The Last Inch):** Used inside the rack (DAC cables) or the walls of your home. It moves electrons. It has high resistance and is subject to “crosstalk,” effectively capping its useful distance to 100 meters for high speeds.
-- **Fiber (The Long Haul):** Used for everything else. It moves photons (light). Unlike copper, it has almost zero resistance and immune to electromagnetic interference.
-- **Seabone (The Backbone):** The Internet has a spine. Networks like **Sparkle’s Seabone** are Tier-1 backbones — massive fiber pipes that carry traffic between continents.
-- **RF Activity (The Air):** The “last mile” is often invisible. This is the 2.4GHz and 5GHz hum of Wi-Fi, the licensed bands of 5G towers, and the microwave backhaul links connecting remote towers.
-- **Weather as a Component:** The Internet is tethered to the climate. A cloudy week in New Mexico drops solar generation, forcing data centers to switch to grid backup or natural gas. High heat reduces the efficiency of cooling towers, literally slowing down the ability to process data (thermal throttling).
-
-### 3. The Pulse: Daily Internet Vital Signs
+**Copper (The Last Inch):** Used inside the rack (DAC cables) or the walls of your home. It moves electrons. It has high resistance and is subject to “crosstalk,” effectively capping its useful distance to 100 meters for high speeds.  
+**Fiber (The Long Haul):** Used for everything else. It moves photons (light). Unlike copper, it has almost zero resistance and immune to electromagnetic interference.  
+**Seabone (The Backbone):** The Internet has a spine. Networks like **Sparkle’s Seabone** are Tier-1 backbones — massive fiber pipes that carry traffic between continents.  
+**RF Activity (The Air):** The “last mile” is often invisible. This is the 2.4GHz and 5GHz hum of Wi-Fi, the licensed bands of 5G towers, and the microwave backhaul links connecting remote towers.  
+**Weather as a Component:** The Internet is tethered to the climate. A cloudy week in New Mexico drops solar generation, forcing data centers to switch to grid backup or natural gas. High heat reduces the efficiency of cooling towers, literally slowing down the ability to process data (thermal throttling).  
+3. The Pulse: Daily Internet Vital Signs
 
 If the Internet were a single organism, here is what its daily metabolism would look like:
 
-- **Daily Users:** ~5.4 Billion people (roughly 67% of humanity).
-- **Websites & Apps:** There are 1.1 billion websites, but only about 193 million are active.
-- **Protocols:** The world speaks TCP/IP. Roughly 80% of traffic is video (UDP/QUIC), but HTTP/HTTPS (port 443) is the universal dialect for web pages.
+**Daily Users:** ~5.4 Billion people (roughly 67% of humanity).  
+**Websites & Apps:** There are 1.1 billion websites, but only about 193 million are active.  
+**Protocols:** The world speaks TCP/IP. Roughly 80% of traffic is video (UDP/QUIC), but HTTP/HTTPS (port 443) is the universal dialect for web pages.
 
 **Communication Volume:**
 
-- **Emails:** ~361 Billion sent daily.
-- **Web Calls:** Over 620 Million daily meeting participants across Zoom and Teams alone.
-- **DNS Requests:** Trillions per day globally. A single major provider handles ~124 Billion daily.
-
-### 4. The Volume: Internet as Water
+**Emails:** ~361 Billion sent daily.  
+**Web Calls:** Over 620 Million daily meeting participants across Zoom and Teams alone.  
+**DNS Requests:** Trillions per day globally. A single major provider handles ~124 Billion daily.  
+4. The Volume: Internet as Water
 
 We generate approximately **402 million Terabytes** of data every single day. The human brain cannot visualize a “Terabyte.” Let’s use water instead.
 
-- **The Conversion:** 1 Gigabyte (GB) = 1 Gallon of water.
-- **Daily Generation:** 402 million TB = **412 Billion Gallons**.
+**The Conversion:** 1 Gigabyte (GB) = 1 Gallon of water.  
+**Daily Generation:** 402 million TB = **412 Billion Gallons**.
 
 **What does 412 Billion Gallons look like?**
 
-- It is more than the entire United States consumes in fresh water every day (322 billion gallons).
-- It would fill 623,000 Olympic-sized swimming pools every 24 hours.
-- If you poured it into Lake Tahoe, it would take about 3 months to fill the entire lake from empty.
+It is more than the entire United States consumes in fresh water every day (322 billion gallons).  
+It would fill 623,000 Olympic-sized swimming pools every 24 hours.  
+If you poured it into Lake Tahoe, it would take about 3 months to fill the entire lake from empty.
 
 We are not just surfing a “web.” We are navigating a daily flood that rivals the consumption of a superpower nation.
 

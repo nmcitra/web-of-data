@@ -1,6 +1,18 @@
 Time to Good Decision
 
 
+- Govtech
+- AI
+- Fraud
+
+Data  
+Cybersecurity  
+Time to Good Decision  
+I Have Two Food Stamps From 1967. They Explain the Choice We Keep Refusing to Make.  
+Chris Perkins  
+17 min read  
+Jan 20, 2026
+
 I have two paper food stamp vouchers from 1967 framed in my office. One is for fifty cents. The other is for two dollars.
 
 They are surprisingly beautiful. Designed like currency, because they were currency. You handed them to a grocer who knew your name. Maybe the store clerk asked about your kids. A system built on human interaction and local accountability.
@@ -79,7 +91,7 @@ Some of the fraud was real. Some of the fraudsters were real, then, a small perc
 
 None of this means fraud does not exist. It does. These are federally funded programs administered through state systems, so any state can become the case study. Let me tell you about Minnesota.
 
-> I’m naming places because the facts are clear — not to assign blame, but to extract a design lesson we can apply everywhere.
+I’m naming places because the facts are clear — not to assign blame, but to extract a design lesson we can apply everywhere.
 
 Before we get into the details, let me be clear: this is not a story about bad people in state government; it’s about a process that couldn’t convert warnings into timely authority before the money went out.
 
@@ -133,7 +145,7 @@ Legitimate applicants with “thin files” get flagged and denied. Young people
 
 Fraud exploits process. Cybercrime exploits systems. What we have are bad actors using legitimate systems in illegitimate ways — and our response has been to make the systems harder to use for everyone while barely inconveniencing the criminals.
 
-> We have surveillance capability without security. Detection without decision. The worst of both worlds.
+We have surveillance capability without security. Detection without decision. The worst of both worlds.
 
 ## The Storm That’s Coming
 
@@ -197,6 +209,8 @@ I’ve been building this. A prototype called Noma (noma.community), presence-ba
 
 ### Build verifiable digital identity through physical presence. Join the decentralized trust network powered by the…
 
+noma.community
+
 It’s a proof-of-concept, a sandbox for testing what trajectory-based trust could look like. Not the only answer. Not a finished product. But proof that the question can be asked differently. Let’s build it, together.
 
 ## The Path Forward
@@ -211,9 +225,8 @@ The system needs three lanes.
 
 - Green Lane: High-confidence legitimate activity. The mother who’s been receiving benefits for three years, whose address matches, whose work history is consistent, whose children are enrolled in school. Auto-approve. No human needed.
 - Red Lane: High-confidence fraud. The restaurant claiming to serve 18,000 meals from thirty-five seats. The application submitted at 3 AM from an IP address in Eastern Europe using a Social Security number belonging to a child. Auto-block. Route to investigation.
-- Yellow Lane: Uncertainty. This is where human expertise matters. The applicant with a thin credit file. The recent immigrant whose documentation doesn’t fit standard categories. The formerly incarcerated person rebuilding a life. The widow whose husband handled all the bills and who now has no credit history in her own name. The refugee whose name transliterates three different ways across documents (Ahmed, Ahmad, Ahmet) each one flagging a mismatch. Real people with real needs who don’t fit the algorithm’s expectations.
 
-![](images/figure-01.png)
+Yellow Lane: Uncertainty. This is where human expertise matters. The applicant with a thin credit file. The recent immigrant whose documentation doesn’t fit standard categories. The formerly incarcerated person rebuilding a life. The widow whose husband handled all the bills and who now has no credit history in her own name. The refugee whose name transliterates three different ways across documents (Ahmed, Ahmad, Ahmet) each one flagging a mismatch. Real people with real needs who don’t fit the algorithm’s expectations.
 
 The goal isn’t to eliminate the Yellow Lane. It’s to shrink it over time. Every decision the system makes feeds back into the model. Every decision a human makes should too.
 
@@ -227,8 +240,8 @@ But only if we build it. Only if we demand transparency. Only if we refuse the b
 
 What does this look like on Monday morning?
 
-- Staff the Yellow Lane with humans trained for judgment, not checkbox processing.
-- Set SLAs measured in hours and days, not months. Build feedback loops where every decision (human and automated) teaches the system. Guarantee appeal rights so false positives get fixed fast. MiDAS showed what happens when you automate without accountability: 40,000 accusations, 93 percent wrong.
+Staff the Yellow Lane with humans trained for judgment, not checkbox processing.  
+Set SLAs measured in hours and days, not months. Build feedback loops where every decision (human and automated) teaches the system. Guarantee appeal rights so false positives get fixed fast. MiDAS showed what happens when you automate without accountability: 40,000 accusations, 93 percent wrong.
 
 The goal is automation with accountability — speed that doesn’t sacrifice accuracy, scale that doesn’t sacrifice humanity.
 
@@ -241,6 +254,8 @@ I built The Fraud Data Compass web app because I was tired of waiting for someon
 ## The Fraud Data Compass
 
 ### The Fraud Data Compass - Navigate from signals to decisions with confidence using the TTGD framework.
+
+fraud.datacompass.app
 
 ## The Window Is Now
 
@@ -275,3 +290,19 @@ I grew up in those programs. They kept my family fed when the math and money did
 Both things are true. The question is what we do with both truths.
 
 Those stamps from 1967 my grandfather passed on to me represent the last moment of optimism before the turn.
+
+Maybe 2026 can be the first moment after the return.
+
+Maybe we can build what should have been built sixty years ago: systems worthy of the mission they serve.
+
+The technology exists. The frameworks exist. What’s missing is the will to choose building over cutting.
+
+Zero fraud is possible. I said it at the beginning. I’ll say it now at the end. Not as a slogan — as a design choice we keep refusing to make.
+
+I’m asking you to make it.
+
+Chris Perkins  
+Las Cruces, New Mexico  
+January 2026
+
+![](images/figure-01.png)

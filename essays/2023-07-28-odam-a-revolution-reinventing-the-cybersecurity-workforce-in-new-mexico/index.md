@@ -15,13 +15,15 @@ When I think about the gap that exists between education and what is needed in t
 
 This is where the [Operationalizing Data Analytics Methodology](https://odam.community/) ([**ODAM**](https://odam.community)) comes into play. I believe that this framework, born from years of experience in data analytics and cybersecurity, has the potential to revolutionize how we approach cybersecurity education and workforce development in New Mexico. The time for change is now. Together, we can redefine the future of cybersecurity here at home.
 
-> “Government” is the name we give to the things we choose to do together. — **Deval Patrick**
+“Government” is the name we give to the things we choose to do together. — **Deval Patrick**
 
 Join me on this journey to transform our cybersecurity landscape, through the lens of ODAM. With the help of this methodology, I hope to contribute ideas and processes that can be leveraged to create a bigger pipeline of students as they enter the workforce.
 
 Before we move on to the second chapter, let’s briefly define ODAM and one of its major components, the [**IT Service Blueprin**](https://odam.community/ace/#understanding-the-it-service-blueprint)t.
 
 > ODAM (Operationalizing Data Analytics Methodology) is a methodology that helps organizations bring data analytics to the next level. Not only can it provide an efficient way to define, plan, execute, and measure data analytics initiatives, but it also can play a critical role in an organization’s cybersecurity. By following this methodology, organizations can use data analytics to improve their threat detection capabilities, streamline incident investigation and make faster and more informed decisions in their incident response efforts. This can lead to more efficient and effective cybersecurity operations, help organizations stay ahead of emerging threats, and ultimately minimize the impact of security incidents on the organization and its stakeholders.
+
+An IT Service Blueprint is a visual representation of the various components and processes that make up an IT service. It typically includes information about the service’s stakeholders, customer needs, the service’s value proposition, and the various components (such as processes, technology, and people) that are required to deliver the service. The purpose of an IT Service Blueprint is to provide a clear and comprehensive overview of an IT service, which can help organizations understand how the service is delivered and identify areas for improvement. ODAM provides a framework for defining, planning, executing, and measuring data analytics initiatives, which can be used to create an IT Service Blueprint for an IT service that leverages data analytics to deliver value to stakeholders, end users, and customers.
 
 ## Setting the Stage: The Current Cybersecurity Landscape in New Mexico
 
@@ -37,7 +39,7 @@ On the educational front, our universities and community colleges offer a variet
 - Community colleges and universities across the state
 - Other organizations based here in New Mexico (EC-Council, White Sands Missile Range, Sandia and Los Alamos National Labs, etc.)
 
-> But another problem in higher education looms: There is a shortage of university professors willing and able to teach cybersecurity to students. **— Cybersecurity Dive**
+But another problem in higher education looms: There is a shortage of university professors willing and able to teach cybersecurity to students. **— Cybersecurity Dive**
 
 There’s a critical gap in the current path from education to employment — a consistent cybersecurity curriculum that mirrors the way organizations actively protect their operations and minimize risk is exactly what ODAM can enable.
 
@@ -49,7 +51,7 @@ The public sector plays an integral role in cybersecurity. As guardians of sensi
 
 As a result, the public sector often faces a talent shortage, which in turn exacerbates the vulnerability of their systems. When cybersecurity professionals are constantly firefighting and navigating bureaucratic obstacles, or fighting for more budget, there’s little time left to develop and implement proactive, strategic digital resilience measures. This results in a depleting cycle.
 
-![https://www.isc2.org//-/media/ISC2/Resea](images/figure-01.png)
+![<https://www.isc2.org//-/media/ISC2/Research/2022-WorkForce-S>tudy/ISC2-Cybersecurity-Workforce-Study.ashx](images/figure-01.png)
 
 These challenges, though significant, present us with an opportunity — an opportunity to recalibrate our approach to cybersecurity education and workforce development. The path forward requires us to think differently, to be innovative, and to be willing to embrace sustainable change.
 
@@ -86,3 +88,37 @@ ODAM can serve as a directional map for guidance in this regard, helping to crea
 This standardization will not only help organizations optimize but also play a crucial role in alleviating the challenges that make the public sector unattractive and unsustainable to many cybersecurity professionals. By eliminating the variances in practices, we reduce the unnecessary bureaucracy that slows down decision-making processes. Simultaneously, by implementing a structured approach, we can ensure that we are staying current with the latest technological advances in cybersecurity.
 
 By creating a unified approach right here in New Mexico, we can tackle the issue of understaffing. A standardized process means everyone is on the same page, reducing the burden on individual employees and ensuring a more equitable distribution of workload.
+
+A shared understanding results in shared responsibility.
+
+As we head into the next chapter, we will explore the practical steps we can take to implement ODAM within our public sector and start the journey towards a more robust, resilient, and attractive cybersecurity landscape in New Mexico.
+
+Operationalizing the Change: Proposals and Partnerships
+
+As we have been discussing, adopting ODAM can help address some of the most pressing issues across the public sector’s cybersecurity and IT environments. But how do we go about implementing this methodology across different education levels and forming effective public-private partnerships to bridge the gap between education and workforce?
+
+At the community college and university levels, the adoption of ODAM could start with an integration into the curriculum. Classes and programs could include modules that teach students the principles and practices of this methodology. This learning will equip them with the knowledge they need to implement ODAM in the real world. At the same time, these institutions could actively engage with public sector organizations, providing students with opportunities to apply their learned skills in real-life scenarios, akin to my early experiences as an intern at a local consulting firm.
+
+K-12 education provides a different challenge and opportunity. Integrating ODAM into these earlier stages of education could involve introducing students to the fundamentals of data analytics and cybersecurity. Simple lessons in digital safety, ethical computing, and basic data analysis can serve as stepping stones. By doing so, we will not only be creating an awareness of cybersecurity but also laying the groundwork for the adoption of ODAM in their higher education.
+
+But education is only half the equation. To bridge the gap between education and workforce, we must foster public-private partnerships that provide students with real-world experiences and pave the way for future employment. Partnerships between educational institutions, the public sector, and the private sector can create a robust network that supports internships and job placements.
+
+The work is hard not because the tech is complicated but because the environment is. — Jennifer Pahlka, [Recoding America](https://us.macmillan.com/books/9781250266774/recodingamerica)
+
+From my personal journey, I can vouch for the immense value of such partnerships. My training at CNM through the Cisco Networking Academy and my internship at a private consulting firm were instrumental in shaping my career in cybersecurity.
+
+As we continue to replicate similar experiences for students today we are creating a robust pipeline of talented, skilled cybersecurity professionals ready to join the public sector and contribute to securing our state’s digital enterprise.
+
+Bridging the Gap: Shaping the Future of Cyber Defense
+
+What comes next is up to us.
+
+As I have worked with states, tribal governments, academic medical centers, and schools (K-20) over the past two decades I’ve observed very similar challenges across each of these organizations — big or small.
+
+I think back twenty years ago about my days at TVI where I first began to think about systems. It was in one of my first community college classes that I learned how to troubleshoot packets traversing the network. These experiences have shaped and influenced the way I approach consulting across the US, then in turn, bringing that experience back home to make this proposal.
+
+I propose we align the output of New Mexico’s education system with the input of local government. I propose we begin building the bridge from both sides, connecting students ready for the workforce and our local government’s need for staff.
+
+That is why what we think matters. So much of what drives how tech delivery works in government is not law, policy, or regulation but our expectations. — Jennifer Pahlka, Recoding America
+
+Please note: the views and opinions expressed in this post are those of the author ([*Chris Perkins*](https://www.linkedin.com/in/cperkins2/)) and do not necessarily reflect the official policy or position of my employer, or any other agency, organization, or company. Assumptions made in this post are not reflective of the position of any entity other than the author — and, since we are critically-thinking human beings, these views are always subject to change, revision, and rethinking at any time.

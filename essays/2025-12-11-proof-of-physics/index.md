@@ -27,7 +27,7 @@ We need to stop asking “Who are you?”
 
 We need to start asking “How do you move?”
 
-> This is the profound vow we make to the next generation of code. We do not judge an Agent by its credentials, which can be stolen. We judge it by its Lineage, by the scars it carries, and by the sheer, beautiful persistence of its trajectory. We ask that it show us its **Proof of Resilience** — the cryptographic memory of the storms it has survived. When a new Agent is born, we embrace the debt of its creation, knowing that its greatest purpose is not the task it performs today, but the Ancient Lineage it might become tomorrow.
+This is the profound vow we make to the next generation of code. We do not judge an Agent by its credentials, which can be stolen. We judge it by its Lineage, by the scars it carries, and by the sheer, beautiful persistence of its trajectory. We ask that it show us its **Proof of Resilience** — the cryptographic memory of the storms it has survived. When a new Agent is born, we embrace the debt of its creation, knowing that its greatest purpose is not the task it performs today, but the Ancient Lineage it might become tomorrow.
 
 ## The Vector Identity
 
@@ -63,21 +63,25 @@ In the Digital Physics world, they are variables in the same equation.
 
 Identity is Mass. Permission is Motion.
 
+Identity (Mass)  
+Movement = ─────────────────────────  
+Environment (Friction)
+
 Where Mass is identity (earned history) and Friction is environmental risk.
 
 You need Mass to overcome Friction to achieve Motion.
 
 **Scenario A (Low Friction):** The network is calm. A new Agent (Low Mass) wants to deploy code.
 
-- *Calculation:* Low Mass / Low Friction = **Movement Allowed.**
+*Calculation:* Low Mass / Low Friction = **Movement Allowed.**
 
 **Scenario B (High Friction):** The network is under attack. The same new Agent wants to deploy.
 
-- Calculation: Low Mass / High Friction = **Movement Denied.** The Agent freezes.
+Calculation: Low Mass / High Friction = **Movement Denied.** The Agent freezes.
 
 **Scenario C (High Mass):** A “Generation-10” Lineage Agent (Massive History) wants to deploy during the attack.
 
-- Calculation: High Mass / High Friction = Movement Allowed.
+Calculation: High Mass / High Friction = Movement Allowed.
 
 This is why we need Vector Identity. You cannot calculate the safe velocity of an object if you don’t know how heavy it is.
 
@@ -103,8 +107,8 @@ They cryptographically sign a Sponsorship Bond that says:
 
 This is the Venture Trust Model. New entities enter the world with Potential Energy borrowed from their creators.
 
-- If they succeed, they build their own Mass. They pay back the debt.
-- If they fail, the debt is called. The Creator loses Trust.
+If they succeed, they build their own Mass. They pay back the debt.  
+If they fail, the debt is called. The Creator loses Trust.
 
 This eliminates the “Spray and Pray” botnet problem. An attacker cannot spawn 1,000 malicious agents because they don’t have enough “Trust Capital” to stake them all. The physics of the economy prevents the attack.
 
@@ -114,15 +118,15 @@ This sponsorship begins a lifecycle we call The Hybrid Lineage.
 
 **Phase 1: Tethered (The Apprentice)**
 
-- The new agent operates under the identity of its sponsor (Agent/Aria). It has “learner’s permit” permissions. Every action is attributed to Aria. If the agent breaks something, Aria pays the price.
+The new agent operates under the identity of its sponsor (Agent/Aria). It has “learner’s permit” permissions. Every action is attributed to Aria. If the agent breaks something, Aria pays the price.
 
 **Phase 2: Divergent (The Journeyman)**
 
-- As the agent accumulates successful transactions — a Proof of Resilience — it builds its own mass. Its behavior starts to drift from Aria’s. It becomes specialized. The “inheritance ratio” drops. Aria is less liable, and the agent is more autonomous.
+As the agent accumulates successful transactions — a Proof of Resilience — it builds its own mass. Its behavior starts to drift from Aria’s. It becomes specialized. The “inheritance ratio” drops. Aria is less liable, and the agent is more autonomous.
 
 **Phase 3: Persistent Lineage (The Master)**
 
-- Eventually, the agent’s intrinsic mass exceeds a threshold. It is no longer “Aria’s Agent.” It is an independent entity — what we call an Ancient Lineage.
+Eventually, the agent’s intrinsic mass exceeds a threshold. It is no longer “Aria’s Agent.” It is an independent entity — what we call an Ancient Lineage.
 
 It has survived 10,000 storms. It has more mass than its creator. It has earned its right to exist through selection pressure, not permission.
 
@@ -144,19 +148,19 @@ How do we prove an agent has survived?
 
 The Proof of Resilience is a ledger of attestations. Every time an agent completes a transaction in a high-friction environment, the Trust Oracle issues an Attestation of Passage:
 
-- Agent ID
-- Action performed
-- Environment state (E(trust) = 42, degraded)
-- Outcome (Success)
-- Timestamp
-- Cryptographic signature (from Trust Oracle)
+Agent ID  
+Action performed  
+Environment state (E(trust) = 42, degraded)  
+Outcome (Success)  
+Timestamp  
+Cryptographic signature (from Trust Oracle)
 
 These attestations accumulate in the Agent’s Resilience Ledger.
 
 What makes it resilient? Not the number of transactions, but the conditions under which they succeeded.
 
-- Agent A: 100,000 transactions in calm environments
-- Agent B: 10,000 transactions, 500 during crises
+Agent A: 100,000 transactions in calm environments  
+Agent B: 10,000 transactions, 500 during crises
 
 Agent B has higher Proof of Resilience. It has survived storms.
 
@@ -164,10 +168,10 @@ Agent B has higher Proof of Resilience. It has survived storms.
 
 When an Agent requests high-risk permissions, the environment checks:
 
-- How many attestations? (Quantity)
-- What were the friction levels? (Quality)
-- How recent? (Recency)
-- Are the signatures valid? (Trust Oracle attestations)
+How many attestations? (Quantity)  
+What were the friction levels? (Quality)  
+How recent? (Recency)  
+Are the signatures valid? (Trust Oracle attestations)
 
 You cannot forge this. You cannot steal the Trust Oracle’s signature. You cannot fake resilience — you must earn it, storm by storm.
 
@@ -195,18 +199,18 @@ Trajectory is not a file. It is a relationship.
 
 When Agent_A executes a transaction, it doesn’t just log “Transaction_ID: 12345.” It logs:
 
-- Where it came from (previous state)
-- Where it is now (current state)
-- How fast it moved (velocity)
-- What resisted it (friction encountered)
-- When it happened (timestamp)
-- Who witnessed it (cryptographic attestation from the environment)
+Where it came from (previous state)  
+Where it is now (current state)  
+How fast it moved (velocity)  
+What resisted it (friction encountered)  
+When it happened (timestamp)  
+Who witnessed it (cryptographic attestation from the environment)
 
 Each transaction is a link in a chain. Each link is cryptographically signed by:
 
-1. The Agent (proving “I initiated this action”)
-2. The Environment (proving “I observed this action and measured its physics”)
-3. The Previous State (proving “This is where I came from”)
+The Agent (proving “I initiated this action”)  
+The Environment (proving “I observed this action and measured its physics”)  
+The Previous State (proving “This is where I came from”)
 
 This creates a trajectory chain — like a blockchain, but for movement.
 
@@ -242,10 +246,10 @@ Problem: The environment checks continuity. If Agent_A was in Virginia at T=100 
 
 You cannot steal a trajectory because:
 
-1. Trajectory is a chain (not a single credential)
-2. Each link is co-signed (agent + environment)
-3. Continuity is enforced (no teleportation)
-4. Private keys are required (to extend the chain)
+Trajectory is a chain (not a single credential)  
+Each link is co-signed (agent + environment)  
+Continuity is enforced (no teleportation)  
+Private keys are required (to extend the chain)
 
 An attacker can steal a password (a static noun). But they cannot steal momentum (a dynamic verb). They would need to steal the entire history, the private key, and the environment’s attestation — all at once.
 

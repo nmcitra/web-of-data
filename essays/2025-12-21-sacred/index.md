@@ -3,7 +3,7 @@ The Voyage, IX — What stillness teaches
 
 This is Day 9 of a 12-part series on building an Internet governed by physics instead of policy. Start at [Day 1: Departure](https://medium.com/@chrisperkins505/departure-525049f52c23).
 
-> “Sol sistere — the sun stands still.” **— Latin, origin of “solstice”**
+“Sol sistere — the sun stands still.” **— Latin, origin of “solstice”**
 
 I write this on the solstice.
 

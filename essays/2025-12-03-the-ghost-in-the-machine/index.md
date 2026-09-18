@@ -76,9 +76,10 @@ E(trust) = E(base) x (1 - R)
 - R = Risk (Should we move? Normalized 0–1)
 - E(trust) = Trust Score (The final verdict: 0–100)
 
-## The Experience Equation
+The Experience Equation  
+A New Language for the Immersive Experience at Humanity’s Largest Gatherings
 
-### A New Language for the Immersive Experience at Humanity’s Largest Gatherings
+chrisperkins505.medium.com
 
 How it works:
 
@@ -192,7 +193,7 @@ You don’t need all six physical fields on day one. Start with three:
 2. Kinetic Velocity (Momentum): Pull link saturation from your core router. If utilization > 85%, R increases.
 3. **Temporal Phase (Clock):** Define “critical windows” (e.g., 9–5 PM weekdays = production). During critical windows, R baseline is higher.
 
-## The Ghost in the Machine
+The Ghost in the Machine
 
 Gilbert Ryle coined this phrase in 1949 to mock the idea of a mind trapped inside a body. But in our world, the ghost is real — it’s the agent, disembodied code haunting infrastructure it cannot feel. The Data Compass gives the ghost a nervous system.
 
@@ -221,3 +222,5 @@ We stop building a network. We start growing an ecosystem. That’s where we go 
 ## Web of Data
 
 ### From Telegraph to AI: The Impact of Technologies on Sovereignty
+
+chrisperkins505.medium.com
