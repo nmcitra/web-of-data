@@ -1,0 +1,18 @@
+title: The Pedagogy of Digital Physics
+subtitle: Three Systems. One Physics.
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2026-01-26
+date_canonical: 2026-09-17
+
+platforms:
+  - name: substack
+    url: https://kinetictrust.substack.com/p/the-pedagogy-of-digital-physics
+  - name: medium
+    url: https://medium.com/@chrisperkins505/the-pedagogy-of-digital-physics-20c6cb74782c
+
+cover:
+  file: images/cover.jpg
+
+license: CC-BY-4.0

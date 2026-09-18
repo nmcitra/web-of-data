@@ -1,0 +1,16 @@
+title: "Day 9: The Archipelago"
+subtitle: Why the single pane of glass is a single point of failure.
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2025-12-21
+date_canonical: 2026-09-17
+
+platforms:
+  - name: substack
+    url: https://kinetictrust.substack.com/p/day-9-the-archipelago
+
+cover:
+  file: images/cover.jpg
+
+license: CC-BY-4.0

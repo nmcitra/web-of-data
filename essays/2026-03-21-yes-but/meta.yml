@@ -1,0 +1,18 @@
+title: "Yes, But..."
+subtitle: ""
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2026-03-21
+date_canonical: 2026-09-17
+
+platforms:
+  - name: substack
+    url: https://kinetictrust.substack.com/p/yes-but
+  - name: linkedin
+    url: https://www.linkedin.com/pulse/yes-but-chris-perkins
+
+cover:
+  file: images/cover.jpg
+
+license: CC-BY-4.0
