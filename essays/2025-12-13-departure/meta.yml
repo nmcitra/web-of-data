@@ -1,0 +1,19 @@
+title: Departure
+subtitle: "The Voyage, I — Why the old harbor fails us"
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2025-12-13
+date_canonical: 2026-09-17
+
+platforms:
+  - name: kinetic-trust-protocol.net
+    url: https://kinetic-trust-protocol.net/writing/departure
+  - name: medium
+    url: https://medium.com/@chrisperkins505/departure-525049f52c23
+
+cover:
+  file: images/cover.jpg
+  credit: I-25 and I-40 aka the Big I.
+
+license: CC-BY-4.0

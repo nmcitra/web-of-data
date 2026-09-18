@@ -3,15 +3,15 @@ subtitle: On what survived an audit of my own framework
 author: Chris Perkins
 orcid: 0009-0003-5479-4248
 
-date_published: 2026-08-16        # confirm on publish
+date_published: 2026-08-16
 date_canonical: 2026-08-16        # when this copy was placed here
 
 platforms:
   - name: medium
-    url:                           # pending — add on publish
+    url: https://chrisperkins505.medium.com/digital-physics-is-dead-2dd733243d24
 
 cover:
-  file: images/cover.jpg           # pending — pull from the published post
+  file: images/cover.jpg
   credit: Photo by Nayomi
   location: Northern California
   date_taken: 2021-10-06

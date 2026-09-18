@@ -101,6 +101,8 @@ This is where we add a new dimension. The E score must be personalized. The need
 Weights adjusted:
 ```
 
+## How to Start: Your First E Score
+
 This isn’t a complex, multi-year transformation. You can start this journey on Monday.
 
 **Step 1:** **Define Your Core Experiences.**

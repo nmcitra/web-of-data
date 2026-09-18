@@ -1,0 +1,18 @@
+title: A Brief History of Cybersecurity Operations
+subtitle: and some predictions
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2024-05-20
+date_canonical: 2026-09-17
+
+platforms:
+  - name: kinetic-trust-protocol.net
+    url: https://kinetic-trust-protocol.net/writing/brief-history-cybersec-ops
+  - name: medium
+    url: https://medium.com/@chrisperkins505/a-brief-history-of-cybersecurity-operations-f2748da39268
+
+cover:
+  file: images/cover.png
+
+license: CC-BY-4.0

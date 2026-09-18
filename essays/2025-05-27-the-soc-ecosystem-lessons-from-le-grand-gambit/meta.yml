@@ -1,0 +1,19 @@
+title: "The SOC Ecosystem: Lessons from “Le Grand Gambit”"
+subtitle: "Building a Future-Proof Security Operation on Pillars of Trust, Culture, Orchestration, Unified Governance, and Partnerships."
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2025-05-27
+date_canonical: 2026-09-17
+
+platforms:
+  - name: kinetic-trust-protocol.net
+    url: https://kinetic-trust-protocol.net/writing/soc-ecosystem
+  - name: medium
+    url: https://medium.com/@chrisperkins505/the-soc-ecosystem-lessons-from-le-grand-gambit-6c0796d933e4
+
+cover:
+  file: images/cover.jpg
+  credit: Green chile from a local farm outside of
+
+license: CC-BY-4.0

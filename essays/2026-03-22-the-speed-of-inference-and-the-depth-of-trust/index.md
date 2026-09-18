@@ -105,6 +105,8 @@ Every token generated at inference speed is a drop of water moving through a con
 
 ![https://amafca.org/gis-maps-data/](images/figure-01.png)
 
+## Physics at the Speed of Water
+
 You can’t govern a river by holding committee meetings about each drop of water.
 
 You govern a river by building the right channel. The arroyo governs the flood by shaping the landscape the water moves through. The physics of the channel determines the behavior of the water. Automatically. At the speed of the water. No committee required.

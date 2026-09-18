@@ -1,0 +1,19 @@
+title: Vessel
+subtitle: "The Voyage, II — What we build to carry us"
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2025-12-14
+date_canonical: 2026-09-17
+
+platforms:
+  - name: kinetic-trust-protocol.net
+    url: https://kinetic-trust-protocol.net/writing/vessel
+  - name: medium
+    url: https://medium.com/@chrisperkins505/vessel-32bb759ebda2
+
+cover:
+  file: images/cover.jpg
+  credit: Acequia in Southern New Mexico.
+
+license: CC-BY-4.0

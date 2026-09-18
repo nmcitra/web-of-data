@@ -1,0 +1,19 @@
+title: Fighting Fraud in the Public Sector with Splunk Data Analytics Platform
+subtitle: ""
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2023-11-07
+date_canonical: 2026-09-17
+
+platforms:
+  - name: kinetic-trust-protocol.net
+    url: https://kinetic-trust-protocol.net/writing/fraud-splunk-platform
+  - name: medium
+    url: https://medium.com/@chrisperkins505/fighting-fraud-in-the-public-sector-with-splunk-data-analytics-platform-03cab0fabb29
+
+cover:
+  file: images/cover.png
+  credit: "I generated this image using DALL-E via "
+
+license: CC-BY-4.0

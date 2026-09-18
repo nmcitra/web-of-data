@@ -29,6 +29,8 @@ You do not need to be an engineer to follow the ideas. Curiosity is enough.
 
 ![](images/figure-01.png)
 
+## What We Named
+
 As the journey progressed, a vocabulary took shape.
 
 **The Context Tensor**  

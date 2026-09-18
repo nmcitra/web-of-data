@@ -95,11 +95,13 @@ Yep, there’s a website to look up Social Security Numbers.
 
 ![](images/figure-06.png)
 
+### Driver’s License Numbers
+
 This handy tool allows you to create a DL number using the information put into the form.
 
 ![](images/figure-07.png)
 
-### Press enter or click to view image in full size
+### Forums
 
 Finding forums on the dark web discussing fraud best practices is nothing new. But, there is a lot of new activity on forums like **dread** that are very much like Reddit. You have a post and a bunch of replies that are eventually upvoted.
 

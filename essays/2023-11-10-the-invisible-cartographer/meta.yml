@@ -1,0 +1,19 @@
+title: The Invisible Cartographer
+subtitle: "Foreword for: Clarity in the Chaos"
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2023-11-10
+date_canonical: 2026-09-17
+
+platforms:
+  - name: kinetic-trust-protocol.net
+    url: https://kinetic-trust-protocol.net/writing/invisible-cartographer
+  - name: medium
+    url: https://medium.com/@chrisperkins505/the-invisible-cartographer-f5763d4b659a
+
+cover:
+  file: images/cover.jpg
+  credit: This image was created with DALL-E via C
+
+license: CC-BY-4.0

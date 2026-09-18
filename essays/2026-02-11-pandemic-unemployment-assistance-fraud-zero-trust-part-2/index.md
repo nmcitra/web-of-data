@@ -29,6 +29,8 @@ It’s easier written and said than it is to get it done. In my experience, the 
 - Service visibility reduces mean time to identification (MTTI) and mean time to resolution (MTTR)
 - Centralized access to data allows investigators to get answers faster.
 
+## Investigate
+
 There are many places in the UIB claim pipeline that a data investigation is useful. Depending on the place in the pipeline, the investigation might be performed by a machine and at other times, the investigation will be performed by a human investigator. By the time claims get to the human investigator, the list of claims should be short. Unless you have dozens of investigators ready to take on each one. A key KPI to monitor is the claim to investigator ratio. Both, the quantity and the approval/deny decision for each claim.
 
 Let’s break down the claims pipeline and start at the very beginning. The first place for investigation is with your web server data. Understanding where people are connecting from (by IP address) is helpful and is a key field used in many searches. Yes, this is often spoofed by sophisticated actors, but the IP address is a fundamental KPI.
@@ -64,6 +66,8 @@ On the human side of monitoring, states can detect when a claimant logs in from 
 - All user activity within the claims portal. Check for changes to physical address, phone number, and banking info.
 - All call center activity. Monitor inbound calls to the IVR or live agents.
 - Website support chat activity. Monitor all interactions with claimants and potential fraudsters via the online chat / live agent.
+
+## Analyze
 
 UIB data analysis is a journey. As is the claim in a pipeline. Along the way, the claim passes through many points of inspection. As the claim gets further into the system, the chance the claim needs to be reviewed by a human investigator increases. Human investigation can be costly and time consuming and is not preferred over machine investigations.
 

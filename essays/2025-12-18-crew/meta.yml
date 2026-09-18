@@ -1,0 +1,18 @@
+title: Crew
+subtitle: "The Voyage, VI — No one crosses alone"
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2025-12-18
+date_canonical: 2026-09-17
+
+platforms:
+  - name: kinetic-trust-protocol.net
+    url: https://kinetic-trust-protocol.net/writing/crew
+  - name: medium
+    url: https://medium.com/@chrisperkins505/crew-f3efdcb804c2
+
+cover:
+  file: images/cover.jpg
+
+license: CC-BY-4.0

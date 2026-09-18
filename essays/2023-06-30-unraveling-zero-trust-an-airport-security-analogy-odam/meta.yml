@@ -1,0 +1,18 @@
+title: "Unraveling Zero Trust: An Airport Security Analogy + ODAM"
+subtitle: ""
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2023-06-30
+date_canonical: 2026-09-17
+
+platforms:
+  - name: kinetic-trust-protocol.net
+    url: https://kinetic-trust-protocol.net/writing/zero-trust-airport
+  - name: medium
+    url: https://medium.com/@chrisperkins505/unraveling-zero-trust-an-airport-security-analogy-odam-d013b67ae8eb
+
+cover:
+  file: images/cover.png
+
+license: CC-BY-4.0

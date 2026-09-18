@@ -1,0 +1,19 @@
+title: "The Future State: Data in SLED"
+subtitle: ""
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+
+date_published: 2023-04-04
+date_canonical: 2026-09-17
+
+platforms:
+  - name: kinetic-trust-protocol.net
+    url: https://kinetic-trust-protocol.net/writing/data-in-sled
+  - name: medium
+    url: https://medium.com/@chrisperkins505/the-future-state-data-in-sled-6e632ea8d168
+
+cover:
+  file: images/cover.png
+  credit: "Diagram by Chris Perkins (Jan. 23, 2023)"
+
+license: CC-BY-4.0

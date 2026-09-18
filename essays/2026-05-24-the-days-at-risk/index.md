@@ -1,6 +1,8 @@
 The Days at Risk
 On counters, refusals, and the dictionary that has begun to update itself
 
+## PART 1: THE COUNTER
+
 A hospital system declines an AI-scribe integration because it cannot audit decisions the system would make on its behalf. A school district walks away from automated grading because false positives would land on students least able to appeal. A cooperative refuses a platform migration because exit would mean losing the knowledge that flowed through the tool.
 
 Those sentences matter before the vocabulary arrives. They are what wait looks like in institutional language.
