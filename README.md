@@ -35,6 +35,10 @@ essays/
 Each essay directory is dated by first publication. Git history carries the rest:
 when a text changed, and to what.
 
+## Schedule
+
+Release cadence (annual, November 4th) and per-essay lifecycle dates (`date_published`, `date_revised`, `date_edited`, `date_canonical`) live in [`SCHEDULE.md`](SCHEDULE.md), along with the forthcoming pipeline.
+
 ## Migration status
 
 The back catalogue is being moved by hand, oldest obligations first, not in bulk.
