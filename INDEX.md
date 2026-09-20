@@ -14,7 +14,7 @@ Registered because the author is committed to these; dirs are `forthcoming-<slug
 | forthcoming | [What Was Growing](essays/forthcoming-what-was-growing/) — body pending verbatim import | The Mycelium Triptych — Part 1 of 3 |
 | planned | [What It Costs](essays/forthcoming-what-it-costs/) — stub; with Denali Wilson | The Mycelium Triptych — Part 2 of 3 |
 | planned | [What Remains](essays/forthcoming-what-remains/) — stub | The Mycelium Triptych — Part 3 of 3 |
-| forthcoming | [The Cost of Exploitation Approaching Zero](essays/forthcoming-the-cost-of-exploitation-approaching-zero/) — version to confirm | standalone |
+| forthcoming | [The Cost of Exploitation Approaching Zero](essays/forthcoming-the-cost-of-exploitation-approaching-zero/) | standalone |
 
 ---
 
