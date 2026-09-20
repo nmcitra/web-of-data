@@ -2,6 +2,22 @@
 
 Newest first. 128 essays placed; the catalogue in `articles.ts` is the target set.
 
+## Forthcoming (committed, not yet published)
+
+Registered because the author is committed to these; dirs are `forthcoming-<slug>` and rename to `YYYY-MM-DD-slug` on first publication.
+
+| status | essay | series |
+|---|---|---|
+| held | [What We Plant](essays/forthcoming-what-we-plant/) — body withheld pending sensitivity read | Six Seven — Part 4 of 4 |
+| forthcoming | [What We Build](essays/forthcoming-what-we-build/) | Six Seven — Part 3 of 4 |
+| forthcoming | [Softened Ground](essays/forthcoming-softened-ground/) | Six Seven — Part 2 of 4 |
+| forthcoming | [What Was Growing](essays/forthcoming-what-was-growing/) — body pending verbatim import | The Mycelium Triptych — Part 1 of 3 |
+| planned | [What It Costs](essays/forthcoming-what-it-costs/) — stub; with Denali Wilson | The Mycelium Triptych — Part 2 of 3 |
+| planned | [What Remains](essays/forthcoming-what-remains/) — stub | The Mycelium Triptych — Part 3 of 3 |
+| forthcoming | [The Cost of Exploitation Approaching Zero](essays/forthcoming-the-cost-of-exploitation-approaching-zero/) — version to confirm | standalone |
+
+---
+
 | date | essay | first published |
 |---|---|---|
 | 2026-09-17 | [Meat Proxy](essays/2026-09-17-meat-proxy/) — *On using an AI assistant in public* | [Medium](https://chrisperkins505.medium.com/meat-proxy-29b3c0dae255?source=friends_link&sk=9cee5bc0afcaf57ea9747fbe58b6cc86) |
