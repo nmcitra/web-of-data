@@ -1,0 +1,22 @@
+title: The Short Lease
+subtitle: "On how long a machine may act alone, in a world we have not built yet."
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+series: Digital Gravity
+
+date_published: 2026-09-25
+date_canonical: 2026-09-25
+date_edited: 2026-09-25
+
+platforms:
+  - name: linkedin
+    url: ""   # PENDING — Chris sends the LinkedIn URL; backfill here, in INDEX.md, and in ktp articles.ts
+
+notes: >
+  Canonical text taken from the shipped draft
+  (physics-of-intelligence/writing/PUBLISHED/dg-the-short-lease-FINAL-20260925.md).
+  Verify against the LinkedIn version once the URL arrives; LinkedIn edits after
+  export would make the platform text diverge. Cut before shipping: the promise line
+  "I went to find out. That is the next one." The closing question remains.
+
+license: CC-BY-4.0
