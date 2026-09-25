@@ -10,13 +10,11 @@ date_edited: 2026-09-25
 
 platforms:
   - name: linkedin
-    url: ""   # PENDING — Chris sends the LinkedIn URL; backfill here, in INDEX.md, and in ktp articles.ts
+    url: https://www.linkedin.com/pulse/short-lease-chris-perkins-uiaxc
 
 notes: >
-  Canonical text taken from the shipped draft
-  (physics-of-intelligence/writing/PUBLISHED/dg-the-short-lease-FINAL-20260925.md).
-  Verify against the LinkedIn version once the URL arrives; LinkedIn edits after
-  export would make the platform text diverge. Cut before shipping: the promise line
-  "I went to find out. That is the next one." The closing question remains.
+  Verified against the published LinkedIn page 2026-09-25: the cut promise line is
+  absent there too, and spot-checked lines match. No cover image found on the page.
+  Cut before shipping: "I went to find out. That is the next one."
 
 license: CC-BY-4.0
