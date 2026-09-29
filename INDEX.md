@@ -1,6 +1,6 @@
 # Index
 
-Newest first. 129 essays placed; the catalogue in `articles.ts` is the target set.
+Newest first. 130 essays placed; the catalogue in `articles.ts` is the target set.
 
 ## Forthcoming (committed, not yet published)
 
@@ -20,6 +20,7 @@ Registered because the author is committed to these; dirs are `forthcoming-<slug
 
 | date | essay | first published |
 |---|---|---|
+| 2026-09-29 | [Don't Hunt the Guilty Mind](essays/2026-09-29-dont-hunt-the-guilty-mind/) — *On the ones who read every trail but their own* | [Medium](https://chrisperkins505.medium.com/dont-hunt-the-guilty-mind-c08ee8d09bb8?source=friends_link&sk=e901ee9a59cda0ebcb1885c059fe26f2) |
 | 2026-09-25 | [The Short Lease](essays/2026-09-25-the-short-lease/) — *On how long a machine may act alone, in a world we have not built yet.* | [Linkedin](https://www.linkedin.com/pulse/short-lease-chris-perkins-uiaxc) |
 | 2026-09-17 | [Meat Proxy](essays/2026-09-17-meat-proxy/) — *On using an AI assistant in public* | [Medium](https://chrisperkins505.medium.com/meat-proxy-29b3c0dae255?source=friends_link&sk=9cee5bc0afcaf57ea9747fbe58b6cc86) |
 | 2026-09-17 | [The Architecture of Presence](essays/2026-09-17-the-architecture-of-presence/) — *On the one thing this newsletter has been building.* | [Linkedin](https://www.linkedin.com/pulse/architecture-presence-chris-perkins-ossoc) |
