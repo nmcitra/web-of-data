@@ -1,0 +1,31 @@
+title: The Meter Is Not a Bound
+subtitle: "On user-directed, unbounded agency, and the one limit it always has."
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+series: Digital Gravity
+
+date_published: 2026-10-08
+date_canonical: 2026-10-08
+date_edited: 2026-10-08
+
+platforms:
+  - name: linkedin
+    url: https://www.linkedin.com/pulse/meter-bound-chris-perkins-rocgc
+
+sources:
+  - Jeetu Patel, LinkedIn post, 2026-10-07 (thread comments by Abhijit Ghosh, Anshuman Goswami, Hoshedar Mana, Gaurav Bhatnagar, Jon-Rav Shende, Tom Gamali, Samer Abu Arisheh)
+  - Chris Perkins, reply in that thread: https://lnkd.in/p/g23hMceT
+  - OWASP Top 10 for LLM Applications 2025, LLM06 Excessive Agency and LLM10 Unbounded Consumption
+  - Costa et al., FIDES, arXiv:2505.23643
+  - Shi and DiFranzo, arXiv:2609.29547
+  - Kinetic Infrastructure Layer (Mike Storm): https://github.com/nmcitra/kil
+  - Ambient Breach Theory: https://kinetic-trust-protocol.net/research/ambient-breach
+
+notes: >
+  Canonical text is the author's final copy as posted, with the five mechanical
+  fixes applied before posting (Shende quote completed, OWASP definition attached
+  to excessive autonomy, comma and parenthesis in the KIL sentence, @-mention
+  removed). Las Cruces is the author's wording. Cover image not yet pulled from
+  the published page.
+
+license: CC-BY-4.0
