@@ -1,6 +1,6 @@
 # Index
 
-Newest first. 132 essays placed; the catalogue in `articles.ts` is the target set.
+Newest first. 133 essays placed; the catalogue in `articles.ts` is the target set.
 
 ## Forthcoming (committed, not yet published)
 
@@ -20,6 +20,7 @@ Registered because the author is committed to these; dirs are `forthcoming-<slug
 
 | date | essay | first published |
 |---|---|---|
+| 2026-10-10 | [The Car Is Where You Sleep Now](essays/2026-10-10-the-car-is-where-you-sleep-now/) — *On care, carelessness, and the limit that decides which one power becomes* | Medium (link pending) |
 | 2026-10-08 | [The Meter Is Not a Bound](essays/2026-10-08-the-meter-is-not-a-bound/) — *On user-directed, unbounded agency, and the one limit it always has.* | [Linkedin](https://www.linkedin.com/pulse/meter-bound-chris-perkins-rocgc) |
 | 2026-09-30 | [Ten in Washington. Eleven in the Desert.](essays/2026-09-30-ten-in-washington-eleven-in-the-desert/) — *On who watches the watchers, and who was never asked.* | [Substack](https://kinetictrust.substack.com/p/ten-in-washington-eleven-in-the-desert) |
 | 2026-09-29 | [Don't Hunt the Guilty Mind](essays/2026-09-29-dont-hunt-the-guilty-mind/) — *On the ones who read every trail but their own* | [Medium](https://chrisperkins505.medium.com/dont-hunt-the-guilty-mind-c08ee8d09bb8?source=friends_link&sk=e901ee9a59cda0ebcb1885c059fe26f2) |
