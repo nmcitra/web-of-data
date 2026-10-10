@@ -12,8 +12,8 @@ platforms:
     url: ""   # backfill: not yet in the Medium feed at capture (2026-10-10)
 
 cover:
-  file: ""   # pending: El Segundo Beach, California, January 28, 2025
-  credit: Photo by Chris Perkins
+  file: images/cover.jpg
+  credit: El Segundo Beach, California. Photo by Chris Perkins, January 28, 2025.
 
 sources:
   - U.S. Bureau of Labor Statistics, CPI-U (NSA), Jan 2020 to Dec 2025 — food at home CUUR0000SAF11 +29.8%; motor vehicle insurance CUUR0000SETE +55.9%
@@ -23,6 +23,6 @@ notes: >
   Text captured from the author's copy of the published Medium final (2026-10-10);
   links per the working draft (Historical Society, Question Zero, The Meter Is Not a
   Bound, Don't Hunt the Guilty Mind). Nayomi's three principles appear with her
-  sign-off. The cover photograph is not yet archived. Different, and Held #3 of 15.
+  sign-off. Cover archived 2026-10-10, metadata stripped. Denali consented to being named (Chris, 2026-10-10). Different, and Held #3 of 15.
 
 license: CC-BY-4.0
