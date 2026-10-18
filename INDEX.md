@@ -20,7 +20,8 @@ Registered because the author is committed to these; dirs are `forthcoming-<slug
 
 | date | essay | first published |
 |---|---|---|
-| 2026-10-10 | [The Car Is Where You Sleep Now](essays/2026-10-10-the-car-is-where-you-sleep-now/) — *On care, carelessness, and the limit that decides which one power becomes* | Medium (link pending) |
+| 2026-10-17 | [The Geometry and the Terror](essays/2026-10-17-the-geometry-and-the-terror/) — *On shame, survival, and the room between the signal and the act.* | [Medium](https://chrisperkins505.medium.com/the-geometry-and-the-terror-edd2f3a82daa?source=friends_link&sk=81b35d89aac005f10ea91d1a8fb1b844) |
+| 2026-10-10 | [The Car Is Where You Sleep Now](essays/2026-10-10-the-car-is-where-you-sleep-now/) — *On care, carelessness, and the limit that decides which one power becomes* | [Medium](https://medium.com/@chrisperkins505/the-car-is-where-you-sleep-now-4c006ded8418) |
 | 2026-10-08 | [The Meter Is Not a Bound](essays/2026-10-08-the-meter-is-not-a-bound/) — *On user-directed, unbounded agency, and the one limit it always has.* | [Linkedin](https://www.linkedin.com/pulse/meter-bound-chris-perkins-rocgc) |
 | 2026-09-30 | [Ten in Washington. Eleven in the Desert.](essays/2026-09-30-ten-in-washington-eleven-in-the-desert/) — *On who watches the watchers, and who was never asked.* | [Substack](https://kinetictrust.substack.com/p/ten-in-washington-eleven-in-the-desert) |
 | 2026-09-29 | [Don't Hunt the Guilty Mind](essays/2026-09-29-dont-hunt-the-guilty-mind/) — *On the ones who read every trail but their own* | [Medium](https://chrisperkins505.medium.com/dont-hunt-the-guilty-mind-c08ee8d09bb8?source=friends_link&sk=e901ee9a59cda0ebcb1885c059fe26f2) |

@@ -9,7 +9,7 @@ date_canonical: 2026-10-10
 
 platforms:
   - name: medium
-    url: ""   # backfill: not yet in the Medium feed at capture (2026-10-10)
+    url: "https://medium.com/@chrisperkins505/the-car-is-where-you-sleep-now-4c006ded8418"   # backfilled 2026-10-17
 
 cover:
   file: images/cover.jpg
