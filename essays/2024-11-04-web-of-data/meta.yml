@@ -5,6 +5,8 @@ orcid: 0009-0003-5479-4248
 
 date_published: 2024-11-04
 date_canonical: 2026-09-17
+date_revised: 2026-10-18
+date_edited: 2026-10-18
 
 platforms:
   - name: kinetic-trust-protocol.net
@@ -15,5 +17,17 @@ platforms:
 cover:
   file: images/cover.jpg
   credit: "Present day: Gila National Forest, Kings"
+
+figures:
+  - file: images/figure-26.png
+    credit: Traditional Knowledge (TK) Label graphics, Local Contexts (label names and texts © Local Contexts)
+  - file: images/figure-27.png
+    credit: Traditional Knowledge (TK) Label graphics, Local Contexts (label names and texts © Local Contexts)
+  - file: images/figure-28.png
+    credit: Traditional Knowledge (TK) Label graphics, Local Contexts (label names and texts © Local Contexts)
+  - file: images/figure-29.png
+    credit: Native American Budget and Policy Institute, University of New Mexico (digital divide infographic)
+  - file: images/figure-32.jpg
+    credit: National Center for Health Statistics, CDC, NCHS Data Brief No. 464, Figure 4 (U.S. government work)
 
 license: CC-BY-4.0
