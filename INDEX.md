@@ -1,6 +1,6 @@
 # Index
 
-Newest first. 133 essays placed; the catalogue in `articles.ts` is the target set.
+Newest first. 135 essays placed; the catalogue in `articles.ts` is the target set.
 
 ## Forthcoming (committed, not yet published)
 
@@ -20,6 +20,7 @@ Registered because the author is committed to these; dirs are `forthcoming-<slug
 
 | date | essay | first published |
 |---|---|---|
+| 2026-10-19 | [The Terrain That Made You](essays/2026-10-19-the-terrain-that-made-you/) — *On the river I grew up crossing, and the valley that got in* | [Medium](https://chrisperkins505.medium.com/the-terrain-that-made-you-32cbd7b228df?source=friends_link&sk=8db0a35bea11c7e83b2135e512e2b8af) |
 | 2026-10-17 | [The Geometry and the Terror](essays/2026-10-17-the-geometry-and-the-terror/) — *On shame, survival, and the room between the signal and the act.* | [Medium](https://chrisperkins505.medium.com/the-geometry-and-the-terror-edd2f3a82daa?source=friends_link&sk=81b35d89aac005f10ea91d1a8fb1b844) |
 | 2026-10-10 | [The Car Is Where You Sleep Now](essays/2026-10-10-the-car-is-where-you-sleep-now/) — *On care, carelessness, and the limit that decides which one power becomes* | [Medium](https://medium.com/@chrisperkins505/the-car-is-where-you-sleep-now-4c006ded8418) |
 | 2026-10-08 | [The Meter Is Not a Bound](essays/2026-10-08-the-meter-is-not-a-bound/) — *On user-directed, unbounded agency, and the one limit it always has.* | [Linkedin](https://www.linkedin.com/pulse/meter-bound-chris-perkins-rocgc) |
