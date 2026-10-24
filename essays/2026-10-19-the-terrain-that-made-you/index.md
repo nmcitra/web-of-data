@@ -159,4 +159,4 @@ The river will be there before us. It always is.
 
 ---
 
-*This essay joins* ***Different, and Held**, a collection in progress. Previous:* [The Geometry and the Terror](https://chrisperkins505.medium.com/the-geometry-and-the-terror-edd2f3a82daa?source=friends_link&sk=81b35d89aac005f10ea91d1a8fb1b844)*. Next:* Put a Person There*.*
+*This essay joins* ***Different, and Held**, a collection in progress. Previous:* [The Geometry and the Terror](https://chrisperkins505.medium.com/the-geometry-and-the-terror-edd2f3a82daa?source=friends_link&sk=81b35d89aac005f10ea91d1a8fb1b844)*. Next:* [Put a Person There](https://chrisperkins505.medium.com/put-a-person-there-dc30355c3e95?source=friends_link&sk=435faa0f7851a60055c2d886260004be)*.*
