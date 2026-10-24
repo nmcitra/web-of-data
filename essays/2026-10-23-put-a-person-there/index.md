@@ -50,7 +50,7 @@ The harm a defender does is direct and it has a name. When a system silences you
 
 I know the shape of that system, because I have designed its cousins.
 
-In Michigan, between 2013 and 2015, the state let a computer decide who had committed unemployment fraud. No person reviewed a verdict before the state began collecting on it. The machine accused tens of thousands of people. It took their tax refunds. It garnished their wages. When the state went back through more than twenty-two thousand of those verdicts, it could not stand behind nine in ten. There was no villain at a console. There was a rule, and a scale, and nobody state-side standing where the rule landed.
+In Michigan, between 2013 and 2015, the state let a computer decide who had committed unemployment fraud. No person reviewed a verdict before the state began collecting on it. The machine accused tens of thousands of people. It took their tax refunds. It garnished their wages. When the state went back through more than twenty-two thousand of those verdicts, it could not stand behind nine in ten. There was no villain at a console. There was a rule, and a scale, and nobody on the state's side standing where the rule landed.
 
 Every one of those people remembers the letter. None of them remember the thousand times a system like it quietly worked. Correct calls elsewhere do not repair the person this call harmed. An enforcement error gives the attacker the one thing erosion never does, a moment to point to.
 
