@@ -122,4 +122,4 @@ That is a different kind of work. It has a name in this valley that is centuries
 
 ---
 
-*This essay joins* ***Different, and Held**, a collection in progress. Previous:* [The Terrain That Made You](https://chrisperkins505.medium.com/the-terrain-that-made-you-32cbd7b228df?source=friends_link&sk=8db0a35bea11c7e83b2135e512e2b8af)*. Next:* The Ninth Principle*.*
+*This essay joins* ***Different, and Held**, a collection in progress. Previous:* [The Terrain That Made You](https://chrisperkins505.medium.com/the-terrain-that-made-you-32cbd7b228df?source=friends_link&sk=8db0a35bea11c7e83b2135e512e2b8af)*. Next:* [The Ninth Principle](https://chrisperkins505.medium.com/the-ninth-principle-d5ab7cae2dc3?source=friends_link&sk=3284e409a74204a661fe6c2c0b167e5e)*.*

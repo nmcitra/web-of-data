@@ -1,6 +1,6 @@
 # Index
 
-Newest first. 136 essays placed; the catalogue in `articles.ts` is the target set.
+Newest first. 137 essays placed; the catalogue in `articles.ts` is the target set.
 
 ## Forthcoming (committed, not yet published)
 
@@ -20,6 +20,7 @@ Registered because the author is committed to these; dirs are `forthcoming-<slug
 
 | date | essay | first published |
 |---|---|---|
+| 2026-10-26 | [The Ninth Principle](essays/2026-10-26-the-ninth-principle/) — *On repair that runs on a calendar, not a complaint* | [Medium](https://chrisperkins505.medium.com/the-ninth-principle-d5ab7cae2dc3?source=friends_link&sk=3284e409a74204a661fe6c2c0b167e5e) |
 | 2026-10-23 | [Put a Person There](essays/2026-10-23-put-a-person-there/) — *On what a defense is allowed to cost the people it is for* | [Medium](https://chrisperkins505.medium.com/put-a-person-there-dc30355c3e95?source=friends_link&sk=435faa0f7851a60055c2d886260004be) |
 | 2026-10-19 | [The Terrain That Made You](essays/2026-10-19-the-terrain-that-made-you/) — *On the river I grew up crossing, and the valley that got in* | [Medium](https://chrisperkins505.medium.com/the-terrain-that-made-you-32cbd7b228df?source=friends_link&sk=8db0a35bea11c7e83b2135e512e2b8af) |
 | 2026-10-17 | [The Geometry and the Terror](essays/2026-10-17-the-geometry-and-the-terror/) — *On shame, survival, and the room between the signal and the act.* | [Medium](https://chrisperkins505.medium.com/the-geometry-and-the-terror-edd2f3a82daa?source=friends_link&sk=81b35d89aac005f10ea91d1a8fb1b844) |

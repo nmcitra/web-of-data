@@ -1,0 +1,49 @@
+title: The Ninth Principle
+subtitle: On repair that runs on a calendar, not a complaint
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+series: Different, and Held
+
+date_published: 2026-10-26
+date_canonical: 2026-10-26
+
+platforms:
+  - name: medium
+    url: "https://chrisperkins505.medium.com/the-ninth-principle-d5ab7cae2dc3?source=friends_link&sk=3284e409a74204a661fe6c2c0b167e5e"
+
+cover:
+  file: images/cover.jpg
+  caption: "Harvest Moon from Truth or Consequences, New Mexico. Photo taken by me on September 26, 2026."
+  credit: Truth or Consequences, New Mexico. Photo by Chris Perkins, September 26, 2026.
+
+tags: [Forgiveness, Repair, Governance, Systems Thinking, AI]
+
+sources:
+  - Crawford, Mayordomo: Chronicle of an Acequia in Northern New Mexico (1988) (the Acequia de la Jara)
+  - New Mexico Acequia Association, presentation to the Legislature (2023) (about seven hundred acequias); "The Art of Mayordomía" (2012) (the Mayordomo Crisis); Medanales, Acequia del Río de Chama (2018)
+  - NMSA 1978 §73-3-4 (the work, the substitute, the price); §73-2-28 (Laws 1965, ch. 145) (acequias as political subdivisions); 1907 water code §44, now §72-5-23 (severance without losing priority); HB 303 (2003, in force 2004), §§72-5-24.1, 73-2-21(E), 73-3-4.1 (refusing a transfer)
+  - Lamadrid and Rivera, eds., Water for the People (UNM Press, 2023); Rivera, Acequia Culture (UNM Press, 1998); New Mexico Senate Memorial 21 (2007) (August 1598)
+  - Rodríguez, Acequia: Water Sharing, Sanctity, and Place (SAR Press, 2006) (the reparto); Martinez y Martinez v. Martinez, Taos County district court, July 31, 1893, modified by Article 8 of the Taos Pueblo water rights settlement agreement (2013) (the Río Lucero)
+  - City of Santa Fe, Water Division memo to the Governing Body, October 31, 2024 (over $30,000 per acre-foot; a staff valuation, not a transaction)
+  - Ostrom, Governing the Commons (1990), Table 3.1, p. 90 (the eight; "still quite speculative"); Nobel Prize in Economic Sciences, 2009
+  - Cox, Arnold and Villamayor Tomás, Ecology and Society 15(4) (2010) (the review of ninety-one studies)
+  - Kinetic Trust Protocol v3.0.0 "Ostrom," proposed, nmcitra/ktp-rfc issue #182; the per-principle requirements, issues #189, #183, #175, #187, #191, #185, #159, #177
+  - KTP-REPAIR, proposed, nmcitra/ktp-rfc PR #172, cited at commit e331c9c (§1, §4.3–4.6, §5.3–5.4, §8)
+  - Open Trust Commons, otcs-registry: OTCS-0004 objection 001, PR #67 (September 25, 2026), src/standing.ts lines 33–34, CHARTER.md §7; Barziankou, NC25OL
+  - Dorsey, "Take My Hand, Precious Lord" (1932) and "(There'll Be) Peace in the Valley (for Me)" (copyright January 25, 1939); Cash, At Folsom Prison (January 13, 1968) and At San Quentin (recorded February 24, 1969)
+  - State of New Mexico ex rel. Balderas v. Meta Platforms, First Judicial District Court, Santa Fe ($25 billion ordered October 21, 2026; Meta has said it will appeal)
+  - Meadows, "Leverage Points: Places to Intervene in a System" (1999), p. 13
+  - Hanmer D'Elía, quoted in Govern the Sand (May 2026); earlier essays on the ninth: The Other Exponential (March 2026), The Cost of Free Maps (April 2026), The Architecture of Presence (September 2026)
+
+notes: >
+  Text checked against the live Medium page on 2026-10-26: 85 blocks, words
+  identical, all 32 links identical and in order; Medium curls the quotes,
+  this copy keeps them straight. Formatting from the live page (the
+  seven-item list, the bold italic pull quote, seven section rules). The
+  live page carries no notes section and no series footer; the sources
+  above come from the author's working notes. Published at 17:53 MDT on
+  2026-10-26, a day ahead of its scheduled slot. Cover archived 2026-10-25
+  from the author's own master, resized to 2000 px with camera metadata
+  stripped. Different, and Held #7 of 14.
+
+license: CC-BY-4.0
