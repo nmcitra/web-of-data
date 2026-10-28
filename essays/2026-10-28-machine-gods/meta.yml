@@ -1,0 +1,44 @@
+title: Machine Gods
+subtitle: On who answers for an agent, and what happens when no one does
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+series: Digital Gravity
+
+date_published: 2026-10-28
+date_canonical: 2026-10-28
+
+platforms:
+  - name: linkedin
+    url: https://www.linkedin.com/pulse/machine-gods-chris-perkins-cfvkc
+
+cover:
+  file: images/cover.jpg
+  caption: "Signal F106 at dusk, Sacramento, California. Photo taken by me on July 22, 2022."
+  credit: Sacramento, California. Photo by Chris Perkins, July 22, 2022.
+
+tags: [Agentic AI, Accountability, Security, Identity, Governance]
+
+sources:
+  - NIST, "NIST Mathematical Proof Supports Transition to Continuous Monitor-and-Update" (June 2026); Vassilev, "Robust AI Security and Alignment: A Sisyphean Endeavor?", arXiv:2512.10100 (v1 2025-12-10, v2 2026-04-07)
+  - Ranum, "The Six Dumbest Ideas in Computer Security" (September 1, 2005), #2 Enumerating Badness
+  - SEC press release 2023-139 (July 26, 2023); Regulation S-K Item 106(c)(1) (board oversight of cybersecurity risk; fiscal years ending on or after December 15, 2023)
+  - NIST Cybersecurity Framework 2.0, GV.RR-01 (first clause quoted)
+  - CIS Controls v8, Safeguard 1.1 (enterprise asset owner) and Safeguard 5.5 (service account inventory, "at a minimum, must contain the department owner, review date, and purpose")
+  - DigiNotar (2011): more than 500 fraudulent certificates, including google.com used against Gmail users in Iran; removed from browser and OS trust; bankrupt September 2011
+  - Kinetic Trust Protocol, the External Root, proposed, nmcitra/ktp-rfc issue #162 (open as of 2026-10-22)
+  - Turan, arXiv:2606.08919 (June 2026), a simulation with assumed reviewer fatigue; not a human study
+  - Elish, "moral crumple zone"
+  - Replit and SaaStr (July 2025): Jason Lemkin's account; eWeek (July 22, 2025); counts are the agent's own message; the rollback worked
+  - Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System" (2008), §4
+  - Earlier essays quoted: Surviving Adolescence (Medium, February 2026), The Meter Is Not a Bound (October 2026), The Short Lease (September 2026), The Historical Society and the Kinetic Society (August 2026)
+
+notes: >
+  Text checked against the live LinkedIn page on 2026-10-28: 79 blocks,
+  words identical, all 16 links identical and in order. Formatting from the
+  live page (three paragraph splits, the bold A ≤ E line, the five questions
+  as a list, the italic sign-off). Cover from the author's own photo,
+  archived from his paste at 2000 px; the file carries no camera or
+  location metadata. Built from the author's hand-written kernel; the draft's
+  working notes and fact checks stay in the private workspace.
+
+license: CC-BY-4.0
