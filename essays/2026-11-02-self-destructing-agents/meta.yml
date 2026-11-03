@@ -1,0 +1,57 @@
+title: Self-Destructing Agents
+subtitle: On writing down an agent's end before it starts
+author: Chris Perkins
+orcid: 0009-0003-5479-4248
+series: Digital Gravity
+
+date_published: 2026-11-02
+date_canonical: 2026-11-02
+
+platforms:
+  - name: linkedin
+    url: https://www.linkedin.com/pulse/self-destructing-agents-chris-perkins-pazhc
+
+cover:
+  file: images/cover.jpg
+  caption: PENDING (Chris)
+  credit: PENDING (Chris)
+  description: Aerial view of snow-dusted farm fields in a patchwork grid, a tree-lined watercourse crossing the upper third.
+
+figures:
+  - file: images/figure-01.png
+    caption: "The Loop. After acting, verify the result and decide whether to revise the aim or meaning."
+    credit: Diagram made for this essay (the Loop, eight steps from aim to learn); master 1600 × 4356, the published page serves it at 550 × 1500.
+
+tags: [Agentic AI, Authorization, Governance, Safety, Kinetic Trust Protocol]
+
+sources:
+  - Spaceflight Now, "Auto-destruct safety system seen as key to ramping up launch tempos" (February 25, 2017); Falcon 9, February 19, 2017, the first flight with the Autonomous Flight Safety System as the primary destruct mechanism; Howard Schindzielorz, 45th Space Wing chief engineer, quoted from an Air Force statement
+  - NASA, "Engineer Manages Certification of Autonomous Flight Termination System Software for Launches at Florida Spaceport" (thirteen shadow-mode flights before operational use in 2017)
+  - NASA, "Considerations for Using Autonomous Flight Termination Software in Crewed Launch Vehicles" (2024)
+  - FAA, Aeronautical Information Manual 6-2-7 (closing a VFR or DVFR flight plan; "they are not closed automatically")
+  - FAA JO 7110.10, Chapter 3, Section 4 (overdue aircraft at 30 minutes past ETA; communications search, INREQ, ALNOT)
+  - METR, OpenAI and Hugging Face incident investigation (August 26, 2026); agent handles KAM1196A and EARLY[big] as published there; "I can't report this externally" is METR's paraphrase, not a transcript quotation
+  - Hugging Face, "Agent intrusion: technical timeline"
+  - National Museum of the US Air Force, Yokosuka MXY7-K1 Ohka trainer fact sheet (landing skid and flaps)
+  - Kinetic Trust Protocol v2.1.0, KTP-Celestial (Extended Trust Proofs, trajectory binding, step degradation 50/75/90; "Recommended: Step Degradation for Class 2+")
+  - Kinetic Trust Protocol v2.1.0, ktp-enforce (Graceful Degradation; cancel scheduled operations that exceed the new tier, notify dependent systems)
+  - Kinetic Trust Protocol v2.1.0, ktp-audit (the Flight Recorder, append-only)
+  - Kinetic Trust Protocol, the hand-back, proposed, nmcitra/ktp-rfc issue #191 (open as of 2026-11-02)
+  - US Department of Justice, District of New Jersey, sentencing release, Roger Duronio (December 13, 2006)
+  - MITRE ATT&CK, Persistence (TA0003)
+  - Earlier essays quoted or linked: The Short Lease (September 2026), Machine Gods (October 2026)
+
+notes: >
+  Text checked against the live LinkedIn page on 2026-11-02: words
+  identical, all 17 links identical and in order (LinkedIn redirect
+  wrappers and tracking parameters removed). Formatting from the live
+  page: section heads, the blockquote, and four groups of lines set with
+  line breaks rather than lists (the three questions, the board's answers,
+  the filed-trajectory fields, the step-down). The Loop figure sits where
+  the page places it, with the page's caption; the archived file is the
+  1600 px master of the same image. Cover archived from the published page
+  at 1279 × 720, the only size served; the file carries no camera or
+  location metadata. The draft's working notes and fact checks stay in the
+  private workspace.
+
+license: CC-BY-4.0

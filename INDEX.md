@@ -1,6 +1,6 @@
 # Index
 
-Newest first. 138 essays placed; the catalogue in `articles.ts` is the target set.
+Newest first. 139 essays placed; the catalogue in `articles.ts` is the target set.
 
 ## Forthcoming (committed, not yet published)
 
@@ -20,6 +20,7 @@ Registered because the author is committed to these; dirs are `forthcoming-<slug
 
 | date | essay | first published |
 |---|---|---|
+| 2026-11-02 | [Self-Destructing Agents](essays/2026-11-02-self-destructing-agents/) — *On writing down an agent's end before it starts* | [Linkedin](https://www.linkedin.com/pulse/self-destructing-agents-chris-perkins-pazhc) |
 | 2026-10-28 | [Machine Gods](essays/2026-10-28-machine-gods/) — *On who answers for an agent, and what happens when no one does* | [Linkedin](https://www.linkedin.com/pulse/machine-gods-chris-perkins-cfvkc) |
 | 2026-10-26 | [The Ninth Principle](essays/2026-10-26-the-ninth-principle/) — *On repair that runs on a calendar, not a complaint* | [Medium](https://chrisperkins505.medium.com/the-ninth-principle-d5ab7cae2dc3?source=friends_link&sk=3284e409a74204a661fe6c2c0b167e5e) |
 | 2026-10-23 | [Put a Person There](essays/2026-10-23-put-a-person-there/) — *On what a defense is allowed to cost the people it is for* | [Medium](https://chrisperkins505.medium.com/put-a-person-there-dc30355c3e95?source=friends_link&sk=435faa0f7851a60055c2d886260004be) |
