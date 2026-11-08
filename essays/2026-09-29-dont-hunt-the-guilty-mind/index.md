@@ -223,4 +223,4 @@ The hard part is that yours is bent too. Damian could read it by morning. Who el
 
 ---
 
-*This essay joins* ***Different, and Held****, a collection in progress. Next:* The Car Is Where You Sleep Now (link when live)*.*
+*This essay joins* ***Different, and Held****, a collection in progress. Next:* The Car Is Where You Sleep Now*.*

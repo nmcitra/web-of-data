@@ -248,4 +248,4 @@ We still are.
 
 ---
 
-*This essay joins* ***Different, and Held****, a collection in progress. Previous:* [The Car Is Where You Sleep Now](https://medium.com/@chrisperkins505/the-car-is-where-you-sleep-now-4c006ded8418)*. Next:* The Terrain That Made You (link when live)*.*
+*This essay joins* ***Different, and Held****, a collection in progress. Previous:* [The Car Is Where You Sleep Now](https://medium.com/@chrisperkins505/the-car-is-where-you-sleep-now-4c006ded8418)*. Next:* The Terrain That Made You*.*
