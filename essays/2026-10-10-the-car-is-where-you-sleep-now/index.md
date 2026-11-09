@@ -214,14 +214,3 @@ And even then, someone is still out past the edge of it, in a car with the trunk
 We build it anyway.
 
 *This essay joins* ***Different, and Held****, a collection in progress. Previous:* [Don't Hunt the Guilty Mind](https://chrisperkins505.medium.com/dont-hunt-the-guilty-mind-c08ee8d09bb8?source=friends_link&sk=e901ee9a59cda0ebcb1885c059fe26f2)*. Next:* The Geometry and the Terror*.*
-
----
-
-*Data (print-defensible; full sourcing for fact-check):*
-
-- *"More than half / 53%" employed while in shelters — Meyer, Wyse et al., linked IRS/Census administrative wage data, 2011–2018 (Journal of Public Economics, 2021). 53% sheltered, 40% unsheltered.*
-- *"Rent, not addiction/mental illness" — Colburn & Aldern, Homelessness Is a Housing Problem (UC Press, 2022): regional variation explained by rents + rental vacancy, not drug use, mental illness, poverty, weather, or welfare generosity.*
-- *"~$34/hr two-bedroom, 4.6× the $7.25 federal minimum (frozen since 2009), no county affordable on minimum wage" — NLIHC, Out of Reach 2025 ($33.63 national 2-BR Housing Wage).*
-- *"~three-quarters of a million on a given night" — 745,652, HUD 2025 AHAR Part 1 (Jan 2025 PIT, released May 2026); second-highest on record. (2024 was the all-time high at 771,480; frame as historic-high-then-slight-dip, not present-tense record.)*
-- *Follow-the-money kept to the defensible frame (frozen wage + undersupply: NLIHC "The Gap" 2026, 7.2M-home shortage for extremely-low-income renters). Corporate-landlord share deliberately omitted as routinely overstated.*
-- *Anchors: armonía (CL208/D126 El Mundo, referenced not re-narrated); care as bounded autonomy (CL459); commensurability without sameness (CL451); repair — hold vs let go (C376/C45, Denali essays D7); the four things (memory project_nayomi-soul-points — sign-off pending); the truck (D5, "How to Build a Dark Matter Detector"). Alt title: "Armonía" (Noema / future reprise).*
