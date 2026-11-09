@@ -12,7 +12,7 @@ platforms:
     url: "https://chrisperkins505.medium.com/the-geometry-and-the-terror-edd2f3a82daa?source=friends_link&sk=81b35d89aac005f10ea91d1a8fb1b844"
 
 cover:
-  file: ""   # pending: cover file to archive (metadata stripped)
+  file: ""
   credit: ""
 
 embeds:
@@ -25,8 +25,6 @@ sources:
 
 notes: >
   Text captured from the approved final v3 (2026-10-17); the Medium page was not
-  fetchable at capture. Family facts verified with the author's brother before
-  rhythm pass; his record is not characterized in print by design. Introduces the
-  installed watcher (graph C1019, CL510) in plain words. Different, and Held #4 of 15.
+  fetchable at capture. Different, and Held #4 of 14.
 
 license: CC-BY-4.0

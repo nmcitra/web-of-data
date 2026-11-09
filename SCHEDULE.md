@@ -10,7 +10,7 @@ The archive keeps two kinds of time: a **release cadence** for the archive as a 
 
 | Release | Date | Focus |
 |---|---|---|
-| next | 2026-11-04 | Back-catalogue by hand (oldest obligations first) + the forthcoming pipeline below, as each clears its gate |
+| next | 2026-11-04 | Back-catalogue by hand (oldest obligations first) |
 
 Between releases the repository still moves — git history carries every change with its date. The November tag is the citable, frozen state.
 
@@ -29,24 +29,9 @@ Every `meta.yml` carries these. Any date that has not happened yet is `null`.
 
 Git history is the fine-grained record — every commit dates a change and shows the diff. These fields are the coarse, human-readable schedule on top of it. Where a field and the git log disagree, the git log wins and the field is corrected.
 
-**Unpublished but committed pieces** live in `forthcoming-<slug>/` with `status: forthcoming | held | planned | scheduled` and `date_published: null`. They rename to `YYYY-MM-DD-slug` on first publication. A `scheduled` piece also carries `date_scheduled`, the announced publication date; it may have no body until it ships.
+**Essays enter this archive when they are published.**
 
 **Series.** An essay in a series carries `series: "<Name> — Part N of M"` (or the bare name when issues are unnumbered, as with Digital Gravity). kinetic-trust-protocol.net/writing reads `series`, `title`, `subtitle`, the dates, `platforms` and `cover` from every meta.yml (scripts/sync-writing-from-wod.mjs in the site repo), so a change here reaches the site on its next sync.
-
----
-
-## Forthcoming pipeline (committed, not yet published)
-
-| status | essay | series | gate before publish |
-|---|---|---|---|
-| **scheduled · 2026-11-04** | The Loom | Different, and Held, Part 8 of 14 | publication on the anniversary |
-| forthcoming | What Was Growing | Mycelium Triptych E1 | author's pass |
-| planned | What It Costs | Mycelium Triptych E2 (with Denali Wilson) | drafting; co-author sign-off |
-| planned | What Remains | Mycelium Triptych E3 | drafting |
-| forthcoming | Softened Ground | Six Seven P2 | author's pass |
-| forthcoming | What We Build | Six Seven P3 | author's pass |
-| **held** | What We Plant | Six Seven P4 | **sensitivity read + upgraded cultural sources** (hózhó, Night Chant, la limpia, susto, Diné belief) — body withheld from the archive until cleared |
-| forthcoming | The Cost of Exploitation Approaching Zero | standalone | author's pass |
 
 ---
 

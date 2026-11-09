@@ -11,11 +11,8 @@ platforms:
   - name: substack
     url: https://kinetictrust.substack.com/p/ten-in-washington-eleven-in-the-desert
 
-companions:
-  - "Digital Gravity issue on the same material (technology only): pending"
-
 sources:
-  - "White House Accord on Super Intelligence, 2026-09-29 (two-page scan): physics-of-intelligence/writing/pacing-frontier/sources/white-house-accord-on-super-intelligence-2026-09-29.md"
+  - "White House Accord on Super Intelligence, 2026-09-29 (two-page document)"
   - "Seating chart: https://truthsocial.com/@realDonaldTrump/posts/117355137125519227"
   - "Press conference: Forbes Breaking News, youtube.com/watch?v=TXnuTCHimoY; C-SPAN/YouTube upload FUb47LGZqcs"
   - "Obama at Colgate, 2026-09-18: youtube.com/watch?v=CYhJPO5__Kc"
@@ -26,12 +23,7 @@ images:
     rights: "Screenshot of a public Truth Social post by the President, reproduced as documentary evidence. Not covered by this repository's CC BY license."
 
 notes: >
-  Text is Chris's final copy as pasted 2026-09-30, the publish day. Links were
-  restored from the final draft (physics-of-intelligence/writing/pacing-frontier/
-  substack-ten-from-that-group-DRAFT-v1-20260929.md), because the paste carries
-  none. NOT yet checked against the live page: the post page needs JavaScript,
-  and the Substack archive API wasn't listing it yet. The subtitle comes from
-  the draft; confirm it shipped. Check the links and subtitle against the live
-  page on the next pass.
+  Text is the author's final copy, 2026-09-30, the publish day; links restored
+  from the final draft.
 
 license: CC-BY-4.0

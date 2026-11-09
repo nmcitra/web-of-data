@@ -37,7 +37,7 @@ when a text changed, and to what.
 
 ## Schedule
 
-Release cadence (annual, November 4th) and per-essay lifecycle dates (`date_published`, `date_revised`, `date_edited`, `date_canonical`) live in [`SCHEDULE.md`](SCHEDULE.md), along with the forthcoming pipeline.
+Release cadence (annual, November 4th) and per-essay lifecycle dates (`date_published`, `date_revised`, `date_edited`, `date_canonical`) live in [`SCHEDULE.md`](SCHEDULE.md).
 
 ## Migration status
 

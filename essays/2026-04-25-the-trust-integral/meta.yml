@@ -11,7 +11,7 @@ platforms:
     url: https://chrisperkins505.medium.com/the-trust-integral-3209442798ad
 
 cover:
-  file: images/cover.jpg           # pending — pull from the published post
+  file: ""
 
 sources:
   - label: Bad is Stronger than Good (negativity asymmetry, 3–5×)
