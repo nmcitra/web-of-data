@@ -1,9 +1,10 @@
 # Index
 
-Newest first. 141 essays placed; the catalogue in `articles.ts` is the target set.
+Newest first. 142 essays placed; the catalogue in `articles.ts` is the target set.
 
 | date | essay | first published |
 |---|---|---|
+| 2026-11-16 | [The Day Got Infinitely Long](essays/2026-11-16-the-day-got-infinitely-long/) — *On machine speed, run backward* | [Medium](https://chrisperkins505.medium.com/the-day-got-infinitely-long-8d468a456997?source=friends_link&sk=54751ea8ffef9473470de8f9fa7e86f3) |
 | 2026-11-11 | [The Borrowed Light](essays/2026-11-11-the-borrowed-light/) — *On the five things the Enlightenment saw by borrowed light* | [Medium](https://chrisperkins505.medium.com/the-borrowed-light-e00563236d9f?source=friends_link&sk=ac68af6bb4f9b27302a315297261e5d3) |
 | 2026-11-04 | [The Loom](essays/2026-11-04-the-loom/) — *On who decides what crosses* | [Medium](https://chrisperkins505.medium.com/the-loom-4e2f56ce7fe4?source=friends_link&sk=ca6e9f0916212c171374733f5502bbcc) |
 | 2026-11-02 | [Self-Destructing Agents](essays/2026-11-02-self-destructing-agents/) — *On writing down an agent's end before it starts* | [Linkedin](https://www.linkedin.com/pulse/self-destructing-agents-chris-perkins-pazhc) |
